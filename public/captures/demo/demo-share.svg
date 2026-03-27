@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 760">
+  <rect width="1280" height="760" rx="42" fill="#08111d"/>
+  <rect x="44" y="44" width="744" height="672" rx="34" fill="#0e1d34" stroke="#244061"/>
+  <text x="86" y="104" fill="#eff6ff" font-family="Arial" font-size="34" font-weight="700">QuickLink + mirroring</text>
+  <rect x="86" y="150" width="660" height="320" rx="30" fill="#11243f"/>
+  <text x="116" y="214" fill="#8fe9ff" font-family="Arial" font-size="24">Shared world lane</text>
+  <path d="M116 290h590M116 358h590M116 426h590M214 180v258M360 180v258M506 180v258M652 180v258" stroke="#18314f" stroke-width="4"/>
+  <path d="M170 430c116-50 210-46 318-154 72-72 118-104 188-128" fill="none" stroke="#58dbff" stroke-width="14" stroke-linecap="round"/>
+  <rect x="86" y="516" width="204" height="70" rx="22" fill="#10233e"/><text x="188" y="560" text-anchor="middle" fill="#8fe9ff" font-family="Arial" font-size="24">Photo</text>
+  <rect x="314" y="516" width="204" height="70" rx="22" fill="#10233e"/><text x="416" y="560" text-anchor="middle" fill="#8fe9ff" font-family="Arial" font-size="24">Track</text>
+  <rect x="542" y="516" width="204" height="70" rx="22" fill="#10233e"/><text x="644" y="560" text-anchor="middle" fill="#8fe9ff" font-family="Arial" font-size="24">Mirror Feed</text>
+  <rect x="826" y="44" width="410" height="318" rx="30" fill="#0f1c31"/>
+  <text x="860" y="108" fill="#8fe9ff" font-family="Arial" font-size="24">Nearby players</text>
+  <rect x="860" y="146" width="342" height="56" rx="18" fill="#15395c"/>
+  <rect x="860" y="226" width="260" height="42" rx="14" fill="#233854"/>
+  <rect x="826" y="398" width="410" height="318" rx="30" fill="#0f1c31"/>
+  <text x="860" y="462" fill="#8fe9ff" font-family="Arial" font-size="24">Proof moments</text>
+  <rect x="860" y="504" width="342" height="150" rx="28" fill="#152b47"/>
+</svg>

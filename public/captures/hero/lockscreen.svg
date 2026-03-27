@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 1240">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#11203d"/>
+      <stop offset="100%" stop-color="#08111e"/>
+    </linearGradient>
+  </defs>
+  <rect width="620" height="1240" rx="54" fill="url(#bg)"/>
+  <circle cx="510" cy="180" r="220" fill="#1fb1ff" opacity=".14"/>
+  <text x="310" y="170" text-anchor="middle" fill="#9ddfff" font-family="Arial" font-size="42">FRI 27</text>
+  <text x="310" y="320" text-anchor="middle" fill="#f3f8ff" font-family="Arial" font-size="164" font-weight="700">21:37</text>
+  <text x="310" y="392" text-anchor="middle" fill="#98a8c5" font-family="Arial" font-size="34">BioScan secured • 3 alerts</text>
+  <rect x="72" y="620" width="476" height="124" rx="30" fill="#0e1d35" stroke="#2f496c"/>
+  <text x="104" y="672" fill="#8fe9ff" font-family="Arial" font-size="28">WhisApp</text>
+  <text x="104" y="714" fill="#eef4ff" font-family="Arial" font-size="36" font-weight="700">Location request from Mason</text>
+  <rect x="72" y="776" width="476" height="108" rx="30" fill="#0b1628" stroke="#233854"/>
+  <text x="104" y="828" fill="#89eeff" font-family="Arial" font-size="28">V Store</text>
+  <text x="104" y="868" fill="#d8e4f6" font-family="Arial" font-size="34">Gallery update ready</text>
+</svg>

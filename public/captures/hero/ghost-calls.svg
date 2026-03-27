@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 1240">
+  <rect width="620" height="1240" rx="54" fill="#091220"/>
+  <rect x="62" y="96" width="496" height="180" rx="40" fill="#11243f"/>
+  <text x="96" y="162" fill="#8fe9ff" font-family="Arial" font-size="24">Calls</text>
+  <text x="96" y="226" fill="#eef4ff" font-family="Arial" font-size="44">Mia</text>
+  <text x="520" y="226" text-anchor="end" fill="#98a8c5" font-family="Arial" font-size="28">Incoming</text>
+  <rect x="62" y="320" width="496" height="150" rx="34" fill="#0c1a30"/>
+  <text x="96" y="408" fill="#eef4ff" font-family="Arial" font-size="36">Unit 12</text>
+  <text x="520" y="408" text-anchor="end" fill="#98a8c5" font-family="Arial" font-size="26">Voice note</text>
+  <rect x="62" y="500" width="496" height="150" rx="34" fill="#0c1a30"/>
+  <text x="96" y="588" fill="#eef4ff" font-family="Arial" font-size="36">Dispatch</text>
+  <text x="520" y="588" text-anchor="end" fill="#98a8c5" font-family="Arial" font-size="26">Location sent</text>
+</svg>

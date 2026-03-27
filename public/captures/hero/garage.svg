@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 1240">
+  <rect width="620" height="1240" rx="54" fill="#08111d"/>
+  <text x="60" y="120" fill="#eff6ff" font-family="Arial" font-size="48" font-weight="700">Garage</text>
+  <text x="560" y="120" text-anchor="end" fill="#8fdfff" font-family="Arial" font-size="24">3 active vehicles</text>
+  <rect x="56" y="200" width="508" height="170" rx="30" fill="#0f1d33" stroke="#26466a"/>
+  <text x="96" y="276" fill="#eef4ff" font-family="Arial" font-size="42">Buffalo STX</text>
+  <text x="96" y="326" fill="#98a8c5" font-family="Arial" font-size="28">Personal vehicle</text>
+  <text x="520" y="300" text-anchor="end" fill="#89eeff" font-family="Arial" font-size="34" font-weight="700">Stored</text>
+  <rect x="56" y="404" width="508" height="170" rx="30" fill="#0f1d33" stroke="#26466a"/>
+  <text x="96" y="480" fill="#eef4ff" font-family="Arial" font-size="42">Scout Cruiser</text>
+  <text x="96" y="530" fill="#98a8c5" font-family="Arial" font-size="28">Department linked</text>
+  <text x="520" y="504" text-anchor="end" fill="#9ddfff" font-family="Arial" font-size="34" font-weight="700">Out</text>
+  <rect x="56" y="608" width="508" height="170" rx="30" fill="#0f1d33" stroke="#26466a"/>
+  <text x="96" y="684" fill="#eef4ff" font-family="Arial" font-size="42">Bati 801</text>
+  <text x="96" y="734" fill="#98a8c5" font-family="Arial" font-size="28">Ready for dispatch</text>
+  <text x="520" y="708" text-anchor="end" fill="#9ddfff" font-family="Arial" font-size="34" font-weight="700">Ready</text>
+</svg>

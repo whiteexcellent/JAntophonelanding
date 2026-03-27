@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 1240">
+  <rect width="620" height="1240" rx="54" fill="#08111f"/>
+  <rect x="56" y="112" width="508" height="308" rx="42" fill="url(#card)"/>
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2a66ff"/>
+      <stop offset="100%" stop-color="#59dfff"/>
+    </linearGradient>
+  </defs>
+  <text x="96" y="176" fill="#eff6ff" font-family="Arial" font-size="28">FLEECA BLACK</text>
+  <text x="96" y="288" fill="#07111f" font-family="Arial" font-size="92" font-weight="700">$128,450</text>
+  <text x="96" y="344" fill="#0f233f" font-family="Arial" font-size="30">Main Character Account</text>
+  <rect x="56" y="494" width="508" height="150" rx="30" fill="#0e1b31" stroke="#244061"/>
+  <text x="92" y="568" fill="#98a8c5" font-family="Arial" font-size="28">Garage deposit</text>
+  <text x="528" y="568" text-anchor="end" fill="#eef4ff" font-family="Arial" font-size="42" font-weight="700">-$800</text>
+  <rect x="56" y="674" width="508" height="150" rx="30" fill="#0e1b31" stroke="#244061"/>
+  <text x="92" y="748" fill="#98a8c5" font-family="Arial" font-size="28">EMS payment</text>
+  <text x="528" y="748" text-anchor="end" fill="#eef4ff" font-family="Arial" font-size="42" font-weight="700">+$2,400</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 1240">
+  <rect width="620" height="1240" rx="54" fill="#07111e"/>
+  <rect x="58" y="96" width="504" height="80" rx="24" fill="#11203a"/>
+  <text x="88" y="146" fill="#8fe9ff" font-family="Arial" font-size="26">Mirroring</text>
+  <rect x="58" y="222" width="504" height="520" rx="42" fill="#10203a" stroke="#2d4f75"/>
+  <rect x="102" y="278" width="416" height="320" rx="28" fill="#152b47"/>
+  <rect x="156" y="336" width="308" height="36" rx="18" fill="#8fe9ff" opacity=".22"/>
+  <rect x="156" y="400" width="240" height="24" rx="12" fill="#d8e4f6" opacity=".28"/>
+  <rect x="156" y="450" width="280" height="24" rx="12" fill="#d8e4f6" opacity=".18"/>
+  <text x="156" y="534" fill="#f3f8ff" font-family="Arial" font-size="44" font-weight="700">Vehicle dash cam feed</text>
+  <text x="156" y="582" fill="#9ddfff" font-family="Arial" font-size="26">Shared to nearby players with QuickLink</text>
+  <rect x="58" y="806" width="240" height="188" rx="30" fill="#0c1a2e" stroke="#244061"/>
+  <rect x="322" y="806" width="240" height="188" rx="30" fill="#0c1a2e" stroke="#244061"/>
+  <text x="88" y="878" fill="#98a8c5" font-family="Arial" font-size="24">Sync</text>
+  <text x="88" y="936" fill="#eef4ff" font-family="Arial" font-size="48" font-weight="700">Realtime</text>
+  <text x="352" y="878" fill="#98a8c5" font-family="Arial" font-size="24">Nearby</text>
+  <text x="352" y="936" fill="#eef4ff" font-family="Arial" font-size="48" font-weight="700">5 players</text>
+</svg>

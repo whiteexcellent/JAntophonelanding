@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 1240">
+  <rect width="620" height="1240" rx="54" fill="#08111f"/>
+  <rect x="64" y="90" width="492" height="320" rx="42" fill="#0f1c31"/>
+  <path d="M92 180h436M92 250h436M92 320h436M160 120v260M292 120v260M424 120v260" stroke="#18314f" stroke-width="4" opacity=".85"/>
+  <path d="M156 320c86-46 132-58 210-138 72-74 106-82 158-92" fill="none" stroke="#58dbff" stroke-width="12" stroke-linecap="round"/>
+  <rect x="64" y="460" width="150" height="66" rx="20" fill="#10233e"/><text x="139" y="502" text-anchor="middle" fill="#8fe9ff" font-family="Arial" font-size="24">Photo</text>
+  <rect x="234" y="460" width="150" height="66" rx="20" fill="#10233e"/><text x="309" y="502" text-anchor="middle" fill="#8fe9ff" font-family="Arial" font-size="24">Track</text>
+  <rect x="404" y="460" width="150" height="66" rx="20" fill="#10233e"/><text x="479" y="502" text-anchor="middle" fill="#8fe9ff" font-family="Arial" font-size="24">Route</text>
+  <rect x="64" y="590" width="492" height="150" rx="30" fill="#0c1a2f"/>
+  <text x="96" y="674" fill="#eef4ff" font-family="Arial" font-size="34">Mirror Feed</text>
+  <text x="520" y="674" text-anchor="end" fill="#98a8c5" font-family="Arial" font-size="24">Nearby</text>
+  <rect x="64" y="774" width="492" height="150" rx="30" fill="#0c1a2f"/>
+  <text x="96" y="858" fill="#eef4ff" font-family="Arial" font-size="34">Media Drop</text>
+  <text x="520" y="858" text-anchor="end" fill="#98a8c5" font-family="Arial" font-size="24">Sent</text>
+</svg>

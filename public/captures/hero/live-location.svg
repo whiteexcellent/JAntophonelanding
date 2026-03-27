@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 1240">
+  <rect width="620" height="1240" rx="54" fill="#07111d"/>
+  <rect x="48" y="70" width="524" height="140" rx="34" fill="#0d1c33" stroke="#26466a"/>
+  <text x="92" y="132" fill="#eef4ff" font-family="Arial" font-size="42" font-weight="700">Downtown route</text>
+  <text x="92" y="182" fill="#8fdfff" font-family="Arial" font-size="28">ETA 02:14 • shared with 5 players</text>
+  <g opacity=".85">
+    <path d="M0 320h620M0 480h620M0 640h620M0 800h620M0 960h620" stroke="#17304d" stroke-width="3"/>
+    <path d="M120 250v920M250 250v920M380 250v920M510 250v920" stroke="#17304d" stroke-width="3"/>
+  </g>
+  <path d="M166 716c96-44 170-38 244-132 44-56 78-106 134-124" fill="none" stroke="#58dbff" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="164" cy="718" r="18" fill="#58dbff"/>
+  <circle cx="544" cy="452" r="18" fill="#58dbff"/>
+  <circle cx="378" cy="564" r="14" fill="#9df1ff"/>
+</svg>

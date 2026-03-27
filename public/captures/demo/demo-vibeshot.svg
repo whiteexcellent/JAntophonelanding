@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 760">
+  <rect width="1280" height="760" rx="42" fill="#08111d"/>
+  <rect x="44" y="44" width="760" height="672" rx="34" fill="#0e1d34" stroke="#244061"/>
+  <text x="86" y="104" fill="#eff6ff" font-family="Arial" font-size="34" font-weight="700">Vibeshot social layer</text>
+  <rect x="86" y="144" width="676" height="280" rx="30" fill="#172c48"/>
+  <rect x="116" y="184" width="180" height="180" rx="24" fill="#274d7b"/>
+  <rect x="330" y="184" width="390" height="40" rx="14" fill="#d8e4f6" opacity=".2"/>
+  <rect x="330" y="244" width="340" height="24" rx="10" fill="#d8e4f6" opacity=".14"/>
+  <rect x="330" y="292" width="300" height="24" rx="10" fill="#d8e4f6" opacity=".14"/>
+  <rect x="86" y="462" width="320" height="214" rx="28" fill="#11243f"/>
+  <rect x="442" y="462" width="320" height="214" rx="28" fill="#11243f"/>
+  <rect x="838" y="44" width="398" height="320" rx="30" fill="#0f1c31"/>
+  <text x="872" y="108" fill="#8fe9ff" font-family="Arial" font-size="24">Profiles and identity</text>
+  <rect x="872" y="150" width="330" height="84" rx="22" fill="#15395c"/>
+  <rect x="838" y="398" width="398" height="318" rx="30" fill="#0f1c31"/>
+  <text x="872" y="462" fill="#8fe9ff" font-family="Arial" font-size="24">Comments • reactions • stories</text>
+  <rect x="872" y="510" width="330" height="40" rx="14" fill="#233854"/>
+  <rect x="872" y="570" width="280" height="40" rx="14" fill="#233854"/>
+</svg>
