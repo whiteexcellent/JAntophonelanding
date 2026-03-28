@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="bank-bg" x1="34" y1="24" x2="222" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EDBFF" />
+      <stop offset="0.44" stop-color="#2A89FF" />
+      <stop offset="1" stop-color="#0F3A9A" />
+    </linearGradient>
+    <radialGradient id="bank-sheen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(84 62) rotate(46) scale(112 104)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.44" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="256" height="256" rx="64" fill="#091325" />
+  <rect x="24" y="24" width="208" height="208" rx="56" fill="url(#bank-bg)" />
+  <rect x="24" y="24" width="208" height="208" rx="56" fill="url(#bank-sheen)" />
+  <rect x="48" y="66" width="160" height="124" rx="28" fill="rgba(255,255,255,0.12)" stroke="rgba(255,255,255,0.22)" />
+  <circle cx="176" cy="104" r="16" fill="rgba(255,255,255,0.28)" />
+  <circle cx="160" cy="104" r="16" fill="rgba(255,255,255,0.18)" />
+  <rect x="64" y="94" width="48" height="34" rx="10" fill="white" fill-opacity="0.95" />
+  <rect x="64" y="144" width="110" height="10" rx="5" fill="white" fill-opacity="0.88" />
+  <rect x="64" y="162" width="78" height="8" rx="4" fill="white" fill-opacity="0.56" />
+</svg>

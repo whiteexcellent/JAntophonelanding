@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="vibeshot-bg" x1="20" y1="16" x2="232" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC46E" />
+      <stop offset="0.28" stop-color="#FF9B2F" />
+      <stop offset="0.62" stop-color="#FF7A14" />
+      <stop offset="1" stop-color="#E85A08" />
+    </linearGradient>
+    <linearGradient id="vibeshot-mark" x1="72" y1="70" x2="186" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" />
+      <stop offset="1" stop-color="#FFF8F1" />
+    </linearGradient>
+    <linearGradient id="vibeshot-dot" x1="166" y1="78" x2="178" y2="92" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" />
+      <stop offset="1" stop-color="#FFF3E5" />
+    </linearGradient>
+    <filter id="vibeshot-mark-shadow" x="46" y="28" width="164" height="184" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#F1691E" flood-opacity="0.22" />
+    </filter>
+    <filter id="vibeshot-shadow" x="0" y="0" width="256" height="256" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#B44710" flood-opacity="0.18" />
+    </filter>
+  </defs>
+
+  <rect width="256" height="256" rx="64" fill="#F2F4F8" />
+  <g filter="url(#vibeshot-shadow)">
+    <rect x="10" y="10" width="236" height="236" rx="58" fill="url(#vibeshot-bg)" />
+    <rect x="10.5" y="10.5" width="235" height="235" rx="57.5" stroke="rgba(255,255,255,0.5)" />
+
+    <g filter="url(#vibeshot-mark-shadow)">
+      <rect x="58" y="58" width="140" height="140" rx="42" fill="none" stroke="url(#vibeshot-mark)" stroke-width="11" />
+      <circle cx="128" cy="128" r="34" fill="none" stroke="url(#vibeshot-mark)" stroke-width="11" />
+      <circle cx="172" cy="84" r="8" fill="url(#vibeshot-dot)" />
+      <path d="M88 58L106 40H150L168 58" stroke="url(#vibeshot-mark)" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" />
+    </g>
+    <path d="M74 182C92 194 116 200 144 200C165 200 184 196 198 186" stroke="rgba(255,145,34,0.18)" stroke-width="5" stroke-linecap="round" />
+  </g>
+</svg>

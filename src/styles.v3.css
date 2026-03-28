@@ -20,11 +20,15 @@ body::after,
   display: none;
 }
 
-body {
+.dark body {
   background:
     radial-gradient(circle at 14% 0%, rgba(105, 244, 255, 0.1), transparent 22%),
     radial-gradient(circle at 84% 8%, rgba(122, 118, 255, 0.08), transparent 24%),
     linear-gradient(180deg, #02050c 0%, #040917 24%, #050b16 54%, #03060f 100%);
+}
+
+body {
+  background: var(--bg);
 }
 
 .page-shell {
@@ -605,15 +609,12 @@ main,
   min-height: 780px;
 }
 
-.hero-device-wrap,
-.ghost-phone-wrap {
+.hero-device-wrap {
   position: relative;
   width: 100%;
 }
 
-.hero-device,
-.ghost-left,
-.ghost-right {
+.hero-device {
   animation: none;
   transform: none;
 }
@@ -622,13 +623,8 @@ main,
   min-height: 720px;
 }
 
-.ghost-phone-wrap .ghost-device {
-  min-height: 600px;
-}
-
 .device-shell,
 .hero-device,
-.ghost-device,
 .showcase-device,
 .custom-device {
   border-color: rgba(148, 212, 255, 0.16);
@@ -640,8 +636,7 @@ main,
 
 .screen-carousel,
 .showcase-screen,
-.custom-screen,
-.ghost-screen {
+.custom-screen {
   background:
     radial-gradient(circle at top center, rgba(122, 226, 255, 0.14), transparent 42%),
     linear-gradient(180deg, #08101e 0%, #060b15 100%);
@@ -656,7 +651,6 @@ main,
 .interactive-pill,
 .feature-card-meta span,
 .showcase-chip-row span,
-.ghost-phone-chip-row span,
 .feature-active-caption strong + p {
   letter-spacing: 0;
 }
@@ -676,8 +670,7 @@ main,
 }
 
 .hero-slide-overlay,
-.showcase-overlay,
-.ghost-phone-overlay {
+.showcase-overlay {
   border-color: rgba(155, 220, 255, 0.12);
   background: rgba(7, 14, 27, 0.68);
   backdrop-filter: blur(18px) saturate(150%);
@@ -1163,10 +1156,6 @@ main,
     min-height: auto;
   }
 
-  .ghost-phone-wrap {
-    display: none;
-  }
-
   .hero-device {
     min-height: 610px;
   }
@@ -1198,7 +1187,6 @@ main,
   .background-grid,
   .background-rays,
   .background-beam,
-  .ghost-phone-wrap,
   .hero-device-wrap {
     animation: none !important;
   }
@@ -1505,8 +1493,7 @@ main,
 .demo-scene-meta span,
 .showcase-ui-kicker,
 .custom-widget-card span,
-.custom-app-card small,
-.ghost-metric-card span {
+.custom-app-card small {
   display: inline-flex;
   align-items: center;
   min-height: 28px;
@@ -1575,9 +1562,7 @@ main,
 
 .showcase-rich-screen strong,
 .custom-widget-card strong,
-.custom-app-card strong,
-.ghost-summary-card strong,
-.ghost-metric-card strong {
+.custom-app-card strong {
   letter-spacing: -0.03em;
 }
 
@@ -1595,9 +1580,7 @@ main,
 .social-profile-card,
 .social-card,
 .custom-widget-card,
-.custom-app-card,
-.ghost-summary-card,
-.ghost-metric-card {
+.custom-app-card {
   border: 1px solid rgba(155, 220, 255, 0.12);
   background:
     linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.02)),
@@ -1609,8 +1592,7 @@ main,
 .chat-preview-card,
 .ownership-summary-card,
 .world-stat-card,
-.social-profile-card,
-.ghost-summary-card {
+.social-profile-card {
   display: grid;
   gap: 14px;
   padding: 18px;
@@ -1647,8 +1629,7 @@ main,
 .communication-panel,
 .ownership-cell,
 .world-panel,
-.custom-widget-card,
-.ghost-metric-card {
+.custom-widget-card {
   display: grid;
   gap: 8px;
   padding: 16px;
@@ -1681,7 +1662,6 @@ main,
 
 .world-stat-card p,
 .social-profile-card p,
-.ghost-summary-card p,
 .wallpaper-preview p {
   margin: 0;
   color: var(--muted);
@@ -1796,79 +1776,6 @@ main,
   background: linear-gradient(135deg, rgba(76, 171, 255, 0.32), rgba(110, 224, 255, 0.12));
   color: var(--text);
   font-weight: 700;
-}
-
-.ghost-screen {
-  padding: 14px;
-}
-
-.ghost-screen-layer {
-  display: grid;
-  gap: 14px;
-  height: 100%;
-}
-
-.ghost-preview-card {
-  position: relative;
-  overflow: hidden;
-  min-height: 210px;
-  border-radius: 28px;
-  border: 1px solid rgba(155, 220, 255, 0.12);
-  background:
-    radial-gradient(circle at 20% 16%, rgba(255, 255, 255, 0.08), transparent 22%),
-    linear-gradient(180deg, #0d172b 0%, #08111f 100%);
-}
-
-.ghost-capture {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  opacity: 0.88;
-}
-
-.ghost-preview-glow {
-  position: absolute;
-  inset: auto 18px 18px 18px;
-  height: 56px;
-  border-radius: 18px;
-  background: linear-gradient(180deg, transparent, rgba(4, 9, 17, 0.78));
-}
-
-.ghost-info-rack {
-  display: grid;
-  gap: 12px;
-}
-
-.ghost-summary-card p {
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-}
-
-.ghost-metric-row {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 12px;
-}
-
-.ghost-phone-chip-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-}
-
-.ghost-phone-chip-row span {
-  min-height: 34px;
-  padding: 0 14px;
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.04);
-}
-
-.ghost-left .ghost-device,
-.ghost-right .ghost-device,
-.ghost-phone-wrap .ghost-device {
-  min-height: 560px;
 }
 
 @keyframes v3-grid-drift-soft {
@@ -1994,357 +1901,7 @@ main,
   }
 }
 
-.signal-globe-scene {
-  position: absolute;
-  inset: 0;
-  overflow: hidden;
-  pointer-events: none;
-}
-
-.signal-globe-base {
-  inset: 0;
-  opacity: 0.68;
-}
-
-.signal-globe-wrap {
-  position: absolute;
-  top: 2%;
-  right: -4%;
-  width: min(58vw, 920px);
-  aspect-ratio: 1;
-  opacity: 0.94;
-  z-index: 2;
-}
-
-.magic-globe,
-.signal-globe-canvas-wrap {
-  position: absolute;
-  inset: 0;
-}
-
-.magic-globe-canvas {
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-  transition: opacity 500ms ease;
-  contain: layout paint size;
-}
-
-.signal-globe-halo {
-  position: absolute;
-  inset: 18% 16%;
-  border-radius: 50%;
-  background: radial-gradient(circle, rgba(77, 179, 255, 0.24), rgba(4, 9, 17, 0) 62%);
-  filter: blur(26px);
-  z-index: 0;
-}
-
-.signal-globe-orbit {
-  position: absolute;
-  border-radius: 50%;
-  border: 1px solid rgba(144, 214, 255, 0.12);
-  z-index: 1;
-}
-
-.signal-globe-orbit-a {
-  inset: 10%;
-}
-
-.signal-globe-orbit-b {
-  inset: 2%;
-  opacity: 0.48;
-}
-
-.signal-globe-lines {
-  position: absolute;
-  inset: 0;
-  overflow: hidden;
-  z-index: 1;
-}
-
-.signal-globe-wave {
-  --wave-rotate: 0deg;
-  position: absolute;
-  top: 16%;
-  bottom: 18%;
-  width: min(56vw, 960px);
-  border-radius: 999px;
-  background:
-    linear-gradient(180deg, transparent 0%, rgba(130, 206, 255, 0.08) 30%, rgba(130, 206, 255, 0.12) 52%, transparent 100%);
-  filter: blur(18px);
-  mask-image: linear-gradient(90deg, transparent, rgba(0, 0, 0, 0.92) 30%, rgba(0, 0, 0, 0.92) 70%, transparent);
-  animation: v3-frequency-shift 16s linear infinite;
-  mix-blend-mode: screen;
-}
-
-.signal-globe-wave::before,
-.signal-globe-wave::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: inherit;
-}
-
-.signal-globe-wave::before {
-  background:
-    repeating-linear-gradient(
-      180deg,
-      rgba(154, 225, 255, 0.18) 0 2px,
-      transparent 2px 16px
-    );
-  opacity: 0.56;
-}
-
-.signal-globe-wave::after {
-  background: linear-gradient(90deg, transparent, rgba(82, 214, 255, 0.22), transparent);
-  filter: blur(22px);
-}
-
-.signal-globe-frequency {
-  position: absolute;
-  inset: 10% 14%;
-  border-radius: 50%;
-  pointer-events: none;
-  mix-blend-mode: screen;
-  z-index: 3;
-}
-
-.signal-globe-frequency::before,
-.signal-globe-frequency::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: inherit;
-}
-
-.signal-globe-frequency-a {
-  background:
-    linear-gradient(90deg, transparent, rgba(104, 236, 255, 0.18), transparent),
-    repeating-linear-gradient(90deg, transparent 0 18px, rgba(104, 236, 255, 0.16) 18px 20px, transparent 20px 34px);
-  opacity: 0.62;
-  transform: rotate(-10deg) translateY(-1%);
-  mask-image: radial-gradient(circle at center, transparent 14%, rgba(0, 0, 0, 0.92) 34%, rgba(0, 0, 0, 0.92) 66%, transparent 86%);
-  animation: v3-frequency-glide 12s linear infinite;
-}
-
-.signal-globe-frequency-a::before {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.04), transparent 46%, rgba(255, 255, 255, 0.04));
-}
-
-.signal-globe-frequency-b {
-  inset: 18% 10%;
-  background:
-    linear-gradient(90deg, transparent, rgba(168, 132, 255, 0.16), transparent),
-    repeating-linear-gradient(90deg, transparent 0 24px, rgba(168, 132, 255, 0.14) 24px 26px, transparent 26px 46px);
-  opacity: 0.46;
-  transform: rotate(7deg);
-  mask-image: radial-gradient(circle at center, transparent 18%, rgba(0, 0, 0, 0.92) 38%, rgba(0, 0, 0, 0.92) 62%, transparent 84%);
-  animation: v3-frequency-glide-alt 14s linear infinite;
-}
-
-.signal-globe-frequency-b::before {
-  background: radial-gradient(circle, rgba(168, 132, 255, 0.16), transparent 62%);
-}
-
-.signal-globe-frequency-c {
-  inset: 24% 20%;
-  background:
-    linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.08), transparent),
-    repeating-linear-gradient(90deg, transparent 0 28px, rgba(255, 255, 255, 0.1) 28px 29px, transparent 29px 54px);
-  opacity: 0.34;
-  transform: rotate(-18deg);
-  mask-image: radial-gradient(circle at center, transparent 22%, rgba(0, 0, 0, 0.84) 42%, rgba(0, 0, 0, 0.84) 58%, transparent 82%);
-  animation: v3-frequency-glide-slow 20s linear infinite;
-}
-
-.signal-globe-frequency-c::before {
-  background: linear-gradient(180deg, rgba(94, 234, 255, 0.08), transparent 56%);
-}
-
-.signal-globe-wave-a {
-  --wave-rotate: -9deg;
-  right: 8%;
-  opacity: 0.66;
-  animation-delay: -3s;
-}
-
-.signal-globe-wave-b {
-  --wave-rotate: 4deg;
-  right: 3%;
-  opacity: 0.74;
-}
-
-.signal-globe-wave-c {
-  --wave-rotate: 13deg;
-  right: 12%;
-  opacity: 0.52;
-  animation-delay: -7s;
-}
-
-.signal-globe-wave-d {
-  --wave-rotate: -18deg;
-  right: -2%;
-  opacity: 0.38;
-  animation-delay: -11s;
-}
-
-@keyframes v3-frequency-shift {
-  0% {
-    transform: translate3d(0, 0, 0) rotate(var(--wave-rotate));
-  }
-  100% {
-    transform: translate3d(-46px, 0, 0) rotate(var(--wave-rotate));
-  }
-}
-
-@keyframes v3-frequency-glide {
-  0% {
-    transform: rotate(-10deg) translate3d(-2%, -1%, 0);
-  }
-  50% {
-    transform: rotate(-10deg) translate3d(2%, 1%, 0);
-  }
-  100% {
-    transform: rotate(-10deg) translate3d(-2%, -1%, 0);
-  }
-}
-
-@keyframes v3-frequency-glide-alt {
-  0% {
-    transform: rotate(7deg) translate3d(2%, 0, 0);
-  }
-  50% {
-    transform: rotate(7deg) translate3d(-2%, 1%, 0);
-  }
-  100% {
-    transform: rotate(7deg) translate3d(2%, 0, 0);
-  }
-}
-
-@keyframes v3-frequency-glide-slow {
-  0% {
-    transform: rotate(-18deg) translate3d(0, 0, 0);
-  }
-  50% {
-    transform: rotate(-18deg) translate3d(1.5%, -1%, 0);
-  }
-  100% {
-    transform: rotate(-18deg) translate3d(0, 0, 0);
-  }
-}
-
-.magic-button {
-  --pointer-x: 50%;
-  --pointer-y: 50%;
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 52px;
-  padding: 0 22px;
-  border-radius: 999px;
-  border: 1px solid rgba(165, 210, 255, 0.14);
-  overflow: hidden;
-  isolation: isolate;
-  text-decoration: none;
-  transition:
-    transform var(--motion-fast),
-    border-color var(--motion-fast),
-    box-shadow var(--motion-fast),
-    filter var(--motion-fast);
-}
-
-.magic-button::before,
-.magic-button::after,
-.magic-button-core,
-.magic-button-sheen,
-.magic-button-ring {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: inherit;
-  pointer-events: none;
-}
-
-.magic-button-core {
-  background:
-    radial-gradient(120px circle at var(--pointer-x) var(--pointer-y), rgba(255, 255, 255, 0.16), transparent 48%),
-    linear-gradient(180deg, rgba(255, 255, 255, 0.08), transparent 45%);
-  opacity: 0.82;
-}
-
-.magic-button-label {
-  position: relative;
-  z-index: 2;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-}
-
-.magic-button:hover,
-.magic-button:focus-visible {
-  transform: translateY(-1px) scale(1.01);
-}
-
-.magic-button:active {
-  transform: translateY(0) scale(0.985);
-}
-
-.magic-button:focus-visible {
-  outline: none;
-}
-
-.shimmer-button {
-  color: #07101d;
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.44), rgba(255, 255, 255, 0) 40%),
-    linear-gradient(135deg, #a7eeff 0%, #7bcfff 44%, #69a7ff 100%);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.34),
-    inset 0 -1px 0 rgba(32, 85, 150, 0.22),
-    0 18px 30px rgba(55, 136, 255, 0.22);
-}
-
-.shimmer-button::before {
-  background:
-    linear-gradient(120deg, transparent 28%, rgba(255, 255, 255, 0.56) 50%, transparent 72%),
-    radial-gradient(140px circle at var(--pointer-x) var(--pointer-y), rgba(255, 255, 255, 0.3), transparent 44%);
-  opacity: 0;
-  animation: shimmerButtonSweep 4.2s linear infinite;
-}
-
-.shimmer-button:hover::before,
-.shimmer-button:focus-visible::before {
-  opacity: 1;
-}
-
-.rainbow-button {
-  color: var(--text);
-  background:
-    linear-gradient(180deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.03) 40%),
-    rgba(10, 17, 30, 0.7);
-  box-shadow:
-    inset 0 1px 0 rgba(255, 255, 255, 0.08),
-    inset 0 -1px 0 rgba(0, 0, 0, 0.16),
-    0 16px 28px rgba(0, 0, 0, 0.18);
-}
-
-.rainbow-button::before {
-  background: radial-gradient(140px circle at var(--pointer-x) var(--pointer-y), rgba(255, 255, 255, 0.14), transparent 44%);
-  opacity: 0.85;
-}
-
-.rainbow-button::after {
-  inset: -1px;
-  padding: 1px;
-  background: conic-gradient(from 180deg, #6ee7ff, #7c8cff, #c084fc, #f472b6, #f59e0b, #6ee7ff);
-  -webkit-mask:
-    linear-gradient(#000 0 0) content-box,
-    linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-  mask-composite: exclude;
-  opacity: 0.66;
-  animation: rainbowButtonSpin 6s linear infinite;
-}
+/* Old custom magic-button / shimmer / rainbow / globe CSS removed — using official Magic UI components */
 
 .nav-cta,
 .mobile-nav-cta {
@@ -2353,62 +1910,4 @@ main,
 
 .nav-cta {
   padding-inline: 18px;
-}
-
-@keyframes shimmerButtonSweep {
-  0% {
-    transform: translateX(-120%) skewX(-16deg);
-  }
-  100% {
-    transform: translateX(120%) skewX(-16deg);
-  }
-}
-
-@keyframes rainbowButtonSpin {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-@media (max-width: 1100px) {
-  .signal-globe-wrap {
-    width: min(78vw, 640px);
-    right: -14%;
-    top: 10%;
-  }
-}
-
-@media (max-width: 820px) {
-  .signal-globe-wrap {
-    width: 110vw;
-    right: -26%;
-    top: 22%;
-    opacity: 0.52;
-  }
-
-  .signal-globe-wave {
-    top: 26%;
-    bottom: 24%;
-    width: 88vw;
-    opacity: 0.3;
-  }
-
-  .signal-globe-frequency {
-    inset: 18% 10%;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .signal-globe-wave,
-  .signal-globe-frequency {
-    animation: none !important;
-  }
-
-  .magic-button::before,
-  .rainbow-button::after {
-    animation: none !important;
-  }
 }

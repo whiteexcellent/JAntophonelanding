@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="darkchat-bg" x1="32" y1="24" x2="224" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3C4657" />
+      <stop offset="0.42" stop-color="#111827" />
+      <stop offset="1" stop-color="#020617" />
+    </linearGradient>
+    <radialGradient id="darkchat-sheen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(82 62) rotate(48) scale(112 100)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.2" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+    <filter id="darkchat-glow" x="42" y="70" width="172" height="126" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#4DFFD0" flood-opacity="0.16" />
+    </filter>
+  </defs>
+
+  <rect width="256" height="256" rx="64" fill="#06080D" />
+  <rect x="24" y="24" width="208" height="208" rx="56" fill="url(#darkchat-bg)" />
+  <rect x="24" y="24" width="208" height="208" rx="56" fill="url(#darkchat-sheen)" />
+  <g filter="url(#darkchat-glow)">
+    <path d="M128 78c-37.4 0-66 24.7-66 56.2 0 13.1 5.1 24.8 13.6 34.3L70 194l27.2-8.4c9.2 4 19.6 6.2 30.8 6.2 37.4 0 66-24.7 66-56.2S165.4 78 128 78Z" fill="#0D1420" stroke="rgba(120,255,206,0.74)" stroke-width="8" />
+    <path d="M95 126.5c7.2-8.9 18.6-14.5 33-14.5s25.8 5.6 33 14.5" stroke="#78FFCE" stroke-width="9" stroke-linecap="round" />
+    <circle cx="106" cy="139" r="7.5" fill="#78FFCE" />
+    <circle cx="150" cy="139" r="7.5" fill="#78FFCE" />
+    <path d="M111 157c4.7 4.6 10.3 7 17 7 6.7 0 12.3-2.4 17-7" stroke="rgba(120,255,206,0.68)" stroke-width="7" stroke-linecap="round" />
+  </g>
+</svg>

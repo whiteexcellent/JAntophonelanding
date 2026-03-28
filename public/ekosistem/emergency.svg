@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="emergency-bg" x1="32" y1="24" x2="222" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF9B96" />
+      <stop offset="0.42" stop-color="#FF453A" />
+      <stop offset="1" stop-color="#9C1C1C" />
+    </linearGradient>
+    <radialGradient id="emergency-sheen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(84 62) rotate(46) scale(112 98)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.34" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="256" height="256" rx="64" fill="#170707" />
+  <rect x="24" y="24" width="208" height="208" rx="56" fill="url(#emergency-bg)" />
+  <rect x="24" y="24" width="208" height="208" rx="56" fill="url(#emergency-sheen)" />
+  <path d="M128 64c21 17 43.3 25.5 67 25.5v41.3c0 46.3-26.2 74.6-67 97.2-40.8-22.6-67-50.9-67-97.2V89.5C84.7 89.5 107 81 128 64Z" fill="white" fill-opacity="0.97" />
+  <path d="M93 136h20.5l11.5-22 17.5 46 11-24H177" stroke="#FF453A" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
