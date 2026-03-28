@@ -1,6 +1,7 @@
 import { motion } from "motion/react";
 import { useLanguage } from "../context/LanguageContext";
 import { PhoneStage } from "./PhoneStage";
+import { Globe } from "@/components/ui/cobe-globe";
 import { TrialButton } from "@/components/ui/trial-button";
 import { HoverBorderGradient } from "@/components/ui/hover-border-gradient";
 import {
@@ -17,6 +18,13 @@ export function HeroSection({ hero, ctas }) {
   return (
     <section className="relative z-10 flex min-h-screen w-full items-center justify-center overflow-x-hidden pt-12 pb-20 sm:pt-16 md:pt-20 md:pb-24 lg:pt-20 lg:pb-32">
       <div className="pointer-events-none absolute bottom-0 left-0 z-0 h-64 w-full bg-gradient-to-b from-transparent to-white transition-colors duration-500 dark:to-black" />
+      
+      <div className="absolute inset-0 -z-10 mx-auto max-w-7xl opacity-50 dark:opacity-70">
+        <div className="absolute right-0 top-[10%] h-[500px] w-[500px] translate-x-1/4 mix-blend-screen md:h-[700px] md:w-[700px]">
+          <Globe />
+        </div>
+      </div>
+
       <div className="pointer-events-none container relative z-10 mx-auto max-w-7xl px-4 sm:px-6">
         <div className="pointer-events-auto grid grid-cols-1 items-center gap-10 lg:grid-cols-2 lg:gap-8">
           <motion.div
