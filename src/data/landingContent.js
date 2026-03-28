@@ -727,7 +727,7 @@ export const landingContent = {
   },
   "navLinks": [
     {
-      "label": "Ozellikler",
+      "label": "Özellikler",
       "href": "#features"
     },
     {
@@ -741,29 +741,29 @@ export const landingContent = {
   ],
   "ctas": {
     "primary": {
-      "label": "Demoyu Izle",
+      "label": "Demoyu İzle",
       "href": "#demo",
       "tone": "beam"
     },
     "secondary": {
-      "label": "Ozellikleri Kesfet",
+      "label": "Özellikleri Keşfet",
       "href": "#features",
       "tone": "frost"
     },
     "discord": {
-      "label": "Discord'a Katil",
+      "label": "Discord'a Katıl",
       "href": "https://discord.gg/qW9bGKvQ9j",
       "tone": "glass"
     }
   },
   "hero": {
     "visualMode": "hero-grid-beams",
-    "eyebrow": "Dokumanlarla dogrulanan FiveM telefon ekosistemi",
-    "title": "Ciddi RP sunuculari icin yasayan bir telefon katmani.",
-    "lead": "Janto Phone; mesajlasma, sosyal kimlik, bankacilik, garaj erisimi, acil durum dispatch akişi, kamera is akışlari, ayarlar, vault senkronu ve batarya kaliciligini tek bir bağlı mobil yuzeyde toplar. Kozmetik bir arayüz gibi degil, gerçekten sahip olunan bir cihaz gibi hissetmesi icin tasarlanmistir.",
+    "eyebrow": "Dokümanlarla doğrulanan FiveM telefon ekosistemi",
+    "title": "Ciddi RP sunucuları için yaşayan bir telefon katmanı.",
+    "lead": "Janto Phone; mesajlaşma, sosyal kimlik, bankacılık, garaj erişimi, acil durum dispatch akişi, kamera is akışlari, ayarlar, vault senkronu ve batarya kalıcılığını tek bir bağlı mobil yüzeyde toplar. Kozmetik bir arayüz gibi değil, gerçekten sahip olunan bir cihaz gibi hissetmesi icin tasarlanmıştır.",
     "signals": [
       {
-        "kicker": "Baglar",
+        "kicker": "Bağlar",
         "value": "İletişim, sosyal, finans, dispatch"
       },
       {
@@ -771,8 +771,8 @@ export const landingContent = {
         "value": "Batarya, vault ve cihaz verisi"
       },
       {
-        "kicker": "Hazir",
-        "value": "QBox, QBCore, ESX ve fazlasi"
+        "kicker": "Hazır",
+        "value": "QBox, QBCore, ESX ve fazlası"
       }
     ],
     "ghostLeft": {
@@ -783,7 +783,7 @@ export const landingContent = {
       "accent": "cyan",
       "badge": "Voice",
       "headline": "Arama, yanit ve kişi akişi",
-      "copy": "Messages ve WhisApp; sesli not, kişi karti, cevap akişi, link önizlemesi ve canli konum pencereleriyle iletişimi gerçek bir oynanış katmanına dönüştürür.",
+      "copy": "Messages ve WhisApp; sesli not, kişi kartı, cevap akişi, link önizlemesi ve canli konum pencereleriyle iletişimi gerçek bir oynanış katmanına dönüştürür.",
       "chips": [
         "Voice",
         "Contact Card",
@@ -801,7 +801,7 @@ export const landingContent = {
       "accent": "violet",
       "badge": "Share",
       "headline": "Yakin paylasim ve kanit anlari",
-      "copy": "QuickLink, harita paylasimi ve yansitilan içerik; dünya etkilesimini menulere saklamak yerine ayni telefon yuzeyinde görünur tutar.",
+      "copy": "QuickLink, harita paylaşımı ve yansitilan içerik; dünya etkileşimini menulere saklamak yerine ayni telefon yuzeyinde görünur tutar.",
       "chips": [
         "QuickLink",
         "Nearby",
@@ -825,7 +825,7 @@ export const landingContent = {
         "title": "Kilit Ekrani",
         "time": "21:37",
         "asset": "/captures/hero/lockscreen-cropped.png",
-        "overlayCopy": "Bildirimler, batarya durumu ve oyuncuya bağlı telefon kimligiyle sahiplik hissini one cikan kilit ekran.",
+        "overlayCopy": "Bildirimler, batarya durumu ve oyuncuya bağlı telefon kimliğiyle sahiplik hissini one cikan kilit ekran.",
         "accent": "cyan",
         "screenScale": 1.12,
         "screenOffsetY": 2
@@ -834,7 +834,7 @@ export const landingContent = {
         "title": "Ayarlar Haritasi",
         "time": "14:23",
         "asset": "/captures/hero/settingsapp-cropped.png",
-        "overlayCopy": "Baglantilar, bildirimler, sesler, temalar ve uygulama davranislari tek bir kontrol merkezinde toplanir.",
+        "overlayCopy": "Bağlantılar, bildirimler, sesler, temalar ve uygulama davranışları tek bir kontrol merkezinde toplanir.",
         "accent": "violet",
         "screenScale": 1.1,
         "screenOffsetY": 1
@@ -1011,7 +1011,7 @@ export const landingContent = {
   "demoSection": {
     "id": "demo",
     "backdropMode": "section-light-rays",
-    "eyebrow": "Dokuman destekli canli yuruyus",
+    "eyebrow": "Doküman destekli canlı yürüyüş",
     "title": "Bu telefonun bir kaplama degil, oyun sistemi oldugunu görün.",
     "body": "Resmi dokümanlar Janto'yu bağlı bir cihaz akişi olarak konumluyor: Messages ve WhisApp ile iletişim, Vibeshot ile sosyal kimlik, Fleeca Bank ile para hareketi, Garaj ve Acil ile dünya sistemleri, Settings, Vault ve Battery ile gerçek sahiplik.",
     "videoEmbed": "https://www.youtube.com/embed/UlY6Uc65NMo?start=1&rel=0",
@@ -1025,7 +1025,7 @@ export const landingContent = {
         "accent": "cyan",
         "thumbnail": "/captures/demo/demo-overview.svg",
         "source": "Test sunucusu + dokuman hibriti",
-        "caption": "Messages ve WhisApp; medya paylasimi, sesli not, kişi karti, cevap akişi, link önizlemesi ve canli konumu ayni telefon yuzeyinde birlestirir.",
+        "caption": "Messages ve WhisApp; medya paylaşımı, sesli not, kişi kartı, cevap akişi, link önizlemesi ve canli konumu ayni telefon yuzeyinde birleştirir.",
         "signals": [
           "Mesajlasma",
           "Sesli not",
@@ -1033,12 +1033,12 @@ export const landingContent = {
         ]
       },
       {
-        "title": "Dünya paylasimi ve yansitilan kanit",
+        "title": "Dünya paylaşımı ve yansitilan kanit",
         "type": "QuickLink + yansitma",
         "accent": "violet",
         "thumbnail": "/captures/demo/demo-share.svg",
         "source": "Capture-ready sahne",
-        "caption": "QuickLink, harita paylasimi ve yansitilan içerik; aktif RP anlarinda yakin etkilesimi okunur tutar.",
+        "caption": "QuickLink, harita paylaşımı ve yansitilan içerik; aktif RP anlarinda yakin etkileşimi okunur tutar.",
         "signals": [
           "QuickLink",
           "Yansitma",
@@ -1046,7 +1046,7 @@ export const landingContent = {
         ]
       },
       {
-        "title": "Profil, hikaye ve canli kimlik katmani",
+        "title": "Profil, hikaye ve canli kimlik katmanı",
         "type": "Vibeshot",
         "accent": "orange",
         "thumbnail": "/captures/demo/demo-vibeshot.svg",
@@ -1062,15 +1062,15 @@ export const landingContent = {
     "chapters": [
       {
         "label": "WhisApp",
-        "detail": "Sesli not, kişi karti, cevap zinciri, link önizlemesi ve canli konum pencereleri."
+        "detail": "Sesli not, kişi kartı, cevap zinciri, link önizlemesi ve canli konum pencereleri."
       },
       {
         "label": "Vibeshot",
-        "detail": "Carousel gönderiler, reels, hikayeler, canli yayınlar ve reaksiyon odakli sosyal RP."
+        "detail": "Carousel gönderiler, reels, hikayeler, canli yayınlar ve reaksiyon odaklı sosyal RP."
       },
       {
         "label": "Dünya sistemleri",
-        "detail": "Garaj durumu, dispatch baglantili acil cagri, bankacilik ve navigasyon ayni cihazdan yönetilir."
+        "detail": "Garaj durumu, dispatch baglantili acil cagri, bankacılık ve navigasyon ayni cihazdan yönetilir."
       }
     ]
   },
@@ -1309,7 +1309,7 @@ export const landingContent = {
   "compatibilitySection": {
     "eyebrow": "Geliştirici uyumu",
     "title": "Kusursuz entegrasyon.",
-    "body": "Dokumanlar Janto'yu; buyuk frameworkler, envanter sistemleri, garajlar, bankacilik saglayicilari, ses altyapilari ve birden fazla dili kapsayan tek bir telefon ekosistemi olarak konumluyor.",
+    "body": "Dokumanlar Janto'yu; buyuk frameworkler, envanter sistemleri, garajlar, bankacılık saglayicilari, ses altyapilari ve birden fazla dili kapsayan tek bir telefon ekosistemi olarak konumluyor.",
     "rows": [
       {
         "label": "Frameworkler",
@@ -1412,10 +1412,10 @@ export const landingContent = {
     "id": "faq",
     "backdropMode": "section-light-rays",
     "eyebrow": "Sıkça Sorulan Sorular",
-    "title": "Sunucu sahiplerinin gecmeden once sordugu sorular.",
+    "title": "Sunucu sahiplerinin geçmeden önce sorduğu sorular.",
     "items": [
       {
-        "question": "Janto'yu standart bir telefon arayüzunden ayiran sey ne?",
+        "question": "Janto'yu standart bir telefon arayüzünden ayıran şey ne?",
         "answer": "Dokumanlar Janto'yu yalnizca bir launcher gibi degil; Messages, WhisApp, Vibeshot, banka, garaj, acil durum, ayarlar, vault ve bataryayi tek sahip olunan cihazda birleştiren tam bir telefon ekosistemi olarak konumlandiriyor."
       },
       {
@@ -1423,12 +1423,12 @@ export const landingContent = {
         "answer": "Evet. Item seviyesinde sahiplik, batarya dususu ve powerbank destegi, konum farkindalikli acil bildirim, coklu hesap bankaciligi ve sunucu tarafli bridge entegrasyonlari daha derin RP sunucularina uygun bir temel kurar."
       },
       {
-        "question": "Hangi canli etkilesim katmanlari gerçekten var?",
-        "answer": "Dokumanlarda sesli not, kişi karti, cevap akişi, canli konum, link önizlemesi, reels, hikayeler, canli yayınlar, harita paylasimi, ekran yansitma ve konum odakli acil durum akışlari acikca yer aliyor."
+        "question": "Hangi canli etkileşim katmanlari gerçekten var?",
+        "answer": "Dokümanlarda sesli not, kişi kartı, cevap akişi, canli konum, link önizlemesi, reels, hikayeler, canli yayınlar, harita paylaşımı, ekran yansitma ve konum odaklı acil durum akışlari acikca yer aliyor."
       },
       {
-        "question": "Entegrasyon kapsami ne kadar genis?",
-        "answer": "Janto; QBox, QBCore, ESX, vRP ve standalone yapilarla birlikte envanter, garaj, bankacilik, ses, medya upload, log ve birden fazla dil katmanına dokunan genis bir entegrasyon yuzeyi sunar."
+        "question": "Entegrasyon kapsamı ne kadar genis?",
+        "answer": "Janto; QBox, QBCore, ESX, vRP ve standalone yapilarla birlikte envanter, garaj, bankacılık, ses, medya upload, log ve birden fazla dil katmanına dokunan geniş bir entegrasyon yüzeyi sunar."
       }
     ]
   },
