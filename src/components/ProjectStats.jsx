@@ -39,7 +39,30 @@ const renderDiscordContent = (content) => {
       );
     }
     // Metin içi linkleri veya boşlukları düzgün renderla
-    return <span key={index}>{part}</span>;
+    const urlRegex = /(https?:\/\/[^\s]+)/g;
+    const textParts = part.split(urlRegex);
+    
+    return (
+      <span key={index}>
+        {textParts.map((textPart, i) => {
+          if (textPart.match(urlRegex)) {
+            return (
+              <a 
+                key={i} 
+                href={textPart} 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="text-blue-500 transition-colors hover:text-blue-600 hover:underline dark:text-blue-400 dark:hover:text-blue-300"
+                onClick={(e) => e.stopPropagation()}
+              >
+                {textPart}
+              </a>
+            );
+          }
+          return textPart;
+        })}
+      </span>
+    );
   });
 };
 
