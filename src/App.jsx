@@ -71,7 +71,7 @@ function App() {
       </div>
 
       <main id="top" className="relative z-10 overflow-x-hidden pb-0 pt-24 md:pt-28 lg:pt-32">
-        <HeroSection hero={content.hero} ctas={content.ctas} />
+        <HeroSection hero={content.hero} ctas={content.ctas} isDarkMode={isDarkMode} />
         <Suspense fallback={<div className="min-h-screen py-10" />}>
           <PlaygroundSection section={content.demoSection} />
           <FeaturesSection />

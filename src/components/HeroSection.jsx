@@ -13,15 +13,19 @@ import {
   BreadcrumbSeparator,
 } from "@/components/ui/breadcrumb";
 
-export function HeroSection({ hero, ctas }) {
+export function HeroSection({ hero, ctas, isDarkMode }) {
   const { lang } = useLanguage();
   return (
     <section className="relative z-10 flex min-h-screen w-full items-center justify-center overflow-x-hidden pt-12 pb-20 sm:pt-16 md:pt-20 md:pb-24 lg:pt-20 lg:pb-32">
       <div className="pointer-events-none absolute bottom-0 left-0 z-0 h-64 w-full bg-gradient-to-b from-transparent to-white transition-colors duration-500 dark:to-black" />
       
-      <div className="absolute inset-0 -z-10 mx-auto max-w-7xl opacity-50 dark:opacity-70">
-        <div className="absolute right-0 top-[10%] h-[500px] w-[500px] translate-x-1/4 mix-blend-screen md:h-[700px] md:w-[700px]">
-          <Globe />
+      <div className="absolute inset-0 -z-10 flex items-center justify-center opacity-70 overflow-hidden">
+        <div className="pointer-events-none h-[650px] w-[650px] md:h-[1000px] md:w-[1000px]">
+          <Globe 
+            dark={isDarkMode ? 1 : 0} 
+            baseColor={isDarkMode ? [0.4, 0.65, 1] : [1, 1, 1]}
+            glowColor={isDarkMode ? [0.27, 0.57, 0.9] : [0.9, 0.9, 0.9]}
+          />
         </div>
       </div>
 
