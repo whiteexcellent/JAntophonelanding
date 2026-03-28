@@ -29,15 +29,15 @@ export const compatibilitySectionData = {
 
 const featuresListTR = [
   {
-    category: "Sosyal Medya & Iletisim",
+    category: "Sosyal Medya & İletişim",
     icon: MessagesSquare,
     color: "from-pink-500/20 to-rose-500/20",
     iconColor: "text-pink-400",
     items: [
-      { name: "Mesajlar", icon: "/ekosistem/messages.png", desc: "SMS, sesli not, konum karti ve hizli medya paylasimi sunan yerel mesajlasma akisi." },
-      { name: "Vibeshot", icon: "/ekosistem/vibeshot.svg", desc: "Gonderiler, reels, hikayeler, mention'lar ve canli yayinlarla sosyal kimligi oyuna tasir." },
-      { name: "WhisApp", icon: "/ekosistem/whisapp.svg", desc: "Canli konum, link onizlemesi, kisi karti, cevap ve topluluk yapilariyla gelismis sohbet deneyimi sunar." },
-      { name: "DarkChat", icon: "/ekosistem/darkchat.svg", desc: "Yeralti dunyasi icin planlanan anonim ve sifreli iletisim katmani." },
+      { name: "Mesajlar", icon: "/ekosistem/messages.png", desc: "SMS, sesli not, konum karti ve hizli medya paylasimi sunan yerel mesajlasma akişi." },
+      { name: "Vibeshot", icon: "/ekosistem/vibeshot.svg", desc: "Gonderiler, reels, hikayeler, mention'lar ve canli yayınlarla sosyal kimligi oyuna tasir." },
+      { name: "WhisApp", icon: "/ekosistem/whisapp.svg", desc: "Canli konum, link önizlemesi, kişi karti, cevap ve topluluk yapilariyla gelismis sohbet deneyimi sunar." },
+      { name: "DarkChat", icon: "/ekosistem/darkchat.svg", desc: "Yeralti dünyasi icin planlanan anonim ve şifreli iletişim katmani." },
     ],
   },
   {
@@ -46,20 +46,20 @@ const featuresListTR = [
     color: "from-purple-500/20 to-indigo-500/20",
     iconColor: "text-purple-400",
     items: [
-      { name: "Galeri", icon: "/ekosistem/gallery.png", desc: "Tarih ve baglama gore gruplanan medya kutuphanesi, favoriler ve duzenleme akisi sunar." },
-      { name: "Kamera", icon: "/ekosistem/camera.png", desc: "Arka kamera, selfie, arac ici cekim, filtre ve video kaydi ile capture-first akisi destekler." },
-      { name: "Muzik", icon: "/ekosistem/rythm-sync.png", desc: "Arama, playlist, chart, YouTube ekleme ve arac ici dinleme ile telefonu medya katmanina cevirir." },
+      { name: "Galeri", icon: "/ekosistem/gallery.png", desc: "Tarih ve baglama gore gruplanan medya kutuphanesi, favoriler ve duzenleme akişi sunar." },
+      { name: "Kamera", icon: "/ekosistem/camera.png", desc: "Arka kamera, selfie, araç içi çekim, filtre ve video kaydi ile capture-first akişi destekler." },
+      { name: "Müzik", icon: "/ekosistem/rythm-sync.png", desc: "Arama, playlist, chart, YouTube ekleme ve araç içi dinleme ile telefonu medya katmanına çevirir." },
     ],
   },
   {
-    category: "Araclar & Uretkenlik",
+    category: "Araçlar & Üretkenlik",
     icon: Compass,
     color: "from-blue-500/20 to-cyan-500/20",
     iconColor: "text-blue-400",
     items: [
-      { name: "Notlar", icon: "/ekosistem/notes.png", desc: "Hizli not alma ve klasor duzeniyle kisa bilgi akisini cebinize tasir." },
-      { name: "Takvim", icon: "/ekosistem/calendar.svg", desc: "Etkinlik, lokasyon, davet ve bildirim akislariyla roleplay zamanlamasini duzenler." },
-      { name: "Harita", icon: "/ekosistem/maps.png", desc: "Canli GPS, rota takibi ve konum paylasimi ile dunya baglantisini surekli tutar." },
+      { name: "Notlar", icon: "/ekosistem/notes.png", desc: "Hizli not alma ve klasor duzeniyle kisa bilgi akişini cebinize tasir." },
+      { name: "Takvim", icon: "/ekosistem/calendar.svg", desc: "Etkinlik, lokasyon, davet ve bildirim akışlariyla roleplay zamanlamasini duzenler." },
+      { name: "Harita", icon: "/ekosistem/maps.png", desc: "Canli GPS, rota takibi ve konum paylasimi ile dünya baglantisini surekli tutar." },
     ],
   },
   {
@@ -70,17 +70,17 @@ const featuresListTR = [
     items: [
       { name: "Banka", icon: "/ekosistem/bank.svg", desc: "Kisisel, is, gang, corp ve paylasimli hesaplar arasinda kart odakli gecis sunar." },
       { name: "Magaza", icon: "/ekosistem/app-store.png", desc: "Uygulama, oyun ve servis kesfi icin telefonun kendi dagitim katmanini saglar." },
-      { name: "Ilanlar", icon: "/ekosistem/ads.png", desc: "Fotograf destekli ilanlar, favoriler ve kategori bazli pazar akisiyla sunucu ekonomisini telefona baglar." },
+      { name: "Ilanlar", icon: "/ekosistem/ads.png", desc: "Fotograf destekli ilanlar, favoriler ve kategori bazli pazar akişiyla sunucu ekonomisini telefona baglar." },
     ],
   },
   {
-    category: "Araclar & Acil Durum",
+    category: "Araçlar & Acil Durum",
     icon: Siren,
     color: "from-orange-500/20 to-amber-500/20",
     iconColor: "text-orange-400",
     items: [
-      { name: "Garaj", icon: "/ekosistem/garage.svg", desc: "Sahip olunan araclar, impound durumu, yakit, motor ve govde sagligini tek ekranda gosterir." },
-      { name: "Acil", icon: "/ekosistem/emergency.svg", desc: "Polis ve ambulans raporlari, tek tus acil cagri ve otomatik GPS paylasimi ile dispatch akisina baglanir." },
+      { name: "Garaj", icon: "/ekosistem/garage.svg", desc: "Sahip olunan araçlar, impound durumu, yakit, motor ve govde sagligini tek ekranda gosterir." },
+      { name: "Acil", icon: "/ekosistem/emergency.svg", desc: "Polis ve ambulans raporlari, tek tus acil cagri ve otomatik GPS paylasimi ile dispatch akişina baglanir." },
     ],
   },
   {
@@ -91,7 +91,7 @@ const featuresListTR = [
     items: [
       { name: "Ayarlar", icon: "/ekosistem/settings.png", desc: "Baglantilar, bildirimler, sesler, temalar ve uygulama davranislari icin merkez kontrol alani." },
       { name: "Vault", icon: "/ekosistem/vault.svg", desc: "Bulut yedekleme ve veri geri yukleme ile telefon icerigini cihaz sahipligine baglar." },
-      { name: "Batarya", icon: "/ekosistem/battery.svg", desc: "Kullanimla azalan sarj, metadata kaliciligi ve powerbank destegi ile telefonu gercek bir item gibi hissettirir." },
+      { name: "Batarya", icon: "/ekosistem/battery.svg", desc: "Kullanimla azalan sarj, metadata kaliciligi ve powerbank destegi ile telefonu gerçek bir item gibi hissettirir." },
     ],
   },
 ];
@@ -169,7 +169,7 @@ export const featuresList = { tr: featuresListTR, en: featuresListEN };
 
 const videoContentTR = {
   title: "Telefon scriptinden fazlasi: tam sistem katmani",
-  subtitle: "Dokumanlarda; iletisim, sosyal kimlik, finans, araclar, dispatch, medya ve kalici cihaz sahipligi tek bir mobil yuzeyde anlatiliyor.",
+  subtitle: "Dokumanlarda; iletişim, sosyal kimlik, finans, araçlar, dispatch, medya ve kalici cihaz sahipligi tek bir mobil yuzeyde anlatiliyor.",
   url: "https://www.youtube.com/embed/UlY6Uc65NMo?autoplay=0&rel=0&showinfo=0",
 };
 

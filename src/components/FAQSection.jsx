@@ -27,20 +27,20 @@ export function FAQSection({ section }) {
 
   const defaultItemsTR = [
     {
-      question: "Janto'yu standart bir telefon arayuzunden ayiran sey ne?",
-      answer: "Dokumanlar Janto'yu yalnizca bir launcher gibi degil; Messages, WhisApp, Vibeshot, banka, garaj, acil durum, ayarlar, vault ve bataryayi tek sahip olunan cihazda birlestiren tam bir telefon ekosistemi olarak konumlandiriyor.",
+      question: "Janto'yu standart bir telefon arayüzunden ayiran sey ne?",
+      answer: "Dokumanlar Janto'yu yalnizca bir launcher gibi degil; Messages, WhisApp, Vibeshot, banka, garaj, acil durum, ayarlar, vault ve bataryayi tek sahip olunan cihazda birleştiren tam bir telefon ekosistemi olarak konumlandiriyor.",
     },
     {
       question: "Ciddi RP sunuculari icin uygun mu?",
       answer: "Evet. Item seviyesinde sahiplik, batarya dususu ve powerbank destegi, konum farkindalikli acil bildirim, coklu hesap bankaciligi ve bridge hazir entegrasyonlar daha derin RP sunucularina uygun bir temel kurar.",
     },
     {
-      question: "Hangi canli etkilesim katmanlari gercekten var?",
-      answer: "Dokumanlarda sesli not, kisi karti, cevap akisi, canli konum, link onizlemesi, reels, hikayeler, canli yayinlar, harita paylasimi, ekran yansitma ve konum odakli acil durum akislari acikca yer aliyor.",
+      question: "Hangi canli etkilesim katmanlari gerçekten var?",
+      answer: "Dokumanlarda sesli not, kişi karti, cevap akişi, canli konum, link önizlemesi, reels, hikayeler, canli yayınlar, harita paylasimi, ekran yansitma ve konum odakli acil durum akışlari acikca yer aliyor.",
     },
     {
       question: "Entegrasyon kapsami ne kadar genis?",
-      answer: "Janto; QBox, QBCore, ESX, vRP ve standalone yapilarla birlikte envanter, garaj, bankacilik, ses, medya upload, log ve birden fazla dil katmanina dokunan genis bir entegrasyon yuzeyi sunar.",
+      answer: "Janto; QBox, QBCore, ESX, vRP ve standalone yapilarla birlikte envanter, garaj, bankacilik, ses, medya upload, log ve birden fazla dil katmanına dokunan genis bir entegrasyon yuzeyi sunar.",
     },
   ];
 
@@ -48,10 +48,10 @@ export function FAQSection({ section }) {
 
   const t = {
     eyebrow: lang === "tr" ? "SSS" : "FAQ",
-    title: lang === "tr" ? "Sikca Sorulan Sorular" : "Frequently Asked Questions",
+    title: lang === "tr" ? "Sıkça Sorulan Sorular" : "Frequently Asked Questions",
     desc:
       lang === "tr"
-        ? "Sahiplik hissi, entegrasyon kapsami ve dokumanlarda anlatilan ozellik derinligi hakkinda kisa cevaplar."
+        ? "Sahiplik hissi, entegrasyon kapsami ve dokümanlarda anlatilan özellik derinligi hakkinda kisa cevaplar."
         : "Short answers on ownership, integrations, and the feature depth documented across the Janto ecosystem.",
   };
 

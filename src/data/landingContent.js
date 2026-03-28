@@ -760,11 +760,11 @@ export const landingContent = {
     "visualMode": "hero-grid-beams",
     "eyebrow": "Dokumanlarla dogrulanan FiveM telefon ekosistemi",
     "title": "Ciddi RP sunuculari icin yasayan bir telefon katmani.",
-    "lead": "Janto Phone; mesajlasma, sosyal kimlik, bankacilik, garaj erisimi, acil durum dispatch akisi, kamera is akislari, ayarlar, vault senkronu ve batarya kaliciligini tek bir bagli mobil yuzeyde toplar. Kozmetik bir arayuz gibi degil, gercekten sahip olunan bir cihaz gibi hissetmesi icin tasarlanmistir.",
+    "lead": "Janto Phone; mesajlasma, sosyal kimlik, bankacilik, garaj erisimi, acil durum dispatch akişi, kamera is akışlari, ayarlar, vault senkronu ve batarya kaliciligini tek bir bağlı mobil yuzeyde toplar. Kozmetik bir arayüz gibi degil, gerçekten sahip olunan bir cihaz gibi hissetmesi icin tasarlanmistir.",
     "signals": [
       {
         "kicker": "Baglar",
-        "value": "Iletisim, sosyal, finans, dispatch"
+        "value": "İletişim, sosyal, finans, dispatch"
       },
       {
         "kicker": "Korur",
@@ -776,14 +776,14 @@ export const landingContent = {
       }
     ],
     "ghostLeft": {
-      "label": "Iletisim Onizlemesi",
+      "label": "İletişim Önizlemesi",
       "asset": "/captures/hero/ghost-calls.svg",
       "app": "Calls",
       "time": "21:37",
       "accent": "cyan",
       "badge": "Voice",
-      "headline": "Arama, yanit ve kisi akisi",
-      "copy": "Messages ve WhisApp; sesli not, kisi karti, cevap akisi, link onizlemesi ve canli konum pencereleriyle iletisimi gercek bir oynanis katmanina donusturur.",
+      "headline": "Arama, yanit ve kişi akişi",
+      "copy": "Messages ve WhisApp; sesli not, kişi karti, cevap akişi, link önizlemesi ve canli konum pencereleriyle iletişimi gerçek bir oynanış katmanına dönüştürür.",
       "chips": [
         "Voice",
         "Contact Card",
@@ -794,14 +794,14 @@ export const landingContent = {
       "statValue": "4 baglanti aktif"
     },
     "ghostRight": {
-      "label": "Dunya Etkilesimi",
+      "label": "Dünya Etkilesimi",
       "asset": "/captures/hero/ghost-share.svg",
       "app": "QuickLink",
       "time": "21:39",
       "accent": "violet",
       "badge": "Share",
       "headline": "Yakin paylasim ve kanit anlari",
-      "copy": "QuickLink, harita paylasimi ve yansitilan icerik; dunya etkilesimini menulere saklamak yerine ayni telefon yuzeyinde gorunur tutar.",
+      "copy": "QuickLink, harita paylasimi ve yansitilan içerik; dünya etkilesimini menulere saklamak yerine ayni telefon yuzeyinde görünur tutar.",
       "chips": [
         "QuickLink",
         "Nearby",
@@ -809,14 +809,14 @@ export const landingContent = {
       ],
       "status": "Paylasim + yansitma",
       "statLabel": "Yakin senkronizasyon",
-      "statValue": "3 oyuncu bagli"
+      "statValue": "3 oyuncu bağlı"
     },
     "slides": [
       {
         "title": "Ana Ekran",
         "time": "10:15",
         "asset": "/captures/hero/homescreen-cropped.png",
-        "overlayCopy": "Iletisim, finans, medya, araclar ve sistem kontrolunu tek sahip olunan cihazda birlestiren yogun bir ana ekran.",
+        "overlayCopy": "İletişim, finans, medya, araçlar ve sistem kontrolunu tek sahip olunan cihazda birleştiren yoğun bir ana ekran.",
         "accent": "blue",
         "screenScale": 1.1,
         "screenOffsetY": 1
@@ -825,7 +825,7 @@ export const landingContent = {
         "title": "Kilit Ekrani",
         "time": "21:37",
         "asset": "/captures/hero/lockscreen-cropped.png",
-        "overlayCopy": "Bildirimler, batarya durumu ve oyuncuya bagli telefon kimligiyle sahiplik hissini one cikan kilit ekran.",
+        "overlayCopy": "Bildirimler, batarya durumu ve oyuncuya bağlı telefon kimligiyle sahiplik hissini one cikan kilit ekran.",
         "accent": "cyan",
         "screenScale": 1.12,
         "screenOffsetY": 2
@@ -840,10 +840,10 @@ export const landingContent = {
         "screenOffsetY": 1
       },
       {
-        "title": "Muzik Calar",
+        "title": "Müzik Çalar",
         "time": "16:40",
         "asset": "/captures/hero/musicapp-cropped.png",
-        "overlayCopy": "Arama, playlist, chart ve arac ici dinleme akislariyla telefon gercek bir medya katmanina donusur.",
+        "overlayCopy": "Arama, playlist, chart ve araç içi dinleme akışlariyla telefon gerçek bir medya katmanına dönüşür.",
         "accent": "pink",
         "screenScale": 1.1,
         "screenOffsetY": -2
@@ -852,7 +852,7 @@ export const landingContent = {
         "title": "Garaj",
         "time": "18:05",
         "asset": "/captures/hero/garageapp-cropped.png",
-        "overlayCopy": "Sahip olunan araclar, impound durumu, yakit, motor ve govde bilgisi ayni telefon uzerinden yonetilir.",
+        "overlayCopy": "Sahip olunan araçlar, impound durumu, yakit, motor ve govde bilgisi ayni telefon üzerinden yönetilir.",
         "accent": "orange",
         "screenScale": 1.08,
         "screenOffsetY": -1
@@ -1012,20 +1012,20 @@ export const landingContent = {
     "id": "demo",
     "backdropMode": "section-light-rays",
     "eyebrow": "Dokuman destekli canli yuruyus",
-    "title": "Bu telefonun bir kaplama degil, oyun sistemi oldugunu gorun.",
-    "body": "Resmi dokumanlar Janto'yu bagli bir cihaz akisi olarak konumluyor: Messages ve WhisApp ile iletisim, Vibeshot ile sosyal kimlik, Fleeca Bank ile para hareketi, Garaj ve Acil ile dunya sistemleri, Settings, Vault ve Battery ile gercek sahiplik.",
+    "title": "Bu telefonun bir kaplama degil, oyun sistemi oldugunu görün.",
+    "body": "Resmi dokümanlar Janto'yu bağlı bir cihaz akişi olarak konumluyor: Messages ve WhisApp ile iletişim, Vibeshot ile sosyal kimlik, Fleeca Bank ile para hareketi, Garaj ve Acil ile dünya sistemleri, Settings, Vault ve Battery ile gerçek sahiplik.",
     "videoEmbed": "https://www.youtube.com/embed/UlY6Uc65NMo?start=1&rel=0",
     "videoHref": "https://www.youtube.com/watch?v=UlY6Uc65NMo&t=1s",
     "videoTitle": "Janto Phone tanitim videosu",
-    "note": "Resmi dokumanlarda promo videonun tum ozellikleri gostermedigi belirtiliyor; yeni yetenekler ve arayuz guncellemeleri dokumanlarda ve showcase sunucusunda daha detayli yer aliyor.",
+    "note": "Resmi dokümanlarda promo videonun tum özellikleri gostermedigi belirtiliyor; yeni yetenekler ve arayüz guncellemeleri dokümanlarda ve showcase sunucusunda daha detayli yer aliyor.",
     "items": [
       {
-        "title": "Derinlikli iletisim akisi",
-        "type": "WhisApp akisi",
+        "title": "Derinlikli iletişim akişi",
+        "type": "WhisApp akişi",
         "accent": "cyan",
         "thumbnail": "/captures/demo/demo-overview.svg",
         "source": "Test sunucusu + dokuman hibriti",
-        "caption": "Messages ve WhisApp; medya paylasimi, sesli not, kisi karti, cevap akisi, link onizlemesi ve canli konumu ayni telefon yuzeyinde birlestirir.",
+        "caption": "Messages ve WhisApp; medya paylasimi, sesli not, kişi karti, cevap akişi, link önizlemesi ve canli konumu ayni telefon yuzeyinde birlestirir.",
         "signals": [
           "Mesajlasma",
           "Sesli not",
@@ -1033,12 +1033,12 @@ export const landingContent = {
         ]
       },
       {
-        "title": "Dunya paylasimi ve yansitilan kanit",
+        "title": "Dünya paylasimi ve yansitilan kanit",
         "type": "QuickLink + yansitma",
         "accent": "violet",
         "thumbnail": "/captures/demo/demo-share.svg",
         "source": "Capture-ready sahne",
-        "caption": "QuickLink, harita paylasimi ve yansitilan icerik; aktif RP anlarinda yakin etkilesimi okunur tutar.",
+        "caption": "QuickLink, harita paylasimi ve yansitilan içerik; aktif RP anlarinda yakin etkilesimi okunur tutar.",
         "signals": [
           "QuickLink",
           "Yansitma",
@@ -1051,7 +1051,7 @@ export const landingContent = {
         "accent": "orange",
         "thumbnail": "/captures/demo/demo-vibeshot.svg",
         "source": "Hibrit showcase",
-        "caption": "Vibeshot; gonderi, reels, hikaye, etiketleme, muzik etiketi, canli yayin ve sosyal kimlik akisini tek yerde toplar.",
+        "caption": "Vibeshot; gönderi, reels, hikaye, etiketleme, muzik etiketi, canli yayın ve sosyal kimlik akişini tek yerde toplar.",
         "signals": [
           "Profiller",
           "Hikayeler",
@@ -1062,15 +1062,15 @@ export const landingContent = {
     "chapters": [
       {
         "label": "WhisApp",
-        "detail": "Sesli not, kisi karti, cevap zinciri, link onizlemesi ve canli konum pencereleri."
+        "detail": "Sesli not, kişi karti, cevap zinciri, link önizlemesi ve canli konum pencereleri."
       },
       {
         "label": "Vibeshot",
-        "detail": "Carousel gonderiler, reels, hikayeler, canli yayinlar ve reaksiyon odakli sosyal RP."
+        "detail": "Carousel gönderiler, reels, hikayeler, canli yayınlar ve reaksiyon odakli sosyal RP."
       },
       {
-        "label": "Dunya sistemleri",
-        "detail": "Garaj durumu, dispatch baglantili acil cagri, bankacilik ve navigasyon ayni cihazdan yonetilir."
+        "label": "Dünya sistemleri",
+        "detail": "Garaj durumu, dispatch baglantili acil cagri, bankacilik ve navigasyon ayni cihazdan yönetilir."
       }
     ]
   },
@@ -1307,7 +1307,7 @@ export const landingContent = {
     ]
   },
   "compatibilitySection": {
-    "eyebrow": "Gelistirici uyumu",
+    "eyebrow": "Geliştirici uyumu",
     "title": "Kusursuz entegrasyon.",
     "body": "Dokumanlar Janto'yu; buyuk frameworkler, envanter sistemleri, garajlar, bankacilik saglayicilari, ses altyapilari ve birden fazla dili kapsayan tek bir telefon ekosistemi olarak konumluyor.",
     "rows": [
@@ -1415,20 +1415,20 @@ export const landingContent = {
     "title": "Sunucu sahiplerinin gecmeden once sordugu sorular.",
     "items": [
       {
-        "question": "Janto'yu standart bir telefon arayuzunden ayiran sey ne?",
-        "answer": "Dokumanlar Janto'yu yalnizca bir launcher gibi degil; Messages, WhisApp, Vibeshot, banka, garaj, acil durum, ayarlar, vault ve bataryayi tek sahip olunan cihazda birlestiren tam bir telefon ekosistemi olarak konumlandiriyor."
+        "question": "Janto'yu standart bir telefon arayüzunden ayiran sey ne?",
+        "answer": "Dokumanlar Janto'yu yalnizca bir launcher gibi degil; Messages, WhisApp, Vibeshot, banka, garaj, acil durum, ayarlar, vault ve bataryayi tek sahip olunan cihazda birleştiren tam bir telefon ekosistemi olarak konumlandiriyor."
       },
       {
         "question": "Ciddi RP sunucuları için uygun mu?",
         "answer": "Evet. Item seviyesinde sahiplik, batarya dususu ve powerbank destegi, konum farkindalikli acil bildirim, coklu hesap bankaciligi ve sunucu tarafli bridge entegrasyonlari daha derin RP sunucularina uygun bir temel kurar."
       },
       {
-        "question": "Hangi canli etkilesim katmanlari gercekten var?",
-        "answer": "Dokumanlarda sesli not, kisi karti, cevap akisi, canli konum, link onizlemesi, reels, hikayeler, canli yayinlar, harita paylasimi, ekran yansitma ve konum odakli acil durum akislari acikca yer aliyor."
+        "question": "Hangi canli etkilesim katmanlari gerçekten var?",
+        "answer": "Dokumanlarda sesli not, kişi karti, cevap akişi, canli konum, link önizlemesi, reels, hikayeler, canli yayınlar, harita paylasimi, ekran yansitma ve konum odakli acil durum akışlari acikca yer aliyor."
       },
       {
         "question": "Entegrasyon kapsami ne kadar genis?",
-        "answer": "Janto; QBox, QBCore, ESX, vRP ve standalone yapilarla birlikte envanter, garaj, bankacilik, ses, medya upload, log ve birden fazla dil katmanina dokunan genis bir entegrasyon yuzeyi sunar."
+        "answer": "Janto; QBox, QBCore, ESX, vRP ve standalone yapilarla birlikte envanter, garaj, bankacilik, ses, medya upload, log ve birden fazla dil katmanına dokunan genis bir entegrasyon yuzeyi sunar."
       }
     ]
   },
@@ -1436,7 +1436,7 @@ export const landingContent = {
     "backdropMode": "footer-depth",
     "eyebrow": "Yayina hazir",
     "title": "Sunucuna premium telefon deneyimi getir.",
-    "body": "Dunyana dogru sekilde oturan modern bir oyun ici telefon ekosistemiyle gunluk RP deneyimini yukselt."
+    "body": "Dünyana dogru sekilde oturan modern bir oyun ici telefon ekosistemiyle gunluk RP deneyimini yukselt."
   }
 }
 };

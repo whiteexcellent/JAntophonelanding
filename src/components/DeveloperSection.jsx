@@ -4,10 +4,10 @@ import { useLanguage } from "../context/LanguageContext";
 export function DeveloperSection() {
   const { lang } = useLanguage();
   const t = {
-    meet: lang === "tr" ? "Gelistirici ile Tanisin" : "Meet the Developer",
-    status: lang === "tr" ? "Gelistiriliyor" : "Developing",
-    title: lang === "tr" ? "Full Stack Gelistirici" : "Full Stack Developer",
-    contact: lang === "tr" ? "Iletisim" : "Contact",
+    meet: lang === "tr" ? "Geliştirici ile Tanışın" : "Meet the Developer",
+    status: lang === "tr" ? "Geliştirici" : "Developer",
+    title: lang === "tr" ? "Full Stack Geliştirici" : "Full Stack Developer",
+    contact: lang === "tr" ? "İletişim" : "Contact",
   };
 
   return (
