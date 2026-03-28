@@ -55,7 +55,7 @@ function App() {
         className="pointer-events-none absolute inset-0 z-0"
         quantity={isMobile ? 36 : isTablet ? 72 : 150}
         ease={80}
-        color={isDarkMode ? "#3b82f6" : "#0ea5e9"}
+        color={isDarkMode ? "#3b82f6" : "#000000"}
         refresh
       />
 

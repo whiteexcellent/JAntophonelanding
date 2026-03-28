@@ -66,6 +66,37 @@ export function Footer() {
           <p className="text-xs font-medium text-neutral-500 dark:text-white/40">
             © {new Date().getFullYear()} Janto Development. {t.rights} <span className="ml-2 border-l border-black/20 pl-2 dark:border-white/20">{lang === 'tr' ? 'Site Tasarımı: ' : 'Designed by '}<a href="https://github.com/whiteexcellent" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-neutral-800 hover:underline dark:hover:text-white">whiteexcellent</a></span>
           </p>
+
+          <div className="flex items-center gap-4 text-neutral-500 dark:text-white/40">
+            <a href="https://kick.com/jantoo" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-neutral-900 dark:hover:text-white" aria-label="Kick">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M21.141 3.963h-2.477v4.945h-2.435V3.963H11.23v4.945H8.756V3.963H3.722v16.074h5.034v-4.943h2.473v4.943h2.518v-4.943h2.477v4.943h4.945V3.963zM16.14 13.91h-2.435v-2.474h2.435v2.474z"/>
+              </svg>
+            </a>
+            <a href="https://www.instagram.com/iamoznozkn" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-neutral-900 dark:hover:text-white" aria-label="Instagram">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
+                <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
+                <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
+              </svg>
+            </a>
+            <a href="https://www.youtube.com/@imjanto" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-neutral-900 dark:hover:text-white" aria-label="YouTube">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M22.54 6.42a2.78 2.78 0 0 0-1.94-2C18.88 4 12 4 12 4s-6.88 0-8.6.46a2.78 2.78 0 0 0-1.94 2A29 29 0 0 0 1 11.75a29 29 0 0 0 .46 5.33A2.78 2.78 0 0 0 3.4 19c1.72.46 8.6.46 8.6.46s6.88 0 8.6-.46a2.78 2.78 0 0 0 1.94-2 29 29 0 0 0 .46-5.25 29 29 0 0 0-.46-5.33z"></path>
+                <polygon points="9.75 15.02 15.5 11.75 9.75 8.48 9.75 15.02"></polygon>
+              </svg>
+            </a>
+            <a href="https://www.twitch.tv/imjanto" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-neutral-900 dark:hover:text-white" aria-label="Twitch">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <path d="M21 2H3v16h5v4l4-4h5l4-4V2zm-10 9V7m5 4V7"></path>
+              </svg>
+            </a>
+            <a href="https://www.tiktok.com/@imjanto" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-neutral-900 dark:hover:text-white" aria-label="TikTok">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12.53.02C13.84 0 15.14.01 16.44 0c.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 2.25-.97 4.41-2.58 5.92-1.89 1.83-4.52 2.89-7.1 2.65-2.59-.16-5.04-1.47-6.52-3.48-1.57-2.09-2.02-4.89-1.2-7.39.77-2.42 2.62-4.42 4.97-5.32 2.45-.96 5.25-.8 7.6 0v4.08c-1.39-.77-3.08-1.01-4.7-.63-1.61.34-3.04 1.4-3.8 2.87-.79 1.51-.7 3.32.22 4.75 1.01 1.58 2.89 2.51 4.74 2.37 1.89-.13 3.65-1.29 4.41-3.01.44-.98.6-2.09.58-3.18V.02h-1.69Z" />
+              </svg>
+            </a>
+          </div>
         </div>
       </div>
     </footer>
