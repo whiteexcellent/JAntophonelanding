@@ -19,7 +19,7 @@ export function HeroSection({ hero, ctas, isDarkMode }) {
     <section className="relative z-10 flex min-h-screen w-full items-center justify-center overflow-x-hidden pt-12 pb-20 sm:pt-16 md:pt-20 md:pb-24 lg:pt-20 lg:pb-32">
       <div className="pointer-events-none absolute bottom-0 left-0 z-0 h-64 w-full bg-gradient-to-b from-transparent to-white transition-colors duration-500 dark:to-black" />
       
-      <div className="absolute inset-0 -z-10 flex items-center justify-center opacity-70 overflow-hidden">
+      <div className="absolute inset-0 -z-10 flex items-center justify-center opacity-30 dark:opacity-40 overflow-hidden mix-blend-multiply dark:mix-blend-screen">
         <div className="pointer-events-none h-[650px] w-[650px] md:h-[1000px] md:w-[1000px]">
           <Globe 
             dark={isDarkMode ? 1 : 0} 
