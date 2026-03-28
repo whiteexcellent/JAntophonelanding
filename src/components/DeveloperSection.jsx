@@ -17,7 +17,7 @@ export function DeveloperSection() {
       </div>
 
       <ProfileCard
-        name="Ozan Ozkan"
+        name={lang === "tr" ? "Ozan Özkan" : "Ozan Ozkan"}
         title={t.title}
         handle="iamoznozkn"
         avatarUrl="/ozan.jpg"
