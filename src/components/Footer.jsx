@@ -15,6 +15,7 @@ export function Footer() {
     legal: lang === "tr" ? "Yasal & İletişim" : "Legal & Connect",
     tos: lang === "tr" ? "Hizmet Şartları" : "Terms of Service",
     community: lang === "tr" ? "Discord Topluluğu ↗" : "Discord Community ↗",
+    bluurDiscord: lang === "tr" ? "Bluur Design Discord ↗" : "Bluur Design Discord ↗",
     rights: lang === "tr" ? "Tüm hakları saklıdır." : "All rights reserved.",
   };
 
@@ -58,6 +59,7 @@ export function Footer() {
               <h4 className="text-sm font-semibold text-neutral-900 dark:text-white">{t.legal}</h4>
               <a href="https://docs.jantolab.com/en/guide/faq.html" target="_blank" rel="noopener noreferrer" className="w-fit break-words text-sm text-neutral-600 transition-colors hover:text-neutral-900 dark:text-white/50 dark:hover:text-white">{t.tos}</a>
               <a href="https://discord.gg/qW9bGKvQ9j" target="_blank" rel="noopener noreferrer" className="flex w-fit items-center gap-1 break-words text-sm text-blue-600 transition-colors hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300">{t.community}</a>
+              <a href="https://discord.gg/bluur" target="_blank" rel="noopener noreferrer" className="flex w-fit items-center gap-1 break-words text-sm text-blue-600 transition-colors hover:text-blue-700 dark:text-blue-400 dark:hover:text-blue-300">{t.bluurDiscord}</a>
             </div>
           </div>
         </div>
