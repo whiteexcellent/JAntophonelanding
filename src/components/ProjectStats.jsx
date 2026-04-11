@@ -96,14 +96,18 @@ export function ProjectStats() {
         : `/api/discord-messages?type=${activeTab}`;
         
       const res = await fetch(apiUrl);
-      if (!res.ok) throw new Error("API Error");
+      const contentType = res.headers.get("content-type") || "";
+      if (!res.ok || !contentType.includes("application/json")) {
+        setMessages([]);
+        return;
+      }
       const data = await res.json();
       
       if (data.error) throw new Error(data.error);
       if (Array.isArray(data)) setMessages(data);
     } catch (err) {
-      console.error("Message fetch err:", err);
-      if (!isBackground) setError(t.error);
+      setMessages([]);
+      if (!isBackground) setError(null);
     } finally {
       if (!isBackground) setLoading(false);
     }

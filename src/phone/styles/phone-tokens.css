@@ -1,0 +1,59 @@
+/* Janto Phone Design Tokens */
+:root {
+  --phone-bg: #050505;
+  --phone-surface-1: #111111;
+  --phone-surface-2: #181818;
+  --phone-surface-3: #232323;
+  --phone-surface-light: #f3f4f6;
+  --phone-separator-dark: rgba(255,255,255,0.08);
+  --phone-separator-light: rgba(0,0,0,0.08);
+  --phone-green: #22c55e;
+  --phone-blue: #0a84ff;
+  --phone-red: #ff453a;
+  --phone-amber: #f59e0b;
+  --phone-white: #ffffff;
+  --phone-black: #000000;
+  --phone-text-primary: #ffffff;
+  --phone-text-secondary: rgba(255,255,255,0.6);
+  --phone-text-tertiary: rgba(255,255,255,0.4);
+  --phone-text-primary-light: #000000;
+  --phone-text-secondary-light: rgba(0,0,0,0.6);
+  --phone-text-tertiary-light: rgba(0,0,0,0.4);
+
+  /* Typography */
+  --phone-font-family: 'Inter Variable', 'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', system-ui, sans-serif;
+  --phone-font-rounded: 'Inter Variable', 'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Rounded', system-ui, sans-serif;
+
+  /* Shell metrics */
+  --phone-outer-radius: 60px;
+  --phone-inner-bezel-radius: 52px;
+  --phone-screen-radius: 48px;
+  --phone-top-inset: 22px;
+  --phone-horizontal-safe: 27px;
+  --phone-bottom-inset: 20px;
+  --phone-island-width: 120px;
+  --phone-island-height: 35px;
+  --phone-gesture-bar-width: 144px;
+  --phone-gesture-bar-height: 5px;
+
+  /* Home metrics */
+  --phone-icon-size: 68px;
+  --phone-icon-label-gap: 6px;
+  --phone-grid-gap: 18px;
+  --phone-dock-height: 106px;
+  --phone-dock-radius: 42px;
+  --phone-widget-gap: 12px;
+  --phone-widget-radius: 28px;
+  --phone-search-pill-width: 80px;
+  --phone-search-pill-height: 32px;
+
+  /* List/card metrics */
+  --phone-large-title-gap: 8px;
+  --phone-list-row-height: 56px;
+  --phone-row-radius: 18px;
+  --phone-row-icon-size: 28px;
+  --phone-card-radius: 22px;
+  --phone-heavy-card-radius: 26px;
+  --phone-cta-height: 58px;
+  --phone-chip-height: 38px;
+}

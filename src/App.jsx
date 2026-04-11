@@ -1,4 +1,8 @@
 import { useEffect, useState, Suspense, lazy } from "react";
+import "./phone/styles/phone-tokens.css";
+import "./phone/styles/phone-shell.css";
+import "./phone/styles/phone-os.css";
+import "./phone/styles/phone-apps.css";
 import { Particles } from "@/components/ui/particles";
 import { FloatingNav } from "./components/FloatingNav";
 import { HeroSection } from "./components/HeroSection";
@@ -13,6 +17,7 @@ const FeaturesSection = lazy(() => import("./components/FeaturesSection").then(m
 const FAQSection = lazy(() => import("./components/FAQSection").then(module => ({ default: module.FAQSection })));
 const Footer = lazy(() => import("./components/Footer").then(module => ({ default: module.Footer })));
 const StorePopup = lazy(() => import("./components/StorePopup").then(module => ({ default: module.StorePopup })));
+const JanTwoBot = lazy(() => import("./components/JanTwoBot").then(module => ({ default: module.JanTwoBot })));
 
 function App() {
   const { lang } = useLanguage();
@@ -84,6 +89,7 @@ function App() {
       <Suspense fallback={null}>
         <Footer />
         <StorePopup />
+        <JanTwoBot />
       </Suspense>
     </div>
   );

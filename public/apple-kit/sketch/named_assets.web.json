@@ -1,0 +1,1370 @@
+[
+  {
+    "imageRef": "images/853732577995ec08625706620b0235b0184b90e8.pdf",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\853732577995ec08625706620b0235b0184b90e8.pdf",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\System_Control_Center_Dark_iPad___Controls___2x2_-_Now_Playing___Album_Artwork__2.pdf",
+    "pageName": "􀟞 System",
+    "path": "System/Control Center/Dark/iPad / Controls / 2x2 - Now Playing / Album Artwork",
+    "usageCount": 18,
+    "url": "/apple-kit/sketch/named_assets/System/System_Control_Center_Dark_iPad___Controls___2x2_-_Now_Playing___Album_Artwork__2.pdf"
+  },
+  {
+    "imageRef": "images/7133af222d3faafb5158281fede2f598cad056cc.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\7133af222d3faafb5158281fede2f598cad056cc.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Keyboards\\Keyboard_Dark_iPhone_Emoji___Emoji_Search___Genmoji___Genmoji__2.png",
+    "pageName": "􀇳 Keyboards",
+    "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Genmoji",
+    "usageCount": 16,
+    "url": "/apple-kit/sketch/named_assets/Keyboards/Keyboard_Dark_iPhone_Emoji___Emoji_Search___Genmoji___Genmoji__2.png"
+  },
+  {
+    "imageRef": "images/26f4759b48c327d9648cc3539c1aa00f1340f4aa.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\26f4759b48c327d9648cc3539c1aa00f1340f4aa.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Kit\\Kit_Swatch_Background___Column_4___Dark_-_Base__2.png",
+    "pageName": "Kit",
+    "path": "􀻃/Kit/Swatch Background / Column 4 / Dark - Base",
+    "usageCount": 9,
+    "url": "/apple-kit/sketch/named_assets/Kit/Kit_Swatch_Background___Column_4___Dark_-_Base__2.png"
+  },
+  {
+    "imageRef": "images/a6b50010e1601a559446201f0af1868b6c83a477.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a6b50010e1601a559446201f0af1868b6c83a477.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Kit\\Kit_Swatch_Background___Column_4___Light__2.png",
+    "pageName": "Kit",
+    "path": "􀻃/Kit/Swatch Background / Column 4 / Light",
+    "usageCount": 5,
+    "url": "/apple-kit/sketch/named_assets/Kit/Kit_Swatch_Background___Column_4___Light__2.png"
+  },
+  {
+    "imageRef": "images/32d1f830a27b90be152fa29964b765dcca9fb796.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\32d1f830a27b90be152fa29964b765dcca9fb796.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Keyboards\\Keyboard_Dark_iPhone_Emoji___Emoji___Row_3___IMG_2522__2.png",
+    "pageName": "􀇳 Keyboards",
+    "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 3 / IMG_2522",
+    "usageCount": 2,
+    "url": "/apple-kit/sketch/named_assets/Keyboards/Keyboard_Dark_iPhone_Emoji___Emoji___Row_3___IMG_2522__2.png"
+  },
+  {
+    "imageRef": "images/45927b288ed56e1599d9e75291425f4d74090cc8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\45927b288ed56e1599d9e75291425f4d74090cc8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Keyboards\\Keyboard_Dark_iPhone_Emoji___Emoji___Row_2___IMG_2536__2.png",
+    "pageName": "􀇳 Keyboards",
+    "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 2 / IMG_2536",
+    "usageCount": 2,
+    "url": "/apple-kit/sketch/named_assets/Keyboards/Keyboard_Dark_iPhone_Emoji___Emoji___Row_2___IMG_2536__2.png"
+  },
+  {
+    "imageRef": "images/5d91f29ade7529474124560e128a5ee14d204a36.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\5d91f29ade7529474124560e128a5ee14d204a36.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Keyboards\\Keyboard_Dark_iPhone_Emoji___Emoji___Row_3___IMG_2527__2.png",
+    "pageName": "􀇳 Keyboards",
+    "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 3 / IMG_2527",
+    "usageCount": 2,
+    "url": "/apple-kit/sketch/named_assets/Keyboards/Keyboard_Dark_iPhone_Emoji___Emoji___Row_3___IMG_2527__2.png"
+  },
+  {
+    "imageRef": "images/a4d81402eaf2534b4dd2b6f9ca42509b7b95fbb7.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a4d81402eaf2534b4dd2b6f9ca42509b7b95fbb7.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Color_Wells_and_Pickers\\Color_Pickers___Dark_Opacity_Meter___Stack___Slider__2.png",
+    "pageName": "􀎘 Color Wells and Pickers",
+    "path": "Color Pickers/􀻃/Dark/Opacity Meter / Stack / Slider",
+    "usageCount": 2,
+    "url": "/apple-kit/sketch/named_assets/Color_Wells_and_Pickers/Color_Pickers___Dark_Opacity_Meter___Stack___Slider__2.png"
+  },
+  {
+    "imageRef": "images/a6f29378a780ca96f07da037e019df8e5e4c5d23.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a6f29378a780ca96f07da037e019df8e5e4c5d23.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Activity_Views\\Activity_View___Person_-_Photo_-_Double___Frame__3.png",
+    "pageName": "􀈂 Activity Views",
+    "path": "Activity View/􀻃/Person - Photo - Double / Frame",
+    "usageCount": 2,
+    "url": "/apple-kit/sketch/named_assets/Activity_Views/Activity_View___Person_-_Photo_-_Double___Frame__3.png"
+  },
+  {
+    "imageRef": "images/d2262cf9c123e525539d17c281175f277059e8fa.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\d2262cf9c123e525539d17c281175f277059e8fa.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Keyboards\\Keyboard_Dark_iPhone_Emoji___Emoji___Row_2___IMG_2535__2.png",
+    "pageName": "􀇳 Keyboards",
+    "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 2 / IMG_2535",
+    "usageCount": 2,
+    "url": "/apple-kit/sketch/named_assets/Keyboards/Keyboard_Dark_iPhone_Emoji___Emoji___Row_2___IMG_2535__2.png"
+  },
+  {
+    "imageRef": "images/ebcd9239928d4a3db33311e4e4fdfaa59b17bbba.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\ebcd9239928d4a3db33311e4e4fdfaa59b17bbba.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Keyboards\\Keyboard_Dark_iPhone_Emoji___Emoji___Row_3___IMG_2526__2.png",
+    "pageName": "􀇳 Keyboards",
+    "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 3 / IMG_2526",
+    "usageCount": 2,
+    "url": "/apple-kit/sketch/named_assets/Keyboards/Keyboard_Dark_iPhone_Emoji___Emoji___Row_3___IMG_2526__2.png"
+  },
+  {
+    "imageRef": "images/0246ca452bda6f59bd0bffb44166412561ff35d7.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0246ca452bda6f59bd0bffb44166412561ff35d7.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_iTunes_Store___itunesstore-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/iTunes Store / itunesstore-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_iTunes_Store___itunesstore-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/02d441b52849b9cfe3bec5b3b1d06624b363a7b5.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\02d441b52849b9cfe3bec5b3b1d06624b363a7b5.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Find_My___findmy-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Find My / findmy-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Find_My___findmy-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/03897844adf1c9d9d5746dd939da199d0d565643.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\03897844adf1c9d9d5746dd939da199d0d565643.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Watch___watch_companion-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Watch / watch.companion-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Watch___watch_companion-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/0460450a304b1ae922d27842341be4052e81714b.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0460450a304b1ae922d27842341be4052e81714b.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Messages___messages-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Messages / messages-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Messages___messages-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/051b58433fa383b24dbe8bfeaa2eabb89464232b.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\051b58433fa383b24dbe8bfeaa2eabb89464232b.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Games___games-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Games / games-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Games___games-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/0527a2dcaabc5e1229ec365f1aa7f8a27ed46a60.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0527a2dcaabc5e1229ec365f1aa7f8a27ed46a60.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Clock___clock-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Clock / clock-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Clock___clock-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/07879ac06c2419aac5d0afc599a7a7a20b955a1e.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\07879ac06c2419aac5d0afc599a7a7a20b955a1e.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_TV___tv-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/TV / tv-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_TV___tv-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/095bc376d95ecbce6730096f1acb366a48ca207a.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\095bc376d95ecbce6730096f1acb366a48ca207a.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Reminders___reminders-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Reminders / reminders-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Reminders___reminders-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/09f4a47740f7ddbe5e439fc608c938ddc1f043b6.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\09f4a47740f7ddbe5e439fc608c938ddc1f043b6.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Contacts___contacts-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Contacts / contacts-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Contacts___contacts-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/0a13396347c1b4915f46333179032d6a8a5948ee.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0a13396347c1b4915f46333179032d6a8a5948ee.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Wallet___wallet-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Wallet / wallet-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Wallet___wallet-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/0ae9372578f0fb2b08758bd9cc968f4da046a007.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0ae9372578f0fb2b08758bd9cc968f4da046a007.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Custom___placeholder-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Custom / placeholder-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Custom___placeholder-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/0b1e35d16c268f4e09f2b120ff468024af41da42.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0b1e35d16c268f4e09f2b120ff468024af41da42.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_FaceTime___facetime-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/FaceTime / facetime-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_FaceTime___facetime-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/0d238ef358a139f8257094d52b1393a129c4485d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0d238ef358a139f8257094d52b1393a129c4485d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Preview___preview-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Preview / preview-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Preview___preview-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/0de6b742a91500c033f37c924a5186c97f4feed8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0de6b742a91500c033f37c924a5186c97f4feed8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Passwords___passwords-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Passwords / passwords-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Passwords___passwords-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/0f9bf4f039b76b2da016f690324cf2e547b04fab.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\0f9bf4f039b76b2da016f690324cf2e547b04fab.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Translate___translate-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Translate / translate-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Translate___translate-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/132baebc99e8e1d6b55496631dd09c424288058f.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\132baebc99e8e1d6b55496631dd09c424288058f.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_News___news-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/News / news-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_News___news-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/14fef399a8759ba0960138250800f9560a60e445.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\14fef399a8759ba0960138250800f9560a60e445.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_App_Store___appstore-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/App Store / appstore-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_App_Store___appstore-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/193632f5fc8909ad52e609d1a6f5065e2e4353a5.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\193632f5fc8909ad52e609d1a6f5065e2e4353a5.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Stocks___stocks-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Stocks / stocks-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Stocks___stocks-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/1a9d6060cf20f91b6c4038f2847f25266515fd8e.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\1a9d6060cf20f91b6c4038f2847f25266515fd8e.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Preview___preview-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Preview / preview-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Preview___preview-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/1b70f7391dd84eb1dd3970231cc4cc3722e68008.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\1b70f7391dd84eb1dd3970231cc4cc3722e68008.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Pickers\\Date_and_Time_Pickers_Wheel_Light_Time_Picker___Time_Picker_Wheel__2.png",
+    "pageName": "􂬁 Pickers",
+    "path": "Date and Time Pickers/Wheel/Light/Time Picker / Time Picker Wheel",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/Pickers/Date_and_Time_Pickers_Wheel_Light_Time_Picker___Time_Picker_Wheel__2.png"
+  },
+  {
+    "imageRef": "images/22ab2ff89fb091208aa964152624e78c7633f9d8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\22ab2ff89fb091208aa964152624e78c7633f9d8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Find_My___findmy-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Find My / findmy-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Find_My___findmy-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/22dacb0e32ed3ea31c201a473e8c18eb07344ab2.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\22dacb0e32ed3ea31c201a473e8c18eb07344ab2.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_News___news-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/News / news-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_News___news-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/26904803380860f0b6ee28aae600e05f7dbfd373.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\26904803380860f0b6ee28aae600e05f7dbfd373.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Games___games-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Games / games-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Games___games-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/2874a9c16a70f45adfc98e5f16edf301a0d7f2b2.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2874a9c16a70f45adfc98e5f16edf301a0d7f2b2.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Weather___weather-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Weather / weather-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Weather___weather-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/290d163c1ac96ff4a9288dfcad93c098424066d5.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\290d163c1ac96ff4a9288dfcad93c098424066d5.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Measure___measure-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Measure / measure-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Measure___measure-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/2d11e00c1e3e209d091072d4daeafbbc423fe346.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2d11e00c1e3e209d091072d4daeafbbc423fe346.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Home___home-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Home / home-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Home___home-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/2dba5fae5e378addd1711363a96c3f1317d7e886.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2dba5fae5e378addd1711363a96c3f1317d7e886.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Stocks___stocks-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Stocks / stocks-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Stocks___stocks-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/2dfa1c062e3ec1eeaad532696c841c4905d8fbae.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2dfa1c062e3ec1eeaad532696c841c4905d8fbae.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Reminders___reminders-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Reminders / reminders-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Reminders___reminders-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/2e97bdd7f9e9d04017f3806a548fc1f62fd7b598.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2e97bdd7f9e9d04017f3806a548fc1f62fd7b598.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Music___music-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Music / music-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Music___music-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/2f2fadcee43eeb9cfbe189f4f1db9b06e3b946ac.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2f2fadcee43eeb9cfbe189f4f1db9b06e3b946ac.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Clock___clock-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Clock / clock-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Clock___clock-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/2fdb537cf0c575a8a4fd749ce7bdb6d6a478cb8a.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2fdb537cf0c575a8a4fd749ce7bdb6d6a478cb8a.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Airdrop___airdrop-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Airdrop / airdrop-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Airdrop___airdrop-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/2ffbb7de33f183efeae91803bef9f8cab55e51a9.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\2ffbb7de33f183efeae91803bef9f8cab55e51a9.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Passwords___passwords-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Passwords / passwords-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Passwords___passwords-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/30438441d7eb237e9a31f6cc1d081d2a832e534d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\30438441d7eb237e9a31f6cc1d081d2a832e534d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Keynote___keynote-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Keynote / keynote-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Keynote___keynote-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/30f358fd0fdbc03e1a3b363a4c4637a2c1766c19.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\30f358fd0fdbc03e1a3b363a4c4637a2c1766c19.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Health___health-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Health / health-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Health___health-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/30fdec39fd0d1cf752ac72b774eaf94972d745f4.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\30fdec39fd0d1cf752ac72b774eaf94972d745f4.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_FaceTime___facetime-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/FaceTime / facetime-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_FaceTime___facetime-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/3386b06444f8f3d10e9b6de19a2e201e7bd232cb.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3386b06444f8f3d10e9b6de19a2e201e7bd232cb.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_News___news-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/News / news-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_News___news-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/352223ab382997b2a4e827cc984e6498e4049a18.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\352223ab382997b2a4e827cc984e6498e4049a18.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Pickers\\Date_and_Time_Pickers_Wheel_Dark_Time_Picker___Time_Picker_Wheel__2.png",
+    "pageName": "􂬁 Pickers",
+    "path": "Date and Time Pickers/Wheel/Dark/Time Picker / Time Picker Wheel",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/Pickers/Date_and_Time_Pickers_Wheel_Dark_Time_Picker___Time_Picker_Wheel__2.png"
+  },
+  {
+    "imageRef": "images/3756d4b132726061a4241e9e238d20b5e3f63759.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3756d4b132726061a4241e9e238d20b5e3f63759.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Numbers___numbers-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Numbers / numbers-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Numbers___numbers-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/3867091827beaabd0c7764cac027d183f6400e78.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3867091827beaabd0c7764cac027d183f6400e78.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Phone___phone-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Phone / phone-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Phone___phone-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/3a231c574fcb6ccf60932c8b32f6787240b9da91.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3a231c574fcb6ccf60932c8b32f6787240b9da91.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Preview___preview-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Preview / preview-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Preview___preview-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/3a6600dc9ead95a979fc5e77bda00123368b656c.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3a6600dc9ead95a979fc5e77bda00123368b656c.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Maps___maps-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Maps / maps-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Maps___maps-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/3a84838ea85239936a128e0e23dee4b6118e9446.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3a84838ea85239936a128e0e23dee4b6118e9446.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Pages___pages-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Pages / pages-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Pages___pages-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/3b272f4913d26d911584c658597f2f47e258296a.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3b272f4913d26d911584c658597f2f47e258296a.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_App_Store___appstore-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/App Store / appstore-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_App_Store___appstore-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/3da5690e0c6f4b9a5d2adad07eeb07c8a9b96acd.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\3da5690e0c6f4b9a5d2adad07eeb07c8a9b96acd.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Keynote___keynote-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Keynote / keynote-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Keynote___keynote-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/407dede455232a319869edb9b38779739d35c186.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\407dede455232a319869edb9b38779739d35c186.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Messages___messages-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Messages / messages-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Messages___messages-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/43f243be5e3f3229231150866025c975dd8fb837.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\43f243be5e3f3229231150866025c975dd8fb837.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Music___music-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Music / music-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Music___music-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/44dfe0d8ccfdf20e1a6f73e04d25d8029b3bf99b.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\44dfe0d8ccfdf20e1a6f73e04d25d8029b3bf99b.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Health___health-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Health / health-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Health___health-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/458fe1d1f4737e1295a3d3013f420493323467fe.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\458fe1d1f4737e1295a3d3013f420493323467fe.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Translate___translate-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Translate / translate-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Translate___translate-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/4866973b4aa12af00d6560f22a9d7b3276cc7195.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\4866973b4aa12af00d6560f22a9d7b3276cc7195.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Games___games-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Games / games-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Games___games-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/4c696e4550900b7729b6da1c841e021c68e89fb2.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\4c696e4550900b7729b6da1c841e021c68e89fb2.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Weather___weather-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Weather / weather-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Weather___weather-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/4cb776cca578e6de74c09abbb1aa9a66f804b1a4.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\4cb776cca578e6de74c09abbb1aa9a66f804b1a4.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Settings___settings-iOS-Defaultb__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Settings / settings-iOS-Defaultb",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Settings___settings-iOS-Defaultb__2.png"
+  },
+  {
+    "imageRef": "images/4ebfd85af38092d9996312f84e7dbbc654def865.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\4ebfd85af38092d9996312f84e7dbbc654def865.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Numbers___numbers-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Numbers / numbers-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Numbers___numbers-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/50f04482099abfc94ff3dfc3d1d714166edfe62d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\50f04482099abfc94ff3dfc3d1d714166edfe62d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Maps___maps-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Maps / maps-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Maps___maps-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/5201c61b7dba7c3286e14c30cc6a2ad60dae3be6.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\5201c61b7dba7c3286e14c30cc6a2ad60dae3be6.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Maps___maps-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Maps / maps-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Maps___maps-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/5360c67b37d25191420193c038421fb50f5a9658.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\5360c67b37d25191420193c038421fb50f5a9658.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Home___home-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Home / home-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Home___home-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/54a0288cdd7db55c01ef3e4f927486b75d565d16.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\54a0288cdd7db55c01ef3e4f927486b75d565d16.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Numbers___numbers-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Numbers / numbers-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Numbers___numbers-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/55067b61f65d8754f125f338870401ab9a1b6465.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\55067b61f65d8754f125f338870401ab9a1b6465.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Phone___phone-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Phone / phone-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Phone___phone-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/556c9bf6296da84b4e92acef23fc21e668fa9b85.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\556c9bf6296da84b4e92acef23fc21e668fa9b85.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Calendar___calendar-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Calendar / calendar-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Calendar___calendar-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/56cc322be940f6208179448481db1895473199b9.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\56cc322be940f6208179448481db1895473199b9.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Measure___measure-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Measure / measure-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Measure___measure-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/580ed7ced1ff3de3dd4b500248139e819bd9585c.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\580ed7ced1ff3de3dd4b500248139e819bd9585c.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_TV___tv-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/TV / tv-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_TV___tv-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/5a34a80d20329d70e02e611a322f89597fa40f95.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\5a34a80d20329d70e02e611a322f89597fa40f95.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Camera___camera-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Camera / camera-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Camera___camera-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/5c8f273ef36a746fac5350768903785370620e3c.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\5c8f273ef36a746fac5350768903785370620e3c.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_iTunes_Store___itunesstore-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/iTunes Store / itunesstore-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_iTunes_Store___itunesstore-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/5db9024c98385ab3de2123718e59a318c6152bca.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\5db9024c98385ab3de2123718e59a318c6152bca.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Airdrop___airdrop-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Airdrop / airdrop-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Airdrop___airdrop-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/606c725dfd271b4e4ef81363d8bcdc9d7ba6ebb9.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\606c725dfd271b4e4ef81363d8bcdc9d7ba6ebb9.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Calendar___calendar-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Calendar / calendar-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Calendar___calendar-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/613a431c9ff5d79726124273e8c3bf828d54b200.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\613a431c9ff5d79726124273e8c3bf828d54b200.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Calculator___calculator-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Calculator / calculator-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Calculator___calculator-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/6147004807050ab8e4e5ca0dd4adddce5d3ba3d9.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6147004807050ab8e4e5ca0dd4adddce5d3ba3d9.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Fitness___fitness-macOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Fitness / fitness-macOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Fitness___fitness-macOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/617878852afe2ae1821778f33c194a35cbc00629.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\617878852afe2ae1821778f33c194a35cbc00629.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Safari___safari-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Safari / safari-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Safari___safari-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/61a1b4c2e212f15f3cec6ab33b8bcf0db25c01be.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\61a1b4c2e212f15f3cec6ab33b8bcf0db25c01be.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Passwords___passwords-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Passwords / passwords-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Passwords___passwords-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/640aa1db1678fa42eb5c9004fc30b8b8387a2834.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\640aa1db1678fa42eb5c9004fc30b8b8387a2834.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Books___books-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Books / books-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Books___books-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/66e1d75d43ea0809e6d6026ee1673e5a156c2c4f.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\66e1d75d43ea0809e6d6026ee1673e5a156c2c4f.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Contacts___contacts-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Contacts / contacts-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Contacts___contacts-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/6a320b891e94642bb016942631022ec47e0e1512.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6a320b891e94642bb016942631022ec47e0e1512.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Podcasts___podcasts-macOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Podcasts / podcasts-macOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Podcasts___podcasts-macOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/6ad0ef4732415972a116cd29346f9c236e46daa6.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6ad0ef4732415972a116cd29346f9c236e46daa6.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Reminders___reminders-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Reminders / reminders-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Reminders___reminders-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/6bf0043e54d3ef169f68f98186272e437d66a46d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6bf0043e54d3ef169f68f98186272e437d66a46d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Settings___settings-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Settings / settings-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Settings___settings-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/6c5af4f45aa9ebdd9cd4101d5407d37901d219e7.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6c5af4f45aa9ebdd9cd4101d5407d37901d219e7.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Notes___notes-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Notes / notes-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Notes___notes-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/6e0cb3eeb812280a97f044d6dd933377a933c54b.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6e0cb3eeb812280a97f044d6dd933377a933c54b.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_FaceTime___facetime-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/FaceTime / facetime-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_FaceTime___facetime-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/6f3cd14e5cb5a3e3ce52f94987aad147884ddca1.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6f3cd14e5cb5a3e3ce52f94987aad147884ddca1.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Fitness___fitness-macOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Fitness / fitness-macOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Fitness___fitness-macOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/6ff31a5aa2db1b3e1c5461581d40dbf88f3f33f6.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\6ff31a5aa2db1b3e1c5461581d40dbf88f3f33f6.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Home___home-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Home / home-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Home___home-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/75392b6b75f9c50b3329a954f73271d4d53c7488.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\75392b6b75f9c50b3329a954f73271d4d53c7488.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Custom___placeholder-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Custom / placeholder-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Custom___placeholder-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/783f15bea5b49dd67507874dcca05393bb14fe76.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\783f15bea5b49dd67507874dcca05393bb14fe76.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Safari___safari-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Safari / safari-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Safari___safari-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/7902b195406a770b5a377dd08cfdf553224d6a03.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\7902b195406a770b5a377dd08cfdf553224d6a03.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_TV___tv-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/TV / tv-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_TV___tv-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/7ea22452fa56b753f26ea77eacd1150a872d14bc.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\7ea22452fa56b753f26ea77eacd1150a872d14bc.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Files___files-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Files / files-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Files___files-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/82d01f4f644448febf8583ec85725744f98d09cb.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\82d01f4f644448febf8583ec85725744f98d09cb.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Freeform___freeform-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Freeform / freeform-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Freeform___freeform-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/8459e1f2fbf1e4311b1c517eac1e19ff6a77b660.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\8459e1f2fbf1e4311b1c517eac1e19ff6a77b660.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\Wallpapers_Dark_iPhone__2.png",
+    "pageName": "􀟞 System",
+    "path": "Wallpapers/Dark/iPhone",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/Wallpapers_Dark_iPhone__2.png"
+  },
+  {
+    "imageRef": "images/86298e6acabcd7f81569c115da325cfb605271c4.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\86298e6acabcd7f81569c115da325cfb605271c4.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Podcasts___podcasts-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Podcasts / podcasts-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Podcasts___podcasts-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/87e4fdfc18d97832cc9bdfdaa43098405ecbabf0.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\87e4fdfc18d97832cc9bdfdaa43098405ecbabf0.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Photos___photos-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Photos / photos-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Photos___photos-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/8865a1d8414d2dd8fcd6bdcb3d2121e9b6d0255a.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\8865a1d8414d2dd8fcd6bdcb3d2121e9b6d0255a.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Calendar___calendar-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Calendar / calendar-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Calendar___calendar-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/8a7aa13f0d36b6cbd9bbf5e238429b9dc4736a40.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\8a7aa13f0d36b6cbd9bbf5e238429b9dc4736a40.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Airdrop___airdrop-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Airdrop / airdrop-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Airdrop___airdrop-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/8bb44c4b123791dc3f5ba4de3efb3bd478d2a5e8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\8bb44c4b123791dc3f5ba4de3efb3bd478d2a5e8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Fitness___fitness-macOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Fitness / fitness-macOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Fitness___fitness-macOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/8d046f6d96e727711e835bde5f193df0e0b6e9d6.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\8d046f6d96e727711e835bde5f193df0e0b6e9d6.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\Wallpapers_Dark_iPad_Pro_M4_11__2.png",
+    "pageName": "􀟞 System",
+    "path": "Wallpapers/Dark/iPad Pro M4 11",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/Wallpapers_Dark_iPad_Pro_M4_11__2.png"
+  },
+  {
+    "imageRef": "images/8f1dc85a6259358fc0dacaa18935cb2fd83825ce.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\8f1dc85a6259358fc0dacaa18935cb2fd83825ce.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Health___health-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Health / health-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Health___health-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/8fcf066d24f7301a15dd74f23e8e728d585d1b29.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\8fcf066d24f7301a15dd74f23e8e728d585d1b29.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Books___books-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Books / books-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Books___books-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/90a84724c7c47c1a572f428025c0e42404106614.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\90a84724c7c47c1a572f428025c0e42404106614.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Photos___photos-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Photos / photos-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Photos___photos-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/923f6cf456f3889d713d4c69239ff7aadda9943b.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\923f6cf456f3889d713d4c69239ff7aadda9943b.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Voice_Memos___voicememos-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Voice Memos / voicememos-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Voice_Memos___voicememos-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/94630c93bb88b225d6325a23b65d0d9c8cb0c7ab.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\94630c93bb88b225d6325a23b65d0d9c8cb0c7ab.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Stocks___stocks-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Stocks / stocks-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Stocks___stocks-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/9541cf62c2f2014f383df29fbef2f64f3f5ea2e8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\9541cf62c2f2014f383df29fbef2f64f3f5ea2e8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_iTunes_Store___itunesstore-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/iTunes Store / itunesstore-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_iTunes_Store___itunesstore-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/989277243ab3a85c2d69121ae90a12a6abcd81b7.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\989277243ab3a85c2d69121ae90a12a6abcd81b7.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Voice_Memos___voicememos-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Voice Memos / voicememos-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Voice_Memos___voicememos-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/99f881c623970765a24420359057b19a479eb18b.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\99f881c623970765a24420359057b19a479eb18b.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Photos___photos-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Photos / photos-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Photos___photos-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/a4da79793b268bdcd758e4e33a4979bbd83b5a4c.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a4da79793b268bdcd758e4e33a4979bbd83b5a4c.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Mail___mail-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Mail / mail-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Mail___mail-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/a63bc55915ea56cacc109914354e3690783c37ac.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a63bc55915ea56cacc109914354e3690783c37ac.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Camera___camera-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Camera / camera-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Camera___camera-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/a8244f5c7c783c7495448a16279412dc1ca3d46f.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a8244f5c7c783c7495448a16279412dc1ca3d46f.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Settings___settings-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Settings / settings-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Settings___settings-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/a853a11bc50d974fd22a3643d588f17a0927bd47.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a853a11bc50d974fd22a3643d588f17a0927bd47.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Files___files-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Files / files-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Files___files-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/a8d1dde8cb106376e9ec406dc83d5f9b2103abdb.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a8d1dde8cb106376e9ec406dc83d5f9b2103abdb.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Files___files-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Files / files-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Files___files-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/a945605ce4a5fd184ed66ce9fbee5083a323a027.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\a945605ce4a5fd184ed66ce9fbee5083a323a027.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Calculator___calculator-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Calculator / calculator-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Calculator___calculator-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/abce3264fd31e684a321e96cd65f001495beed75.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\abce3264fd31e684a321e96cd65f001495beed75.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Custom___placeholder-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Custom / placeholder-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Custom___placeholder-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/ae06a5648d65c6e1b81b63c17e3668c20607847b.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\ae06a5648d65c6e1b81b63c17e3668c20607847b.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Freeform___freeform-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Freeform / freeform-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Freeform___freeform-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/aef5ffbd78f4f772fc535aa54b8e9bc6cf65017f.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\aef5ffbd78f4f772fc535aa54b8e9bc6cf65017f.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Translate___translate-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Translate / translate-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Translate___translate-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/b0c1f377da8e63bb1357acdcb9d14ca364f893c1.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b0c1f377da8e63bb1357acdcb9d14ca364f893c1.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Watch___watch_companion-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Watch / watch.companion-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Watch___watch_companion-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/b13feaae9916ba039216b848b09b5b9c08fd322d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b13feaae9916ba039216b848b09b5b9c08fd322d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Notes___notes-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Notes / notes-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Notes___notes-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/b30cbd47935f013b9f387edbb1bdefc3163d36bf.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b30cbd47935f013b9f387edbb1bdefc3163d36bf.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Camera___camera-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Camera / camera-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Camera___camera-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/b32d914fee75dd802acd9e370d402b927728441d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b32d914fee75dd802acd9e370d402b927728441d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Watch___watch_companion-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Watch / watch.companion-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Watch___watch_companion-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/b42df5149a4df638f9cc98609d8193740fedae7a.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b42df5149a4df638f9cc98609d8193740fedae7a.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Contacts___contacts-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Contacts / contacts-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Contacts___contacts-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/b4c7e69867cb5ab935933e17e56538e3674a6e82.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b4c7e69867cb5ab935933e17e56538e3674a6e82.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Activity_Views\\Activity_View___Dark_Person___App_Icon___App_Icon___Messages-Light-60x60_3x__2.png",
+    "pageName": "􀈂 Activity Views",
+    "path": "Activity View/􀻃/Dark/Person / App Icon / App Icon / Messages-Light-60x60@3x",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/Activity_Views/Activity_View___Dark_Person___App_Icon___App_Icon___Messages-Light-60x60_3x__2.png"
+  },
+  {
+    "imageRef": "images/b8b1f1d31f4163e4c9a14c9f8fb732ab88e82c4d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b8b1f1d31f4163e4c9a14c9f8fb732ab88e82c4d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_App_Store___appstore-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/App Store / appstore-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_App_Store___appstore-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/b8d163afed461215b913a6eb65c8c2b0dd1289a8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\b8d163afed461215b913a6eb65c8c2b0dd1289a8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Podcasts___podcasts-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Podcasts / podcasts-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Podcasts___podcasts-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/bd953151af9c1b7ce477962002f947e1870fca92.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\bd953151af9c1b7ce477962002f947e1870fca92.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Find_My___findmy-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Find My / findmy-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Find_My___findmy-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/c397f2d695d5412923aded2787037b80d5086d7e.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c397f2d695d5412923aded2787037b80d5086d7e.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Music___music-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Music / music-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Music___music-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/c3f0f53852e0fc70578944dc31b9de23c927c1e8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c3f0f53852e0fc70578944dc31b9de23c927c1e8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Weather___weather-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Weather / weather-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Weather___weather-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/c745938828b751788630f60bcefe20c0789725ee.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c745938828b751788630f60bcefe20c0789725ee.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Voice_Memos___voicememos-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Voice Memos / voicememos-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Voice_Memos___voicememos-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/c7edf5d13a518e5c208b6e5ae91d0fb0518eb925.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c7edf5d13a518e5c208b6e5ae91d0fb0518eb925.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Books___books-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Books / books-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Books___books-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/c80fb58d9804b011fecc47fac869b92f9bae708f.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c80fb58d9804b011fecc47fac869b92f9bae708f.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Mail___mail-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Mail / mail-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Mail___mail-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/c8bee91fe61e8df09158f5e870d6a6b3b33a0c98.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c8bee91fe61e8df09158f5e870d6a6b3b33a0c98.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\Activity_Views\\Activity_View___Person_-_Photo_-_Double___Frame__4.png",
+    "pageName": "􀈂 Activity Views",
+    "path": "Activity View/􀻃/Person - Photo - Double / Frame",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/Activity_Views/Activity_View___Person_-_Photo_-_Double___Frame__4.png"
+  },
+  {
+    "imageRef": "images/c9cbfceee70866d3a9febd3d58ddecf0296446ee.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c9cbfceee70866d3a9febd3d58ddecf0296446ee.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\Wallpapers_Light_iPhone__2.png",
+    "pageName": "􀟞 System",
+    "path": "Wallpapers/Light/iPhone",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/Wallpapers_Light_iPhone__2.png"
+  },
+  {
+    "imageRef": "images/c9eda6609ac48bc4ab5cf259c276423b7abf6eaa.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\c9eda6609ac48bc4ab5cf259c276423b7abf6eaa.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Safari___safari-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Safari / safari-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Safari___safari-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/cb31d72b6d609f8f9b1ec935ca958a4918965d8a.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\cb31d72b6d609f8f9b1ec935ca958a4918965d8a.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Notes___notes-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Notes / notes-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Notes___notes-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/d16cc40be4716f52c614bb35be2327c9fd941797.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\d16cc40be4716f52c614bb35be2327c9fd941797.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Mail___mail-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Mail / mail-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Mail___mail-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/d1ba5afd3b9713bb35493b4e0704ab189eb9a459.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\d1ba5afd3b9713bb35493b4e0704ab189eb9a459.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Freeform___freeform-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Freeform / freeform-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Freeform___freeform-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/d2f3d495e1c07cb24b663c72cc36cb141cc039fb.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\d2f3d495e1c07cb24b663c72cc36cb141cc039fb.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Pages___pages-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Pages / pages-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Pages___pages-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/d383c9b9828829ff45c1d38a77494335fa0375b5.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\d383c9b9828829ff45c1d38a77494335fa0375b5.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Shortcuts___shortcuts-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Shortcuts / shortcuts-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Shortcuts___shortcuts-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/dc55f18985e887f244682bf14d5fb25bfc128961.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\dc55f18985e887f244682bf14d5fb25bfc128961.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Wallet___wallet-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Wallet / wallet-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Wallet___wallet-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/dd4c0cea1a2d3ea0b2a377a28fad1abb059f8aa7.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\dd4c0cea1a2d3ea0b2a377a28fad1abb059f8aa7.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\Wallpapers_Light_iPad_Pro_M4_11__2.png",
+    "pageName": "􀟞 System",
+    "path": "Wallpapers/Light/iPad Pro M4 11",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/Wallpapers_Light_iPad_Pro_M4_11__2.png"
+  },
+  {
+    "imageRef": "images/df40418957ff4456f62fb7d4984f0934fb79dce8.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\df40418957ff4456f62fb7d4984f0934fb79dce8.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Phone___phone-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Phone / phone-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Phone___phone-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/e0255ff03bec9f78bad8d35983240a9da1ba686d.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\e0255ff03bec9f78bad8d35983240a9da1ba686d.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\System_Control_Center_Dark_iPhone___Controls___2x2_-_Now_Playing___Album_Artwork__2.png",
+    "pageName": "􀟞 System",
+    "path": "System/Control Center/Dark/iPhone / Controls / 2x2 - Now Playing / Album Artwork",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/System_Control_Center_Dark_iPhone___Controls___2x2_-_Now_Playing___Album_Artwork__2.png"
+  },
+  {
+    "imageRef": "images/ebbf9ea3387eb1ebf10d88a23ffd3dc93df222c7.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\ebbf9ea3387eb1ebf10d88a23ffd3dc93df222c7.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Clock___clock-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Clock / clock-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Clock___clock-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/ee09d2f806063c5364e438f0ba3620f50183079a.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\ee09d2f806063c5364e438f0ba3620f50183079a.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Shortcuts___shortcuts-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Shortcuts / shortcuts-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Shortcuts___shortcuts-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/ef3a186ea39d6eb1dbb6e8f928727f9e29f473d2.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\ef3a186ea39d6eb1dbb6e8f928727f9e29f473d2.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Calculator___calculator-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Calculator / calculator-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Calculator___calculator-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/f6ae9cd4f154f987f7c11d12ce7ea52030d34e31.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\f6ae9cd4f154f987f7c11d12ce7ea52030d34e31.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Messages___messages-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Messages / messages-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Messages___messages-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/f7a93d119747e20e58ae43a8f63aea0a74807910.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\f7a93d119747e20e58ae43a8f63aea0a74807910.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Wallet___wallet-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Wallet / wallet-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Wallet___wallet-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/fb84d28364654263bc575ca9a30bb008e6e41354.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\fb84d28364654263bc575ca9a30bb008e6e41354.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Light_Clear_Shortcuts___shortcuts-iOS-ClearLight__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Light Clear/Shortcuts / shortcuts-iOS-ClearLight",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Light_Clear_Shortcuts___shortcuts-iOS-ClearLight__2.png"
+  },
+  {
+    "imageRef": "images/fcb4ff76fb2332afe547deee59a6b9d4c773bce9.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\fcb4ff76fb2332afe547deee59a6b9d4c773bce9.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Measure___measure-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Measure / measure-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Measure___measure-iOS-Dark__2.png"
+  },
+  {
+    "imageRef": "images/fd0b2aee63c0bfd8b74be686eb62720ade994d73.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\fd0b2aee63c0bfd8b74be686eb62720ade994d73.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Default_Pages___pages-iOS-Default__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Default/Pages / pages-iOS-Default",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Default_Pages___pages-iOS-Default__2.png"
+  },
+  {
+    "imageRef": "images/fdd47ae1e34852e710931c293d80daa4e82050d0.png",
+    "source": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\images\\fdd47ae1e34852e710931c293d80daa4e82050d0.png",
+    "target": "C:\\Users\\zulak\\Downloads\\jantotelpage\\output\\apple-ios-26-sketch-assets\\named_assets\\System\\App_Icons_Artwork_Dark_Keynote___keynote-iOS-Dark__2.png",
+    "pageName": "􀟞 System",
+    "path": "App Icons/Artwork/Dark/Keynote / keynote-iOS-Dark",
+    "usageCount": 1,
+    "url": "/apple-kit/sketch/named_assets/System/App_Icons_Artwork_Dark_Keynote___keynote-iOS-Dark__2.png"
+  }
+]

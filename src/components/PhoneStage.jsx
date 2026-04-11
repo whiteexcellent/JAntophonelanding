@@ -3,7 +3,7 @@ import { AnimatePresence, motion } from "motion/react";
 import { usePrefersReducedMotion } from "../hooks/usePrefersReducedMotion";
 import { useLanguage } from "../context/LanguageContext";
 import { MotionReveal } from "./MotionReveal";
-import { Iphone16Pro } from "@/components/ui/iphone-16-pro";
+import { Iphone17ProMax } from "@/components/ui/iphone-17-pro-max";
 
 export function PhoneStage({ slides }) {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -36,11 +36,14 @@ export function PhoneStage({ slides }) {
   return (
     <MotionReveal className="w-full flex flex-col justify-center items-center" delay={120}>
       <motion.div
-        className="hero-device-wrap center-hero-device"
+        className="hero-device-wrap center-hero-device relative"
         animate={reducedMotion ? undefined : { y: [0, -8, 0] }}
         transition={reducedMotion ? undefined : { duration: 6, repeat: Infinity, ease: "easeInOut" }}
       >
-        <Iphone16Pro className="w-full h-auto max-w-[240px] sm:max-w-[280px] md:max-w-[320px] lg:max-w-[360px] xl:max-w-[400px] mx-auto shadow-2xl">
+        <Iphone17ProMax
+          finish="deep-blue"
+          className="relative z-10 w-full h-auto max-w-[240px] sm:max-w-[280px] md:max-w-[320px] lg:max-w-[360px] xl:max-w-[400px] mx-auto shadow-2xl"
+        >
           <div className="screen-carousel-stack" style={{ width: "100%", height: "100%", position: "relative" }}>
             <AnimatePresence mode="wait">
               <motion.article
@@ -63,10 +66,11 @@ export function PhoneStage({ slides }) {
               </motion.article>
             </AnimatePresence>
           </div>
-        </Iphone16Pro>
-        
-        {/* Carousel Progress */}
-        <div className="carousel-progress mt-8 flex items-center justify-center gap-2">
+        </Iphone17ProMax>
+
+
+
+        <div className="carousel-progress relative z-10 mt-5 flex items-center justify-center gap-2">
           {slides.map((slide, index) => {
             const isActive = index === activeIndex;
             return (

@@ -1,0 +1,4161 @@
+[
+  {
+    "imageRef": "images/853732577995ec08625706620b0235b0184b90e8.pdf",
+    "fileName": "853732577995ec08625706620b0235b0184b90e8.pdf",
+    "extension": ".pdf",
+    "inArchive": true,
+    "usageCount": 18,
+    "usages": [
+      {
+        "id": "406F15F5-2169-4E27-9F90-789A026D66D9",
+        "class": "group",
+        "name": "Album Artwork",
+        "pageName": "􀟞 System",
+        "path": "System/Control Center/Dark/iPad / Controls / 2x2 - Now Playing / Album Artwork",
+        "frame": {
+          "x": 2311,
+          "y": 4131,
+          "width": 50,
+          "height": 50
+        }
+      },
+      {
+        "id": "0C35C8AE-713C-48A8-926A-BC1EABA430EC",
+        "class": "group",
+        "name": "Album Artwork",
+        "pageName": "􀟞 System",
+        "path": "System/Control Center/Light/iPad / Controls / 2x2 - Now Playing / Album Artwork",
+        "frame": {
+          "x": 1031,
+          "y": 4131,
+          "width": 50,
+          "height": 50
+        }
+      },
+      {
+        "id": "24F7C7F3-9EF4-4EC9-A421-31835F020402",
+        "class": "group",
+        "name": "Album Artwork",
+        "pageName": "􀟞 System",
+        "path": "System/Control Center/Light/iPhone / Controls / 2x2 - Now Playing / Album Artwork",
+        "frame": {
+          "x": 222,
+          "y": 146,
+          "width": 52,
+          "height": 52
+        }
+      },
+      {
+        "id": "2679C1E9-27ED-4C7C-83F8-37500D1960E8",
+        "class": "rectangle",
+        "name": "Image",
+        "pageName": "􀟞 System",
+        "path": "System/Notifications/Over Light/Banners/1 Single with Image / Text / Date and Image / Image",
+        "frame": {
+          "x": 8753.999992370605,
+          "y": 1074,
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "id": "4C2A3F81-2F27-462F-AE0C-4519CCDB8CBB",
+        "class": "rectangle",
+        "name": "Image",
+        "pageName": "􀟞 System",
+        "path": "System/Notifications/Over Dark/Banners/1 Single with Image / Content / Date and Image / Image",
+        "frame": {
+          "x": 9083.999992370605,
+          "y": 1074,
+          "width": 32,
+          "height": 32
+        }
+      },
+      {
+        "id": "1B9D0D32-270D-480E-8B3B-931C5172D5DD",
+        "class": "symbolMaster",
+        "name": "Activity View/􀻃/Thumbnails/90pt",
+        "pageName": "􀈂 Activity Views",
+        "path": "Activity View/􀻃/Thumbnails/90pt",
+        "frame": {
+          "x": 90,
+          "y": 4470,
+          "width": 90,
+          "height": 90
+        }
+      },
+      {
+        "id": "AF541236-6720-41E1-9F1C-73E85EA5E9C6",
+        "class": "symbolMaster",
+        "name": "Activity View/􀻃/Thumbnails/64pt",
+        "pageName": "􀈂 Activity Views",
+        "path": "Activity View/􀻃/Thumbnails/64pt",
+        "frame": {
+          "x": 0,
+          "y": 4470,
+          "width": 64,
+          "height": 64
+        }
+      },
+      {
+        "id": "5C6A4C0B-05FA-48AE-9771-423692C42B07",
+        "class": "rectangle",
+        "name": "Rectangle",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Dark/Headers/Extra Prominent/Trailing/Image / Rectangle",
+        "frame": {
+          "x": 1804,
+          "y": 2206,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "230EA04A-0A82-4209-9784-7606C6E7DBFE",
+        "class": "rectangle",
+        "name": "Rectangle",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title + Subtitle + Image / Rectangle",
+        "frame": {
+          "x": 1500,
+          "y": 2394.0,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "059B041F-CA4E-47CF-A143-FADFA330987C",
+        "class": "rectangle",
+        "name": "Rectangle",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Dark/Headers/Extra Prominent/Leading/Title + Supertitle + Image / Rectangle",
+        "frame": {
+          "x": 1500,
+          "y": 2483,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "B3D1C61D-B60D-4227-8DB5-E0436DAAE243",
+        "class": "rectangle",
+        "name": "Rectangle",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Dark/Headers/Prominent/Leading/Title + Subtitle + Image / Rectangle",
+        "frame": {
+          "x": 1960,
+          "y": 2393,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "2ACC6D2D-BCD3-450E-9357-216A59584E59",
+        "class": "rectangle",
+        "name": "Rectangle",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Dark/Headers/Prominent/Leading/Title + Supertitle + Image / Rectangle",
+        "frame": {
+          "x": 1960,
+          "y": 2481.5,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "41417E59-FE98-4D22-9929-CAE317C4E40C",
+        "class": "rectangle",
+        "name": "Image",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Light/Headers/Extra Prominent/Trailing/Image / Image",
+        "frame": {
+          "x": 300,
+          "y": 2206,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "F64CAA63-53A6-4606-A991-835A090DBCA9",
+        "class": "rectangle",
+        "name": "Rectangle",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Light/Headers/Extra Prominent/Leading/Title + Subtitle + Image / Rectangle",
+        "frame": {
+          "x": 0,
+          "y": 2394.0,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "DE18E56B-4D26-41CB-8BC0-69742CC88B53",
+        "class": "rectangle",
+        "name": "Image",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Light/Headers/Extra Prominent/Leading/Title + Supertitle + Image / Image",
+        "frame": {
+          "x": 0,
+          "y": 2483,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "F4BC59E5-5029-40B7-863B-CD8E96DA6EBA",
+        "class": "rectangle",
+        "name": "Image",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Light/Headers/Prominent/Leading/Title + Subtitle + Image / Image",
+        "frame": {
+          "x": 460,
+          "y": 2393,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "09FC5200-6CA4-415A-8FAC-1CF5BBDD9409",
+        "class": "rectangle",
+        "name": "Image",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Light/Headers/Prominent/Leading/Title + Supertitle + Image / Image",
+        "frame": {
+          "x": 460,
+          "y": 2481.5,
+          "width": 42,
+          "height": 42
+        }
+      },
+      {
+        "id": "5FB1538E-C5B4-4AEE-885D-447AEE919722",
+        "class": "symbolMaster",
+        "name": "Lists/􀻃/Light/Rows/Leading/Placeholder",
+        "pageName": "􀌇 Lists",
+        "path": "Frame / Lists/􀻃/Light/Rows/Leading/Placeholder",
+        "frame": {
+          "x": 160,
+          "y": 3864,
+          "width": 52,
+          "height": 52
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/853732577995ec08625706620b0235b0184b90e8.pdf"
+  },
+  {
+    "imageRef": "images/7133af222d3faafb5158281fede2f598cad056cc.png",
+    "fileName": "7133af222d3faafb5158281fede2f598cad056cc.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 16,
+    "usages": [
+      {
+        "id": "7D19B05C-82A3-4BEE-9104-2CF36678B316",
+        "class": "text",
+        "name": "Genmoji",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Genmoji",
+        "frame": {
+          "x": 5109,
+          "y": 1222,
+          "width": 66,
+          "height": 20
+        }
+      },
+      {
+        "id": "86D4BC16-5B96-4E8E-9B38-DEE94BD0C24B",
+        "class": "shapeGroup",
+        "name": "Shape",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Shape",
+        "frame": {
+          "x": 5086,
+          "y": 1223.5,
+          "width": 18,
+          "height": 17
+        }
+      },
+      {
+        "id": "4C990E65-F600-4C15-AB3C-4873FA0E7AFE",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 5086,
+          "y": 1224.18,
+          "width": 15.5675675675676,
+          "height": 16.32
+        }
+      },
+      {
+        "id": "646A5D5C-FCCB-490C-9304-83261614A27A",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 5090.621621621622,
+          "y": 1229.4585,
+          "width": 1.76756756756757,
+          "height": 2.159
+        }
+      },
+      {
+        "id": "94436FB8-0FAE-48EF-9B7A-354B0D2B8EBF",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 5095.1621621621625,
+          "y": 1229.4585,
+          "width": 1.77567567567568,
+          "height": 2.159
+        }
+      },
+      {
+        "id": "A421ECEE-44E2-4B8F-A4EB-1FAF16D4873C",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 5088.733301158301,
+          "y": 1232.8145344827585,
+          "width": 10.0875748901611,
+          "height": 5.04196551724139
+        }
+      },
+      {
+        "id": "27DDD026-A0AB-4ED9-8E29-5BAE3D668CE8",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 5089.527027027027,
+          "y": 1233.7,
+          "width": 8.4972972972973,
+          "height": 1.649
+        }
+      },
+      {
+        "id": "AAD56AA3-D508-43A0-B071-1B6D5D36422A",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 5097.618918918919,
+          "y": 1223.5,
+          "width": 6.38108108108108,
+          "height": 6.681
+        }
+      },
+      {
+        "id": "99FDB484-D0D1-4ED8-80E9-60C32858A860",
+        "class": "text",
+        "name": "Genmoji",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Genmoji",
+        "frame": {
+          "x": 2109,
+          "y": 1222,
+          "width": 66,
+          "height": 20
+        }
+      },
+      {
+        "id": "82B36D9E-57FD-4539-A18D-4D1D9FAEC566",
+        "class": "shapeGroup",
+        "name": "Shape",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Shape",
+        "frame": {
+          "x": 2086,
+          "y": 1223.5,
+          "width": 18,
+          "height": 17
+        }
+      },
+      {
+        "id": "7B3F613C-7ACF-47BF-B1B7-362ED41CBD4B",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 2086,
+          "y": 1224.18,
+          "width": 15.5675675675676,
+          "height": 16.32
+        }
+      },
+      {
+        "id": "5DE3E662-48A0-4557-B217-39B1C436F8FC",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 2090.6216216216217,
+          "y": 1229.4585,
+          "width": 1.76756756756757,
+          "height": 2.159
+        }
+      },
+      {
+        "id": "CCF3D0E1-C852-4E56-81A1-7279B3D68E87",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 2095.162162162162,
+          "y": 1229.4585,
+          "width": 1.77567567567568,
+          "height": 2.159
+        }
+      },
+      {
+        "id": "2EA50B0D-FF89-4EC8-8DE8-DC5DD4D78421",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 2088.733301158301,
+          "y": 1232.8145344827585,
+          "width": 10.0875748901611,
+          "height": 5.04196551724139
+        }
+      },
+      {
+        "id": "DF3DF7EB-F384-4788-924E-731FA7BAAADD",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 2089.527027027027,
+          "y": 1233.7,
+          "width": 8.4972972972973,
+          "height": 1.649
+        }
+      },
+      {
+        "id": "2D1119DB-2ECF-4B9C-9688-2D288908111C",
+        "class": "shapePath",
+        "name": "Path",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji Search / Genmoji / Shape / Path",
+        "frame": {
+          "x": 2097.618918918919,
+          "y": 1223.5,
+          "width": 6.38108108108108,
+          "height": 6.681
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/7133af222d3faafb5158281fede2f598cad056cc.png"
+  },
+  {
+    "imageRef": "images/26f4759b48c327d9648cc3539c1aa00f1340f4aa.png",
+    "fileName": "26f4759b48c327d9648cc3539c1aa00f1340f4aa.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 9,
+    "usages": [
+      {
+        "id": "979565D3-FD36-4357-9302-DC1E0E176362",
+        "class": "group",
+        "name": "Dark - Base",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 4 / Dark - Base",
+        "frame": {
+          "x": 1150,
+          "y": 840,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "38511E8F-C09C-40BE-83AA-A410F1C29395",
+        "class": "group",
+        "name": "Dark - Elevated",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 4 / Dark - Elevated",
+        "frame": {
+          "x": 1150,
+          "y": 720,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "09385F9B-86AD-42BD-8EBA-CCB7DF300249",
+        "class": "group",
+        "name": "Dark - Base",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 3 / Dark - Base",
+        "frame": {
+          "x": 1030,
+          "y": 840,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "3ED8A0AB-BCDB-4D16-A6EF-6F410FF64A1A",
+        "class": "group",
+        "name": "Dark - Elevated",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 3 / Dark - Elevated",
+        "frame": {
+          "x": 1030,
+          "y": 720,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "432919A9-94D9-4497-B59A-0175304F46AC",
+        "class": "group",
+        "name": "Dark - Base",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 2 / Dark - Base",
+        "frame": {
+          "x": 910,
+          "y": 840,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "8C34DE2B-F702-44B1-AF60-DE2E56759DFF",
+        "class": "group",
+        "name": "Dark - Elevated",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 2 / Dark - Elevated",
+        "frame": {
+          "x": 910,
+          "y": 720,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "78ACBE47-E9D2-444B-BF46-0B065358D7C2",
+        "class": "group",
+        "name": "Dark - Base",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 1 / Dark - Base",
+        "frame": {
+          "x": 790,
+          "y": 840,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "D634149C-6BFA-47BB-832E-5F9E1CA2DAD6",
+        "class": "group",
+        "name": "Dark - Elevated",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 1 / Dark - Elevated",
+        "frame": {
+          "x": 790,
+          "y": 720,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "D0975089-84B8-4887-912D-D8804AF42A3F",
+        "class": "group",
+        "name": "Frame",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Frame",
+        "frame": {
+          "x": 790,
+          "y": 430,
+          "width": 160,
+          "height": 80
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/26f4759b48c327d9648cc3539c1aa00f1340f4aa.png"
+  },
+  {
+    "imageRef": "images/a6b50010e1601a559446201f0af1868b6c83a477.png",
+    "fileName": "a6b50010e1601a559446201f0af1868b6c83a477.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 5,
+    "usages": [
+      {
+        "id": "1DCCABD8-17E4-4EED-BADE-759532D11508",
+        "class": "group",
+        "name": "Light",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 4 / Light",
+        "frame": {
+          "x": 1150,
+          "y": 600,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "12BDDBCE-3269-4647-B127-476D83686C5B",
+        "class": "group",
+        "name": "Light",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 3 / Light",
+        "frame": {
+          "x": 1030,
+          "y": 600,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "F92421D6-541C-431E-96AD-93E45C6A83A1",
+        "class": "group",
+        "name": "Light",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 2 / Light",
+        "frame": {
+          "x": 910,
+          "y": 600,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "DDD686AE-561B-41AA-B56B-B16079771BB6",
+        "class": "group",
+        "name": "Light",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Column 1 / Light",
+        "frame": {
+          "x": 790,
+          "y": 600,
+          "width": 100,
+          "height": 100
+        }
+      },
+      {
+        "id": "4F96A3B3-E217-4669-AB19-01CF4C2222C1",
+        "class": "group",
+        "name": "Frame",
+        "pageName": "Kit",
+        "path": "􀻃/Kit/Swatch Background / Frame",
+        "frame": {
+          "x": 790,
+          "y": 350,
+          "width": 160,
+          "height": 80
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a6b50010e1601a559446201f0af1868b6c83a477.png"
+  },
+  {
+    "imageRef": "images/32d1f830a27b90be152fa29964b765dcca9fb796.png",
+    "fileName": "32d1f830a27b90be152fa29964b765dcca9fb796.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 2,
+    "usages": [
+      {
+        "id": "4EE69414-B5EC-401A-934A-8F2EA1EEEFA2",
+        "class": "bitmap",
+        "name": "IMG_2522",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 3 / IMG_2522",
+        "frame": {
+          "x": 5083.5,
+          "y": 1368,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "id": "209CF10D-3DF9-4930-9E67-8227FE71E16C",
+        "class": "bitmap",
+        "name": "IMG_2522",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji / Row 3 / IMG_2522",
+        "frame": {
+          "x": 2083.5,
+          "y": 1368,
+          "width": 40,
+          "height": 40
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/32d1f830a27b90be152fa29964b765dcca9fb796.png"
+  },
+  {
+    "imageRef": "images/45927b288ed56e1599d9e75291425f4d74090cc8.png",
+    "fileName": "45927b288ed56e1599d9e75291425f4d74090cc8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 2,
+    "usages": [
+      {
+        "id": "344FF7EE-BCAC-4F08-87A3-FB62349219ED",
+        "class": "bitmap",
+        "name": "IMG_2536",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 2 / IMG_2536",
+        "frame": {
+          "x": 5083.5,
+          "y": 1320,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "id": "B8E9B6F5-9E54-4B24-939F-B8D138C979B2",
+        "class": "bitmap",
+        "name": "IMG_2536",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji / Row 2 / IMG_2536",
+        "frame": {
+          "x": 2083.5,
+          "y": 1320,
+          "width": 40,
+          "height": 40
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/45927b288ed56e1599d9e75291425f4d74090cc8.png"
+  },
+  {
+    "imageRef": "images/5d91f29ade7529474124560e128a5ee14d204a36.png",
+    "fileName": "5d91f29ade7529474124560e128a5ee14d204a36.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 2,
+    "usages": [
+      {
+        "id": "5A4E9E18-A531-4503-B2CE-432E613F1BE3",
+        "class": "bitmap",
+        "name": "IMG_2527",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 3 / IMG_2527",
+        "frame": {
+          "x": 4921.5,
+          "y": 1368,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "id": "EB6AED29-9BE9-43EB-89C0-93D13F7D003B",
+        "class": "bitmap",
+        "name": "IMG_2527",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji / Row 3 / IMG_2527",
+        "frame": {
+          "x": 1921.5,
+          "y": 1368,
+          "width": 40,
+          "height": 40
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/5d91f29ade7529474124560e128a5ee14d204a36.png"
+  },
+  {
+    "imageRef": "images/a4d81402eaf2534b4dd2b6f9ca42509b7b95fbb7.png",
+    "fileName": "a4d81402eaf2534b4dd2b6f9ca42509b7b95fbb7.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 2,
+    "usages": [
+      {
+        "id": "3373F603-EBCB-4006-B531-C9C56DE83F71",
+        "class": "group",
+        "name": "Slider",
+        "pageName": "􀎘 Color Wells and Pickers",
+        "path": "Color Pickers/􀻃/Dark/Opacity Meter / Stack / Slider",
+        "frame": {
+          "x": 500,
+          "y": 1042,
+          "width": 276,
+          "height": 40
+        }
+      },
+      {
+        "id": "D92B5C55-F3BF-4BF0-892E-BA1AC59137AB",
+        "class": "group",
+        "name": "Slider",
+        "pageName": "􀎘 Color Wells and Pickers",
+        "path": "Color Pickers/􀻃/Light/Opacity Meter / Stack / Slider",
+        "frame": {
+          "x": 0,
+          "y": 1042,
+          "width": 276,
+          "height": 40
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a4d81402eaf2534b4dd2b6f9ca42509b7b95fbb7.png"
+  },
+  {
+    "imageRef": "images/a6f29378a780ca96f07da037e019df8e5e4c5d23.png",
+    "fileName": "a6f29378a780ca96f07da037e019df8e5e4c5d23.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 2,
+    "usages": [
+      {
+        "id": "348AA3AD-4CE1-49FD-B65D-A3187ECF4650",
+        "class": "group",
+        "name": "Frame",
+        "pageName": "􀈂 Activity Views",
+        "path": "Activity View/􀻃/Person - Photo - Double / Frame",
+        "frame": {
+          "x": 109,
+          "y": 3149,
+          "width": 37,
+          "height": 37
+        }
+      },
+      {
+        "id": "9A8EAC9E-5434-490D-9A0E-526B9E47EDFE",
+        "class": "symbolMaster",
+        "name": "Activity View/􀻃/Person - Photo - Single",
+        "pageName": "􀈂 Activity Views",
+        "path": "Activity View/􀻃/Person - Photo - Single",
+        "frame": {
+          "x": 0,
+          "y": 3140,
+          "width": 70,
+          "height": 70
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a6f29378a780ca96f07da037e019df8e5e4c5d23.png"
+  },
+  {
+    "imageRef": "images/d2262cf9c123e525539d17c281175f277059e8fa.png",
+    "fileName": "d2262cf9c123e525539d17c281175f277059e8fa.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 2,
+    "usages": [
+      {
+        "id": "0546CBA6-2598-4041-AD01-A718ACB877F8",
+        "class": "bitmap",
+        "name": "IMG_2535",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 2 / IMG_2535",
+        "frame": {
+          "x": 4975.5,
+          "y": 1320,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "id": "B49D5D23-4781-4658-A73C-B4BF7C0EB070",
+        "class": "bitmap",
+        "name": "IMG_2535",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji / Row 2 / IMG_2535",
+        "frame": {
+          "x": 1975.5,
+          "y": 1320,
+          "width": 40,
+          "height": 40
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/d2262cf9c123e525539d17c281175f277059e8fa.png"
+  },
+  {
+    "imageRef": "images/ebcd9239928d4a3db33311e4e4fdfaa59b17bbba.png",
+    "fileName": "ebcd9239928d4a3db33311e4e4fdfaa59b17bbba.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 2,
+    "usages": [
+      {
+        "id": "6BCB62A4-5994-4387-B8D1-A134436CF8A6",
+        "class": "bitmap",
+        "name": "IMG_2526",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Dark/iPhone/Emoji / Emoji / Row 3 / IMG_2526",
+        "frame": {
+          "x": 5029.5,
+          "y": 1368,
+          "width": 40,
+          "height": 40
+        }
+      },
+      {
+        "id": "C6757A41-CE89-4710-B5DA-2056E216EA34",
+        "class": "bitmap",
+        "name": "IMG_2526",
+        "pageName": "􀇳 Keyboards",
+        "path": "Keyboard/Light/iPhone/Emoji / Emoji / Row 3 / IMG_2526",
+        "frame": {
+          "x": 2029.5,
+          "y": 1368,
+          "width": 40,
+          "height": 40
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/ebcd9239928d4a3db33311e4e4fdfaa59b17bbba.png"
+  },
+  {
+    "imageRef": "images/0246ca452bda6f59bd0bffb44166412561ff35d7.png",
+    "fileName": "0246ca452bda6f59bd0bffb44166412561ff35d7.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "83E11CA5-2C3F-464E-8965-693EBD1C5B0E",
+        "class": "bitmap",
+        "name": "itunesstore-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/iTunes Store / itunesstore-iOS-ClearLight",
+        "frame": {
+          "x": 3900,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0246ca452bda6f59bd0bffb44166412561ff35d7.png"
+  },
+  {
+    "imageRef": "images/02d441b52849b9cfe3bec5b3b1d06624b363a7b5.png",
+    "fileName": "02d441b52849b9cfe3bec5b3b1d06624b363a7b5.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "8F7C4018-B526-4587-A90E-496A2AE7C68E",
+        "class": "bitmap",
+        "name": "findmy-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Find My / findmy-iOS-ClearLight",
+        "frame": {
+          "x": 3420,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/02d441b52849b9cfe3bec5b3b1d06624b363a7b5.png"
+  },
+  {
+    "imageRef": "images/03897844adf1c9d9d5746dd939da199d0d565643.png",
+    "fileName": "03897844adf1c9d9d5746dd939da199d0d565643.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "207E8262-E651-48B5-A924-085CD99A5C50",
+        "class": "bitmap",
+        "name": "watch.companion-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Watch / watch.companion-iOS-Default",
+        "frame": {
+          "x": 5900,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/03897844adf1c9d9d5746dd939da199d0d565643.png"
+  },
+  {
+    "imageRef": "images/0460450a304b1ae922d27842341be4052e81714b.png",
+    "fileName": "0460450a304b1ae922d27842341be4052e81714b.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "8E2726D2-BE88-4A7D-93F6-12DD00E39CC7",
+        "class": "bitmap",
+        "name": "messages-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Messages / messages-iOS-ClearLight",
+        "frame": {
+          "x": 4300,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0460450a304b1ae922d27842341be4052e81714b.png"
+  },
+  {
+    "imageRef": "images/051b58433fa383b24dbe8bfeaa2eabb89464232b.png",
+    "fileName": "051b58433fa383b24dbe8bfeaa2eabb89464232b.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "373831AD-C46A-457C-AA07-17B70668CA29",
+        "class": "bitmap",
+        "name": "games-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Games / games-iOS-Default",
+        "frame": {
+          "x": 3660,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/051b58433fa383b24dbe8bfeaa2eabb89464232b.png"
+  },
+  {
+    "imageRef": "images/0527a2dcaabc5e1229ec365f1aa7f8a27ed46a60.png",
+    "fileName": "0527a2dcaabc5e1229ec365f1aa7f8a27ed46a60.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "58539F16-347F-4EF0-A084-B38E3CD8D895",
+        "class": "bitmap",
+        "name": "clock-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Clock / clock-iOS-ClearLight",
+        "frame": {
+          "x": 3100,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0527a2dcaabc5e1229ec365f1aa7f8a27ed46a60.png"
+  },
+  {
+    "imageRef": "images/07879ac06c2419aac5d0afc599a7a7a20b955a1e.png",
+    "fileName": "07879ac06c2419aac5d0afc599a7a7a20b955a1e.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "B2CE534D-C2EB-4E9E-BAC5-FB6EFF17C7DB",
+        "class": "bitmap",
+        "name": "tv-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/TV / tv-iOS-ClearLight",
+        "frame": {
+          "x": 5660,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/07879ac06c2419aac5d0afc599a7a7a20b955a1e.png"
+  },
+  {
+    "imageRef": "images/095bc376d95ecbce6730096f1acb366a48ca207a.png",
+    "fileName": "095bc376d95ecbce6730096f1acb366a48ca207a.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "0D5EC5B8-160F-4F30-B023-B0C6D47BFAF6",
+        "class": "bitmap",
+        "name": "reminders-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Reminders / reminders-iOS-ClearLight",
+        "frame": {
+          "x": 5180,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/095bc376d95ecbce6730096f1acb366a48ca207a.png"
+  },
+  {
+    "imageRef": "images/09f4a47740f7ddbe5e439fc608c938ddc1f043b6.png",
+    "fileName": "09f4a47740f7ddbe5e439fc608c938ddc1f043b6.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "EECC53E4-E8CA-4178-929F-36B947662809",
+        "class": "bitmap",
+        "name": "contacts-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Contacts / contacts-iOS-Dark",
+        "frame": {
+          "x": 3180,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/09f4a47740f7ddbe5e439fc608c938ddc1f043b6.png"
+  },
+  {
+    "imageRef": "images/0a13396347c1b4915f46333179032d6a8a5948ee.png",
+    "fileName": "0a13396347c1b4915f46333179032d6a8a5948ee.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "E7F54C50-CDEC-4C1F-9779-75EA9133C494",
+        "class": "bitmap",
+        "name": "wallet-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Wallet / wallet-iOS-Default",
+        "frame": {
+          "x": 5820,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0a13396347c1b4915f46333179032d6a8a5948ee.png"
+  },
+  {
+    "imageRef": "images/0ae9372578f0fb2b08758bd9cc968f4da046a007.png",
+    "fileName": "0ae9372578f0fb2b08758bd9cc968f4da046a007.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "DFF233A6-1270-4071-BE55-7D557D439BB5",
+        "class": "bitmap",
+        "name": "placeholder-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Custom / placeholder-iOS-Dark",
+        "frame": {
+          "x": 6150,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0ae9372578f0fb2b08758bd9cc968f4da046a007.png"
+  },
+  {
+    "imageRef": "images/0b1e35d16c268f4e09f2b120ff468024af41da42.png",
+    "fileName": "0b1e35d16c268f4e09f2b120ff468024af41da42.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "F4C9859B-679B-4077-A220-BC902C6A11D7",
+        "class": "bitmap",
+        "name": "facetime-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/FaceTime / facetime-iOS-ClearLight",
+        "frame": {
+          "x": 3260,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0b1e35d16c268f4e09f2b120ff468024af41da42.png"
+  },
+  {
+    "imageRef": "images/0d238ef358a139f8257094d52b1393a129c4485d.png",
+    "fileName": "0d238ef358a139f8257094d52b1393a129c4485d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "73C3C916-DDF7-46A3-AABB-95CD78F5F1AF",
+        "class": "bitmap",
+        "name": "preview-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Preview / preview-iOS-Dark",
+        "frame": {
+          "x": 5100,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0d238ef358a139f8257094d52b1393a129c4485d.png"
+  },
+  {
+    "imageRef": "images/0de6b742a91500c033f37c924a5186c97f4feed8.png",
+    "fileName": "0de6b742a91500c033f37c924a5186c97f4feed8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "0B7136D2-7D08-4933-8D45-BAD63EE1A327",
+        "class": "bitmap",
+        "name": "passwords-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Passwords / passwords-iOS-ClearLight",
+        "frame": {
+          "x": 4860,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0de6b742a91500c033f37c924a5186c97f4feed8.png"
+  },
+  {
+    "imageRef": "images/0f9bf4f039b76b2da016f690324cf2e547b04fab.png",
+    "fileName": "0f9bf4f039b76b2da016f690324cf2e547b04fab.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "EA25A051-ED55-4448-A8FD-E014240A2DF0",
+        "class": "bitmap",
+        "name": "translate-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Translate / translate-iOS-Default",
+        "frame": {
+          "x": 5580,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/0f9bf4f039b76b2da016f690324cf2e547b04fab.png"
+  },
+  {
+    "imageRef": "images/132baebc99e8e1d6b55496631dd09c424288058f.png",
+    "fileName": "132baebc99e8e1d6b55496631dd09c424288058f.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "868F6335-0A28-4BD6-AA35-7E7CDA35E548",
+        "class": "bitmap",
+        "name": "news-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/News / news-iOS-Default",
+        "frame": {
+          "x": 4460,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/132baebc99e8e1d6b55496631dd09c424288058f.png"
+  },
+  {
+    "imageRef": "images/14fef399a8759ba0960138250800f9560a60e445.png",
+    "fileName": "14fef399a8759ba0960138250800f9560a60e445.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "EB2A629C-425C-48C8-9094-02D26F3DD85C",
+        "class": "bitmap",
+        "name": "appstore-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/App Store / appstore-iOS-Dark",
+        "frame": {
+          "x": 2700,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/14fef399a8759ba0960138250800f9560a60e445.png"
+  },
+  {
+    "imageRef": "images/193632f5fc8909ad52e609d1a6f5065e2e4353a5.png",
+    "fileName": "193632f5fc8909ad52e609d1a6f5065e2e4353a5.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "47CDAD39-2193-4F13-AE9C-436E63407368",
+        "class": "bitmap",
+        "name": "stocks-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Stocks / stocks-iOS-Dark",
+        "frame": {
+          "x": 5500,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/193632f5fc8909ad52e609d1a6f5065e2e4353a5.png"
+  },
+  {
+    "imageRef": "images/1a9d6060cf20f91b6c4038f2847f25266515fd8e.png",
+    "fileName": "1a9d6060cf20f91b6c4038f2847f25266515fd8e.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "FC4FCE73-FC55-4643-89EE-BA43C25A1740",
+        "class": "bitmap",
+        "name": "preview-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Preview / preview-iOS-ClearLight",
+        "frame": {
+          "x": 5100,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/1a9d6060cf20f91b6c4038f2847f25266515fd8e.png"
+  },
+  {
+    "imageRef": "images/1b70f7391dd84eb1dd3970231cc4cc3722e68008.png",
+    "fileName": "1b70f7391dd84eb1dd3970231cc4cc3722e68008.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "CF98311B-0FE0-4A1B-84CF-4C88716350F7",
+        "class": "bitmap",
+        "name": "Time Picker Wheel",
+        "pageName": "􂬁 Pickers",
+        "path": "Date and Time Pickers/Wheel/Light/Time Picker / Time Picker Wheel",
+        "frame": {
+          "x": 478.5,
+          "y": 1991.0,
+          "width": 296,
+          "height": 215
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/1b70f7391dd84eb1dd3970231cc4cc3722e68008.png"
+  },
+  {
+    "imageRef": "images/22ab2ff89fb091208aa964152624e78c7633f9d8.png",
+    "fileName": "22ab2ff89fb091208aa964152624e78c7633f9d8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "3011C8AA-0808-4E62-BA74-EA027AA8124C",
+        "class": "bitmap",
+        "name": "findmy-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Find My / findmy-iOS-Default",
+        "frame": {
+          "x": 3420,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/22ab2ff89fb091208aa964152624e78c7633f9d8.png"
+  },
+  {
+    "imageRef": "images/22dacb0e32ed3ea31c201a473e8c18eb07344ab2.png",
+    "fileName": "22dacb0e32ed3ea31c201a473e8c18eb07344ab2.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "CAC5AA96-389A-4AE5-A3FF-6E8FC41FF9E5",
+        "class": "bitmap",
+        "name": "news-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/News / news-iOS-Dark",
+        "frame": {
+          "x": 4460,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/22dacb0e32ed3ea31c201a473e8c18eb07344ab2.png"
+  },
+  {
+    "imageRef": "images/26904803380860f0b6ee28aae600e05f7dbfd373.png",
+    "fileName": "26904803380860f0b6ee28aae600e05f7dbfd373.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "D873C36E-05CA-42A4-8BEC-F0E49A5C569B",
+        "class": "bitmap",
+        "name": "games-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Games / games-iOS-Dark",
+        "frame": {
+          "x": 3660,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/26904803380860f0b6ee28aae600e05f7dbfd373.png"
+  },
+  {
+    "imageRef": "images/2874a9c16a70f45adfc98e5f16edf301a0d7f2b2.png",
+    "fileName": "2874a9c16a70f45adfc98e5f16edf301a0d7f2b2.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "9B9F7AB0-05AE-49EA-AE42-697C8C210CED",
+        "class": "bitmap",
+        "name": "weather-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Weather / weather-iOS-Dark",
+        "frame": {
+          "x": 5980,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2874a9c16a70f45adfc98e5f16edf301a0d7f2b2.png"
+  },
+  {
+    "imageRef": "images/290d163c1ac96ff4a9288dfcad93c098424066d5.png",
+    "fileName": "290d163c1ac96ff4a9288dfcad93c098424066d5.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "AC768D21-4DED-452E-8D8B-D061C3F6A253",
+        "class": "bitmap",
+        "name": "measure-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Measure / measure-iOS-Default",
+        "frame": {
+          "x": 4220,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/290d163c1ac96ff4a9288dfcad93c098424066d5.png"
+  },
+  {
+    "imageRef": "images/2d11e00c1e3e209d091072d4daeafbbc423fe346.png",
+    "fileName": "2d11e00c1e3e209d091072d4daeafbbc423fe346.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "9BDA650F-D2BB-4469-91B8-7A0B7E95FF23",
+        "class": "bitmap",
+        "name": "home-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Home / home-iOS-Default",
+        "frame": {
+          "x": 3820,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2d11e00c1e3e209d091072d4daeafbbc423fe346.png"
+  },
+  {
+    "imageRef": "images/2dba5fae5e378addd1711363a96c3f1317d7e886.png",
+    "fileName": "2dba5fae5e378addd1711363a96c3f1317d7e886.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "5E9C34BE-2334-4DF7-9450-CE70A869528E",
+        "class": "bitmap",
+        "name": "stocks-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Stocks / stocks-iOS-ClearLight",
+        "frame": {
+          "x": 5500,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2dba5fae5e378addd1711363a96c3f1317d7e886.png"
+  },
+  {
+    "imageRef": "images/2dfa1c062e3ec1eeaad532696c841c4905d8fbae.png",
+    "fileName": "2dfa1c062e3ec1eeaad532696c841c4905d8fbae.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "217EB403-F0B2-4A4B-88C8-7C42D435A9F1",
+        "class": "bitmap",
+        "name": "reminders-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Reminders / reminders-iOS-Default",
+        "frame": {
+          "x": 5180,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2dfa1c062e3ec1eeaad532696c841c4905d8fbae.png"
+  },
+  {
+    "imageRef": "images/2e97bdd7f9e9d04017f3806a548fc1f62fd7b598.png",
+    "fileName": "2e97bdd7f9e9d04017f3806a548fc1f62fd7b598.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "CE6673DC-D1CB-46B4-AFE4-4FE0DB14F7CF",
+        "class": "bitmap",
+        "name": "music-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Music / music-iOS-Dark",
+        "frame": {
+          "x": 4380,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2e97bdd7f9e9d04017f3806a548fc1f62fd7b598.png"
+  },
+  {
+    "imageRef": "images/2f2fadcee43eeb9cfbe189f4f1db9b06e3b946ac.png",
+    "fileName": "2f2fadcee43eeb9cfbe189f4f1db9b06e3b946ac.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "2209D8C2-E32E-430B-9C1E-0C495B694AA1",
+        "class": "bitmap",
+        "name": "clock-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Clock / clock-iOS-Dark",
+        "frame": {
+          "x": 3100,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2f2fadcee43eeb9cfbe189f4f1db9b06e3b946ac.png"
+  },
+  {
+    "imageRef": "images/2fdb537cf0c575a8a4fd749ce7bdb6d6a478cb8a.png",
+    "fileName": "2fdb537cf0c575a8a4fd749ce7bdb6d6a478cb8a.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "DB3E2182-116F-480D-B05B-B54FF30341D5",
+        "class": "bitmap",
+        "name": "airdrop-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Airdrop / airdrop-iOS-Dark",
+        "frame": {
+          "x": 6060,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2fdb537cf0c575a8a4fd749ce7bdb6d6a478cb8a.png"
+  },
+  {
+    "imageRef": "images/2ffbb7de33f183efeae91803bef9f8cab55e51a9.png",
+    "fileName": "2ffbb7de33f183efeae91803bef9f8cab55e51a9.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "E74798A4-DFD5-4B1D-81B6-65C7D135746F",
+        "class": "bitmap",
+        "name": "passwords-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Passwords / passwords-iOS-Default",
+        "frame": {
+          "x": 4860,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/2ffbb7de33f183efeae91803bef9f8cab55e51a9.png"
+  },
+  {
+    "imageRef": "images/30438441d7eb237e9a31f6cc1d081d2a832e534d.png",
+    "fileName": "30438441d7eb237e9a31f6cc1d081d2a832e534d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "7CF3410C-F14C-460E-B9B0-81813039557E",
+        "class": "bitmap",
+        "name": "keynote-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Keynote / keynote-iOS-ClearLight",
+        "frame": {
+          "x": 3980,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/30438441d7eb237e9a31f6cc1d081d2a832e534d.png"
+  },
+  {
+    "imageRef": "images/30f358fd0fdbc03e1a3b363a4c4637a2c1766c19.png",
+    "fileName": "30f358fd0fdbc03e1a3b363a4c4637a2c1766c19.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "925CC1AA-430E-4503-B184-A9C0C64AA08F",
+        "class": "bitmap",
+        "name": "health-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Health / health-iOS-Dark",
+        "frame": {
+          "x": 3740,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/30f358fd0fdbc03e1a3b363a4c4637a2c1766c19.png"
+  },
+  {
+    "imageRef": "images/30fdec39fd0d1cf752ac72b774eaf94972d745f4.png",
+    "fileName": "30fdec39fd0d1cf752ac72b774eaf94972d745f4.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "6CA7CDF1-F79E-4A43-88AD-F15A53B108F6",
+        "class": "bitmap",
+        "name": "facetime-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/FaceTime / facetime-iOS-Default",
+        "frame": {
+          "x": 3260,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/30fdec39fd0d1cf752ac72b774eaf94972d745f4.png"
+  },
+  {
+    "imageRef": "images/3386b06444f8f3d10e9b6de19a2e201e7bd232cb.png",
+    "fileName": "3386b06444f8f3d10e9b6de19a2e201e7bd232cb.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "E757B299-53D0-478A-8D4F-A121EF42541B",
+        "class": "bitmap",
+        "name": "news-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/News / news-iOS-ClearLight",
+        "frame": {
+          "x": 4460,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3386b06444f8f3d10e9b6de19a2e201e7bd232cb.png"
+  },
+  {
+    "imageRef": "images/352223ab382997b2a4e827cc984e6498e4049a18.png",
+    "fileName": "352223ab382997b2a4e827cc984e6498e4049a18.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "0844B944-4803-4307-BD59-30BF70B42D13",
+        "class": "bitmap",
+        "name": "Time Picker Wheel",
+        "pageName": "􂬁 Pickers",
+        "path": "Date and Time Pickers/Wheel/Dark/Time Picker / Time Picker Wheel",
+        "frame": {
+          "x": 1427.496153846154,
+          "y": 1991,
+          "width": 297,
+          "height": 216
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/352223ab382997b2a4e827cc984e6498e4049a18.png"
+  },
+  {
+    "imageRef": "images/3756d4b132726061a4241e9e238d20b5e3f63759.png",
+    "fileName": "3756d4b132726061a4241e9e238d20b5e3f63759.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "921506DB-B128-4FB2-A225-5BC907F9525D",
+        "class": "bitmap",
+        "name": "numbers-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Numbers / numbers-iOS-ClearLight",
+        "frame": {
+          "x": 4620,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3756d4b132726061a4241e9e238d20b5e3f63759.png"
+  },
+  {
+    "imageRef": "images/3867091827beaabd0c7764cac027d183f6400e78.png",
+    "fileName": "3867091827beaabd0c7764cac027d183f6400e78.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "20961F65-459D-4280-A58D-A1DD64E11D65",
+        "class": "bitmap",
+        "name": "phone-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Phone / phone-iOS-Dark",
+        "frame": {
+          "x": 4700,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3867091827beaabd0c7764cac027d183f6400e78.png"
+  },
+  {
+    "imageRef": "images/3a231c574fcb6ccf60932c8b32f6787240b9da91.png",
+    "fileName": "3a231c574fcb6ccf60932c8b32f6787240b9da91.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "9D2F0ED2-0F14-4121-8875-BAD32A4DC82D",
+        "class": "bitmap",
+        "name": "preview-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Preview / preview-iOS-Default",
+        "frame": {
+          "x": 5100,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3a231c574fcb6ccf60932c8b32f6787240b9da91.png"
+  },
+  {
+    "imageRef": "images/3a6600dc9ead95a979fc5e77bda00123368b656c.png",
+    "fileName": "3a6600dc9ead95a979fc5e77bda00123368b656c.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "9BB8E128-8626-4050-BA63-8BB50A23C091",
+        "class": "bitmap",
+        "name": "maps-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Maps / maps-iOS-Dark",
+        "frame": {
+          "x": 4140,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3a6600dc9ead95a979fc5e77bda00123368b656c.png"
+  },
+  {
+    "imageRef": "images/3a84838ea85239936a128e0e23dee4b6118e9446.png",
+    "fileName": "3a84838ea85239936a128e0e23dee4b6118e9446.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "A40EACCF-9182-44AA-BBA1-7E06BCD497F4",
+        "class": "bitmap",
+        "name": "pages-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Pages / pages-iOS-Dark",
+        "frame": {
+          "x": 4780,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3a84838ea85239936a128e0e23dee4b6118e9446.png"
+  },
+  {
+    "imageRef": "images/3b272f4913d26d911584c658597f2f47e258296a.png",
+    "fileName": "3b272f4913d26d911584c658597f2f47e258296a.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "CF0E33B6-1335-42C6-86BC-91B88C51C40A",
+        "class": "bitmap",
+        "name": "appstore-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/App Store / appstore-iOS-ClearLight",
+        "frame": {
+          "x": 2700,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3b272f4913d26d911584c658597f2f47e258296a.png"
+  },
+  {
+    "imageRef": "images/3da5690e0c6f4b9a5d2adad07eeb07c8a9b96acd.png",
+    "fileName": "3da5690e0c6f4b9a5d2adad07eeb07c8a9b96acd.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "D7970053-8E6A-444C-8487-DE0210738DAC",
+        "class": "bitmap",
+        "name": "keynote-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Keynote / keynote-iOS-Default",
+        "frame": {
+          "x": 3980,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/3da5690e0c6f4b9a5d2adad07eeb07c8a9b96acd.png"
+  },
+  {
+    "imageRef": "images/407dede455232a319869edb9b38779739d35c186.png",
+    "fileName": "407dede455232a319869edb9b38779739d35c186.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "37C5F48D-60A0-4B45-803B-FA8784E681B9",
+        "class": "bitmap",
+        "name": "messages-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Messages / messages-iOS-Dark",
+        "frame": {
+          "x": 4300,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/407dede455232a319869edb9b38779739d35c186.png"
+  },
+  {
+    "imageRef": "images/43f243be5e3f3229231150866025c975dd8fb837.png",
+    "fileName": "43f243be5e3f3229231150866025c975dd8fb837.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "778A2DE6-947C-4D25-A222-D2CBC1936647",
+        "class": "bitmap",
+        "name": "music-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Music / music-iOS-ClearLight",
+        "frame": {
+          "x": 4380,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/43f243be5e3f3229231150866025c975dd8fb837.png"
+  },
+  {
+    "imageRef": "images/44dfe0d8ccfdf20e1a6f73e04d25d8029b3bf99b.png",
+    "fileName": "44dfe0d8ccfdf20e1a6f73e04d25d8029b3bf99b.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "BC2C1A95-B669-41A9-AA49-09C8036961AD",
+        "class": "bitmap",
+        "name": "health-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Health / health-iOS-ClearLight",
+        "frame": {
+          "x": 3740,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/44dfe0d8ccfdf20e1a6f73e04d25d8029b3bf99b.png"
+  },
+  {
+    "imageRef": "images/458fe1d1f4737e1295a3d3013f420493323467fe.png",
+    "fileName": "458fe1d1f4737e1295a3d3013f420493323467fe.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "255D7CAF-78D1-49BF-93E7-D5269D8D9992",
+        "class": "bitmap",
+        "name": "translate-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Translate / translate-iOS-Dark",
+        "frame": {
+          "x": 5580,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/458fe1d1f4737e1295a3d3013f420493323467fe.png"
+  },
+  {
+    "imageRef": "images/4866973b4aa12af00d6560f22a9d7b3276cc7195.png",
+    "fileName": "4866973b4aa12af00d6560f22a9d7b3276cc7195.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "05A1D19D-0481-4CCF-9997-C6D3F834ACF7",
+        "class": "bitmap",
+        "name": "games-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Games / games-iOS-ClearLight",
+        "frame": {
+          "x": 3660,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/4866973b4aa12af00d6560f22a9d7b3276cc7195.png"
+  },
+  {
+    "imageRef": "images/4c696e4550900b7729b6da1c841e021c68e89fb2.png",
+    "fileName": "4c696e4550900b7729b6da1c841e021c68e89fb2.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "0AE1A8F9-1DD2-4BAD-B437-B3BE48362C09",
+        "class": "bitmap",
+        "name": "weather-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Weather / weather-iOS-ClearLight",
+        "frame": {
+          "x": 5980,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/4c696e4550900b7729b6da1c841e021c68e89fb2.png"
+  },
+  {
+    "imageRef": "images/4cb776cca578e6de74c09abbb1aa9a66f804b1a4.png",
+    "fileName": "4cb776cca578e6de74c09abbb1aa9a66f804b1a4.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "5DF8882C-1EE6-4796-B76B-34AF6D918EF4",
+        "class": "bitmap",
+        "name": "settings-iOS-Defaultb",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Settings / settings-iOS-Defaultb",
+        "frame": {
+          "x": 5420,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/4cb776cca578e6de74c09abbb1aa9a66f804b1a4.png"
+  },
+  {
+    "imageRef": "images/4ebfd85af38092d9996312f84e7dbbc654def865.png",
+    "fileName": "4ebfd85af38092d9996312f84e7dbbc654def865.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "1AD7F614-83DA-4E2B-814F-6215F20CA6A9",
+        "class": "bitmap",
+        "name": "numbers-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Numbers / numbers-iOS-Dark",
+        "frame": {
+          "x": 4620,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/4ebfd85af38092d9996312f84e7dbbc654def865.png"
+  },
+  {
+    "imageRef": "images/50f04482099abfc94ff3dfc3d1d714166edfe62d.png",
+    "fileName": "50f04482099abfc94ff3dfc3d1d714166edfe62d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "13EB6E1E-4CA5-4B15-B2AA-2C82C66DCA3E",
+        "class": "bitmap",
+        "name": "maps-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Maps / maps-iOS-Default",
+        "frame": {
+          "x": 4140,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/50f04482099abfc94ff3dfc3d1d714166edfe62d.png"
+  },
+  {
+    "imageRef": "images/5201c61b7dba7c3286e14c30cc6a2ad60dae3be6.png",
+    "fileName": "5201c61b7dba7c3286e14c30cc6a2ad60dae3be6.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "98DF49BE-6498-4CEA-BFEA-59296AD4BADB",
+        "class": "bitmap",
+        "name": "maps-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Maps / maps-iOS-ClearLight",
+        "frame": {
+          "x": 4140,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/5201c61b7dba7c3286e14c30cc6a2ad60dae3be6.png"
+  },
+  {
+    "imageRef": "images/5360c67b37d25191420193c038421fb50f5a9658.png",
+    "fileName": "5360c67b37d25191420193c038421fb50f5a9658.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "C5A934D6-72E1-47AB-BB41-DEDDF77986FD",
+        "class": "bitmap",
+        "name": "home-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Home / home-iOS-Dark",
+        "frame": {
+          "x": 3820,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/5360c67b37d25191420193c038421fb50f5a9658.png"
+  },
+  {
+    "imageRef": "images/54a0288cdd7db55c01ef3e4f927486b75d565d16.png",
+    "fileName": "54a0288cdd7db55c01ef3e4f927486b75d565d16.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "531AFFAE-9AD1-47D3-8E9E-75D11AD91E5D",
+        "class": "bitmap",
+        "name": "numbers-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Numbers / numbers-iOS-Default",
+        "frame": {
+          "x": 4620,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/54a0288cdd7db55c01ef3e4f927486b75d565d16.png"
+  },
+  {
+    "imageRef": "images/55067b61f65d8754f125f338870401ab9a1b6465.png",
+    "fileName": "55067b61f65d8754f125f338870401ab9a1b6465.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "F66A25B7-0A37-4AD6-BC6D-217CA81DA281",
+        "class": "bitmap",
+        "name": "phone-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Phone / phone-iOS-Default",
+        "frame": {
+          "x": 4700,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/55067b61f65d8754f125f338870401ab9a1b6465.png"
+  },
+  {
+    "imageRef": "images/556c9bf6296da84b4e92acef23fc21e668fa9b85.png",
+    "fileName": "556c9bf6296da84b4e92acef23fc21e668fa9b85.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "4913150C-9D0F-44B0-8484-EC224EC7112B",
+        "class": "bitmap",
+        "name": "calendar-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Calendar / calendar-iOS-ClearLight",
+        "frame": {
+          "x": 2940,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/556c9bf6296da84b4e92acef23fc21e668fa9b85.png"
+  },
+  {
+    "imageRef": "images/56cc322be940f6208179448481db1895473199b9.png",
+    "fileName": "56cc322be940f6208179448481db1895473199b9.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "279270E5-9752-4E37-811A-CA46EC38C935",
+        "class": "bitmap",
+        "name": "measure-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Measure / measure-iOS-ClearLight",
+        "frame": {
+          "x": 4220,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/56cc322be940f6208179448481db1895473199b9.png"
+  },
+  {
+    "imageRef": "images/580ed7ced1ff3de3dd4b500248139e819bd9585c.png",
+    "fileName": "580ed7ced1ff3de3dd4b500248139e819bd9585c.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "6A3276A6-1143-4E57-90E5-D29FC4C7E79E",
+        "class": "bitmap",
+        "name": "tv-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/TV / tv-iOS-Dark",
+        "frame": {
+          "x": 5660,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/580ed7ced1ff3de3dd4b500248139e819bd9585c.png"
+  },
+  {
+    "imageRef": "images/5a34a80d20329d70e02e611a322f89597fa40f95.png",
+    "fileName": "5a34a80d20329d70e02e611a322f89597fa40f95.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "A057C565-BAFE-40FE-A2D3-9B03109EC990",
+        "class": "bitmap",
+        "name": "camera-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Camera / camera-iOS-ClearLight",
+        "frame": {
+          "x": 3020,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/5a34a80d20329d70e02e611a322f89597fa40f95.png"
+  },
+  {
+    "imageRef": "images/5c8f273ef36a746fac5350768903785370620e3c.png",
+    "fileName": "5c8f273ef36a746fac5350768903785370620e3c.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "08CCFB29-69C9-4364-8F67-9E51A15C45E1",
+        "class": "bitmap",
+        "name": "itunesstore-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/iTunes Store / itunesstore-iOS-Default",
+        "frame": {
+          "x": 3900,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/5c8f273ef36a746fac5350768903785370620e3c.png"
+  },
+  {
+    "imageRef": "images/5db9024c98385ab3de2123718e59a318c6152bca.png",
+    "fileName": "5db9024c98385ab3de2123718e59a318c6152bca.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "1217CF78-7762-4C0D-B104-2712075EC669",
+        "class": "bitmap",
+        "name": "airdrop-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Airdrop / airdrop-iOS-Default",
+        "frame": {
+          "x": 6060,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/5db9024c98385ab3de2123718e59a318c6152bca.png"
+  },
+  {
+    "imageRef": "images/606c725dfd271b4e4ef81363d8bcdc9d7ba6ebb9.png",
+    "fileName": "606c725dfd271b4e4ef81363d8bcdc9d7ba6ebb9.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "5BDE76AC-5357-49E3-A2AF-41C0532C5308",
+        "class": "bitmap",
+        "name": "calendar-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Calendar / calendar-iOS-Default",
+        "frame": {
+          "x": 2940,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/606c725dfd271b4e4ef81363d8bcdc9d7ba6ebb9.png"
+  },
+  {
+    "imageRef": "images/613a431c9ff5d79726124273e8c3bf828d54b200.png",
+    "fileName": "613a431c9ff5d79726124273e8c3bf828d54b200.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "B8740078-D149-4F36-A7DE-01E11CFA552C",
+        "class": "bitmap",
+        "name": "calculator-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Calculator / calculator-iOS-ClearLight",
+        "frame": {
+          "x": 2860,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/613a431c9ff5d79726124273e8c3bf828d54b200.png"
+  },
+  {
+    "imageRef": "images/6147004807050ab8e4e5ca0dd4adddce5d3ba3d9.png",
+    "fileName": "6147004807050ab8e4e5ca0dd4adddce5d3ba3d9.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "798DF014-4E8B-443A-A665-E837B2AFA686",
+        "class": "bitmap",
+        "name": "fitness-macOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Fitness / fitness-macOS-Dark",
+        "frame": {
+          "x": 3500,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6147004807050ab8e4e5ca0dd4adddce5d3ba3d9.png"
+  },
+  {
+    "imageRef": "images/617878852afe2ae1821778f33c194a35cbc00629.png",
+    "fileName": "617878852afe2ae1821778f33c194a35cbc00629.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "EB862EE5-9618-420E-938A-41D8648F078A",
+        "class": "bitmap",
+        "name": "safari-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Safari / safari-iOS-Default",
+        "frame": {
+          "x": 5260,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/617878852afe2ae1821778f33c194a35cbc00629.png"
+  },
+  {
+    "imageRef": "images/61a1b4c2e212f15f3cec6ab33b8bcf0db25c01be.png",
+    "fileName": "61a1b4c2e212f15f3cec6ab33b8bcf0db25c01be.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "C3A4BCB9-5377-420A-B85B-651EA7F50708",
+        "class": "bitmap",
+        "name": "passwords-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Passwords / passwords-iOS-Dark",
+        "frame": {
+          "x": 4860,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/61a1b4c2e212f15f3cec6ab33b8bcf0db25c01be.png"
+  },
+  {
+    "imageRef": "images/640aa1db1678fa42eb5c9004fc30b8b8387a2834.png",
+    "fileName": "640aa1db1678fa42eb5c9004fc30b8b8387a2834.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "F49DD4B1-BBBC-49BA-AB48-3C2B14350FF9",
+        "class": "bitmap",
+        "name": "books-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Books / books-iOS-Default",
+        "frame": {
+          "x": 2780,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/640aa1db1678fa42eb5c9004fc30b8b8387a2834.png"
+  },
+  {
+    "imageRef": "images/66e1d75d43ea0809e6d6026ee1673e5a156c2c4f.png",
+    "fileName": "66e1d75d43ea0809e6d6026ee1673e5a156c2c4f.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "1EEB80DA-F325-4EB5-A6AB-1CC99C344BF2",
+        "class": "bitmap",
+        "name": "contacts-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Contacts / contacts-iOS-Default",
+        "frame": {
+          "x": 3180,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/66e1d75d43ea0809e6d6026ee1673e5a156c2c4f.png"
+  },
+  {
+    "imageRef": "images/6a320b891e94642bb016942631022ec47e0e1512.png",
+    "fileName": "6a320b891e94642bb016942631022ec47e0e1512.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "849CE0E6-0F40-4C93-BFAF-B3B342948757",
+        "class": "bitmap",
+        "name": "podcasts-macOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Podcasts / podcasts-macOS-Default",
+        "frame": {
+          "x": 5020,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6a320b891e94642bb016942631022ec47e0e1512.png"
+  },
+  {
+    "imageRef": "images/6ad0ef4732415972a116cd29346f9c236e46daa6.png",
+    "fileName": "6ad0ef4732415972a116cd29346f9c236e46daa6.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "1EE76C6C-C387-4F63-B63E-8DE9A5B4529E",
+        "class": "bitmap",
+        "name": "reminders-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Reminders / reminders-iOS-Dark",
+        "frame": {
+          "x": 5180,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6ad0ef4732415972a116cd29346f9c236e46daa6.png"
+  },
+  {
+    "imageRef": "images/6bf0043e54d3ef169f68f98186272e437d66a46d.png",
+    "fileName": "6bf0043e54d3ef169f68f98186272e437d66a46d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "45A21E73-5CF2-429A-A989-2E648F8AF3E9",
+        "class": "bitmap",
+        "name": "settings-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Settings / settings-iOS-ClearLight",
+        "frame": {
+          "x": 5420,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6bf0043e54d3ef169f68f98186272e437d66a46d.png"
+  },
+  {
+    "imageRef": "images/6c5af4f45aa9ebdd9cd4101d5407d37901d219e7.png",
+    "fileName": "6c5af4f45aa9ebdd9cd4101d5407d37901d219e7.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "60A10763-D744-425C-9B82-988A417774E1",
+        "class": "bitmap",
+        "name": "notes-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Notes / notes-iOS-Default",
+        "frame": {
+          "x": 4540,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6c5af4f45aa9ebdd9cd4101d5407d37901d219e7.png"
+  },
+  {
+    "imageRef": "images/6e0cb3eeb812280a97f044d6dd933377a933c54b.png",
+    "fileName": "6e0cb3eeb812280a97f044d6dd933377a933c54b.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "E7631373-E94D-420E-94DF-779AD45E7FDD",
+        "class": "bitmap",
+        "name": "facetime-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/FaceTime / facetime-iOS-Dark",
+        "frame": {
+          "x": 3260,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6e0cb3eeb812280a97f044d6dd933377a933c54b.png"
+  },
+  {
+    "imageRef": "images/6f3cd14e5cb5a3e3ce52f94987aad147884ddca1.png",
+    "fileName": "6f3cd14e5cb5a3e3ce52f94987aad147884ddca1.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "F695D5FA-AF17-4187-9100-34FC3A3AB2AA",
+        "class": "bitmap",
+        "name": "fitness-macOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Fitness / fitness-macOS-ClearLight",
+        "frame": {
+          "x": 3500,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6f3cd14e5cb5a3e3ce52f94987aad147884ddca1.png"
+  },
+  {
+    "imageRef": "images/6ff31a5aa2db1b3e1c5461581d40dbf88f3f33f6.png",
+    "fileName": "6ff31a5aa2db1b3e1c5461581d40dbf88f3f33f6.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "A758BA9A-9514-4F08-9D4E-E8F7AA0BB694",
+        "class": "bitmap",
+        "name": "home-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Home / home-iOS-ClearLight",
+        "frame": {
+          "x": 3820,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/6ff31a5aa2db1b3e1c5461581d40dbf88f3f33f6.png"
+  },
+  {
+    "imageRef": "images/75392b6b75f9c50b3329a954f73271d4d53c7488.png",
+    "fileName": "75392b6b75f9c50b3329a954f73271d4d53c7488.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "02AB3775-5F6A-455B-89FD-E3012D5B2EC4",
+        "class": "bitmap",
+        "name": "placeholder-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Custom / placeholder-iOS-Default",
+        "frame": {
+          "x": 6150,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/75392b6b75f9c50b3329a954f73271d4d53c7488.png"
+  },
+  {
+    "imageRef": "images/783f15bea5b49dd67507874dcca05393bb14fe76.png",
+    "fileName": "783f15bea5b49dd67507874dcca05393bb14fe76.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "1E503D30-20FB-47CE-B3EE-A3D3B4329680",
+        "class": "bitmap",
+        "name": "safari-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Safari / safari-iOS-ClearLight",
+        "frame": {
+          "x": 5260,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/783f15bea5b49dd67507874dcca05393bb14fe76.png"
+  },
+  {
+    "imageRef": "images/7902b195406a770b5a377dd08cfdf553224d6a03.png",
+    "fileName": "7902b195406a770b5a377dd08cfdf553224d6a03.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "34B93175-3378-4E83-A39D-D4CD16764442",
+        "class": "bitmap",
+        "name": "tv-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/TV / tv-iOS-Default",
+        "frame": {
+          "x": 5660,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/7902b195406a770b5a377dd08cfdf553224d6a03.png"
+  },
+  {
+    "imageRef": "images/7ea22452fa56b753f26ea77eacd1150a872d14bc.png",
+    "fileName": "7ea22452fa56b753f26ea77eacd1150a872d14bc.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "02F3F208-7F35-4FE7-9BC4-C8FFBF74E9B5",
+        "class": "bitmap",
+        "name": "files-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Files / files-iOS-Default",
+        "frame": {
+          "x": 3340,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/7ea22452fa56b753f26ea77eacd1150a872d14bc.png"
+  },
+  {
+    "imageRef": "images/82d01f4f644448febf8583ec85725744f98d09cb.png",
+    "fileName": "82d01f4f644448febf8583ec85725744f98d09cb.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "EC7B6C28-F186-4855-8415-9C4A543166E0",
+        "class": "bitmap",
+        "name": "freeform-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Freeform / freeform-iOS-ClearLight",
+        "frame": {
+          "x": 3580,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/82d01f4f644448febf8583ec85725744f98d09cb.png"
+  },
+  {
+    "imageRef": "images/8459e1f2fbf1e4311b1c517eac1e19ff6a77b660.png",
+    "fileName": "8459e1f2fbf1e4311b1c517eac1e19ff6a77b660.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "9229A824-5ABF-4FEB-9A9F-E53C94E0D715",
+        "class": "symbolMaster",
+        "name": "Wallpapers/Dark/iPhone",
+        "pageName": "􀟞 System",
+        "path": "Wallpapers/Dark/iPhone",
+        "frame": {
+          "x": 21100,
+          "y": 0,
+          "width": 402,
+          "height": 874
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/8459e1f2fbf1e4311b1c517eac1e19ff6a77b660.png"
+  },
+  {
+    "imageRef": "images/86298e6acabcd7f81569c115da325cfb605271c4.png",
+    "fileName": "86298e6acabcd7f81569c115da325cfb605271c4.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "F2FD5D32-0790-4458-AB8A-5E913BF4573D",
+        "class": "bitmap",
+        "name": "podcasts-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Podcasts / podcasts-iOS-Dark",
+        "frame": {
+          "x": 5020,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/86298e6acabcd7f81569c115da325cfb605271c4.png"
+  },
+  {
+    "imageRef": "images/87e4fdfc18d97832cc9bdfdaa43098405ecbabf0.png",
+    "fileName": "87e4fdfc18d97832cc9bdfdaa43098405ecbabf0.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "BB7706F1-1E3C-4194-B227-1D5D0AF4A1A2",
+        "class": "bitmap",
+        "name": "photos-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Photos / photos-iOS-Default",
+        "frame": {
+          "x": 4940,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/87e4fdfc18d97832cc9bdfdaa43098405ecbabf0.png"
+  },
+  {
+    "imageRef": "images/8865a1d8414d2dd8fcd6bdcb3d2121e9b6d0255a.png",
+    "fileName": "8865a1d8414d2dd8fcd6bdcb3d2121e9b6d0255a.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "E4C04CC8-7285-4D82-9217-9EC07B4F73B7",
+        "class": "bitmap",
+        "name": "calendar-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Calendar / calendar-iOS-Dark",
+        "frame": {
+          "x": 2940,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/8865a1d8414d2dd8fcd6bdcb3d2121e9b6d0255a.png"
+  },
+  {
+    "imageRef": "images/8a7aa13f0d36b6cbd9bbf5e238429b9dc4736a40.png",
+    "fileName": "8a7aa13f0d36b6cbd9bbf5e238429b9dc4736a40.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "D8F16B76-836F-42E7-B577-108CA2C87C59",
+        "class": "bitmap",
+        "name": "airdrop-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Airdrop / airdrop-iOS-ClearLight",
+        "frame": {
+          "x": 6060,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/8a7aa13f0d36b6cbd9bbf5e238429b9dc4736a40.png"
+  },
+  {
+    "imageRef": "images/8bb44c4b123791dc3f5ba4de3efb3bd478d2a5e8.png",
+    "fileName": "8bb44c4b123791dc3f5ba4de3efb3bd478d2a5e8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "65D29258-EA2B-4CD2-AC32-12CF96A7EBC6",
+        "class": "bitmap",
+        "name": "fitness-macOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Fitness / fitness-macOS-Default",
+        "frame": {
+          "x": 3500,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/8bb44c4b123791dc3f5ba4de3efb3bd478d2a5e8.png"
+  },
+  {
+    "imageRef": "images/8d046f6d96e727711e835bde5f193df0e0b6e9d6.png",
+    "fileName": "8d046f6d96e727711e835bde5f193df0e0b6e9d6.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "4A640454-09C6-4FCB-A4DC-B2ABE54D65DF",
+        "class": "symbolMaster",
+        "name": "Wallpapers/Dark/iPad Pro M4 11",
+        "pageName": "􀟞 System",
+        "path": "Wallpapers/Dark/iPad Pro M4 11",
+        "frame": {
+          "x": 20550,
+          "y": 5042,
+          "width": 1210,
+          "height": 834
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/8d046f6d96e727711e835bde5f193df0e0b6e9d6.png"
+  },
+  {
+    "imageRef": "images/8f1dc85a6259358fc0dacaa18935cb2fd83825ce.png",
+    "fileName": "8f1dc85a6259358fc0dacaa18935cb2fd83825ce.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "660EA818-399B-4913-B142-0D906541F658",
+        "class": "bitmap",
+        "name": "health-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Health / health-iOS-Default",
+        "frame": {
+          "x": 3740,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/8f1dc85a6259358fc0dacaa18935cb2fd83825ce.png"
+  },
+  {
+    "imageRef": "images/8fcf066d24f7301a15dd74f23e8e728d585d1b29.png",
+    "fileName": "8fcf066d24f7301a15dd74f23e8e728d585d1b29.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "D76AF09B-B31A-4FCD-BD92-8A3D0C7A6FAE",
+        "class": "bitmap",
+        "name": "books-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Books / books-iOS-Dark",
+        "frame": {
+          "x": 2780,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/8fcf066d24f7301a15dd74f23e8e728d585d1b29.png"
+  },
+  {
+    "imageRef": "images/90a84724c7c47c1a572f428025c0e42404106614.png",
+    "fileName": "90a84724c7c47c1a572f428025c0e42404106614.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "4CF28BE4-1BC4-4EC4-AC41-32EAB0700C77",
+        "class": "bitmap",
+        "name": "photos-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Photos / photos-iOS-Dark",
+        "frame": {
+          "x": 4940,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/90a84724c7c47c1a572f428025c0e42404106614.png"
+  },
+  {
+    "imageRef": "images/923f6cf456f3889d713d4c69239ff7aadda9943b.png",
+    "fileName": "923f6cf456f3889d713d4c69239ff7aadda9943b.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "580495C0-004E-40A2-BFC2-655A1FF5DA6A",
+        "class": "bitmap",
+        "name": "voicememos-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Voice Memos / voicememos-iOS-Dark",
+        "frame": {
+          "x": 5740,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/923f6cf456f3889d713d4c69239ff7aadda9943b.png"
+  },
+  {
+    "imageRef": "images/94630c93bb88b225d6325a23b65d0d9c8cb0c7ab.png",
+    "fileName": "94630c93bb88b225d6325a23b65d0d9c8cb0c7ab.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "84696793-0836-4788-9EC1-78A46DC1CB98",
+        "class": "bitmap",
+        "name": "stocks-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Stocks / stocks-iOS-Default",
+        "frame": {
+          "x": 5500,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/94630c93bb88b225d6325a23b65d0d9c8cb0c7ab.png"
+  },
+  {
+    "imageRef": "images/9541cf62c2f2014f383df29fbef2f64f3f5ea2e8.png",
+    "fileName": "9541cf62c2f2014f383df29fbef2f64f3f5ea2e8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "DAC03E30-EA79-42EB-B04D-476EB283DEB7",
+        "class": "bitmap",
+        "name": "itunesstore-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/iTunes Store / itunesstore-iOS-Dark",
+        "frame": {
+          "x": 3900,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/9541cf62c2f2014f383df29fbef2f64f3f5ea2e8.png"
+  },
+  {
+    "imageRef": "images/989277243ab3a85c2d69121ae90a12a6abcd81b7.png",
+    "fileName": "989277243ab3a85c2d69121ae90a12a6abcd81b7.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "830E462D-7DC7-418C-9B60-412BFE8985BB",
+        "class": "bitmap",
+        "name": "voicememos-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Voice Memos / voicememos-iOS-ClearLight",
+        "frame": {
+          "x": 5740,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/989277243ab3a85c2d69121ae90a12a6abcd81b7.png"
+  },
+  {
+    "imageRef": "images/99f881c623970765a24420359057b19a479eb18b.png",
+    "fileName": "99f881c623970765a24420359057b19a479eb18b.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "5A49D8B1-DA7E-4F5C-8185-AFCC6580A824",
+        "class": "bitmap",
+        "name": "photos-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Photos / photos-iOS-ClearLight",
+        "frame": {
+          "x": 4940,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/99f881c623970765a24420359057b19a479eb18b.png"
+  },
+  {
+    "imageRef": "images/a4da79793b268bdcd758e4e33a4979bbd83b5a4c.png",
+    "fileName": "a4da79793b268bdcd758e4e33a4979bbd83b5a4c.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "471B5280-40D2-4E4A-B799-DB05AF215132",
+        "class": "bitmap",
+        "name": "mail-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Mail / mail-iOS-Dark",
+        "frame": {
+          "x": 4060,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a4da79793b268bdcd758e4e33a4979bbd83b5a4c.png"
+  },
+  {
+    "imageRef": "images/a63bc55915ea56cacc109914354e3690783c37ac.png",
+    "fileName": "a63bc55915ea56cacc109914354e3690783c37ac.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "FC84ECF9-8157-4CE0-95E1-7C444D3E2AF9",
+        "class": "bitmap",
+        "name": "camera-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Camera / camera-iOS-Default",
+        "frame": {
+          "x": 3020,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a63bc55915ea56cacc109914354e3690783c37ac.png"
+  },
+  {
+    "imageRef": "images/a8244f5c7c783c7495448a16279412dc1ca3d46f.png",
+    "fileName": "a8244f5c7c783c7495448a16279412dc1ca3d46f.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "A038523F-548B-4A45-8AB3-D7601228A72B",
+        "class": "bitmap",
+        "name": "settings-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Settings / settings-iOS-Dark",
+        "frame": {
+          "x": 5420,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a8244f5c7c783c7495448a16279412dc1ca3d46f.png"
+  },
+  {
+    "imageRef": "images/a853a11bc50d974fd22a3643d588f17a0927bd47.png",
+    "fileName": "a853a11bc50d974fd22a3643d588f17a0927bd47.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "E989D414-44EC-462D-9E3C-217723D78FF0",
+        "class": "bitmap",
+        "name": "files-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Files / files-iOS-Dark",
+        "frame": {
+          "x": 3340,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a853a11bc50d974fd22a3643d588f17a0927bd47.png"
+  },
+  {
+    "imageRef": "images/a8d1dde8cb106376e9ec406dc83d5f9b2103abdb.png",
+    "fileName": "a8d1dde8cb106376e9ec406dc83d5f9b2103abdb.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "DF3CDEEB-D35D-4967-BFA0-196B5B1025F7",
+        "class": "bitmap",
+        "name": "files-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Files / files-iOS-ClearLight",
+        "frame": {
+          "x": 3340,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a8d1dde8cb106376e9ec406dc83d5f9b2103abdb.png"
+  },
+  {
+    "imageRef": "images/a945605ce4a5fd184ed66ce9fbee5083a323a027.png",
+    "fileName": "a945605ce4a5fd184ed66ce9fbee5083a323a027.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "EA7C3687-8F54-4D96-9DE3-01165F9C7E71",
+        "class": "bitmap",
+        "name": "calculator-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Calculator / calculator-iOS-Default",
+        "frame": {
+          "x": 2860,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/a945605ce4a5fd184ed66ce9fbee5083a323a027.png"
+  },
+  {
+    "imageRef": "images/abce3264fd31e684a321e96cd65f001495beed75.png",
+    "fileName": "abce3264fd31e684a321e96cd65f001495beed75.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "70F7C457-A796-4D47-888E-75C4F8467101",
+        "class": "bitmap",
+        "name": "placeholder-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Custom / placeholder-iOS-ClearLight",
+        "frame": {
+          "x": 6150,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/abce3264fd31e684a321e96cd65f001495beed75.png"
+  },
+  {
+    "imageRef": "images/ae06a5648d65c6e1b81b63c17e3668c20607847b.png",
+    "fileName": "ae06a5648d65c6e1b81b63c17e3668c20607847b.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "78874611-C7B0-4912-85CC-92357CA79B89",
+        "class": "bitmap",
+        "name": "freeform-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Freeform / freeform-iOS-Dark",
+        "frame": {
+          "x": 3580,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/ae06a5648d65c6e1b81b63c17e3668c20607847b.png"
+  },
+  {
+    "imageRef": "images/aef5ffbd78f4f772fc535aa54b8e9bc6cf65017f.png",
+    "fileName": "aef5ffbd78f4f772fc535aa54b8e9bc6cf65017f.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "2B1C12F2-3C0A-4EC3-893A-DB63B19A70C0",
+        "class": "bitmap",
+        "name": "translate-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Translate / translate-iOS-ClearLight",
+        "frame": {
+          "x": 5580,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/aef5ffbd78f4f772fc535aa54b8e9bc6cf65017f.png"
+  },
+  {
+    "imageRef": "images/b0c1f377da8e63bb1357acdcb9d14ca364f893c1.png",
+    "fileName": "b0c1f377da8e63bb1357acdcb9d14ca364f893c1.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "306B236E-D00F-493C-954A-1179C23D061C",
+        "class": "bitmap",
+        "name": "watch.companion-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Watch / watch.companion-iOS-Dark",
+        "frame": {
+          "x": 5900,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b0c1f377da8e63bb1357acdcb9d14ca364f893c1.png"
+  },
+  {
+    "imageRef": "images/b13feaae9916ba039216b848b09b5b9c08fd322d.png",
+    "fileName": "b13feaae9916ba039216b848b09b5b9c08fd322d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "85729B9D-C10B-47C6-ADFA-D9A3279D39BC",
+        "class": "bitmap",
+        "name": "notes-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Notes / notes-iOS-ClearLight",
+        "frame": {
+          "x": 4540,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b13feaae9916ba039216b848b09b5b9c08fd322d.png"
+  },
+  {
+    "imageRef": "images/b30cbd47935f013b9f387edbb1bdefc3163d36bf.png",
+    "fileName": "b30cbd47935f013b9f387edbb1bdefc3163d36bf.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "DD1ABC28-C143-42F8-94F5-62E2E2A7D0CF",
+        "class": "bitmap",
+        "name": "camera-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Camera / camera-iOS-Dark",
+        "frame": {
+          "x": 3020,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b30cbd47935f013b9f387edbb1bdefc3163d36bf.png"
+  },
+  {
+    "imageRef": "images/b32d914fee75dd802acd9e370d402b927728441d.png",
+    "fileName": "b32d914fee75dd802acd9e370d402b927728441d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "9D5A73B5-6D8D-4529-A0E3-AA8827683714",
+        "class": "bitmap",
+        "name": "watch.companion-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Watch / watch.companion-iOS-ClearLight",
+        "frame": {
+          "x": 5900,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b32d914fee75dd802acd9e370d402b927728441d.png"
+  },
+  {
+    "imageRef": "images/b42df5149a4df638f9cc98609d8193740fedae7a.png",
+    "fileName": "b42df5149a4df638f9cc98609d8193740fedae7a.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "80389AA8-AB12-4586-9C56-ED987E03D454",
+        "class": "bitmap",
+        "name": "contacts-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Contacts / contacts-iOS-ClearLight",
+        "frame": {
+          "x": 3180,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b42df5149a4df638f9cc98609d8193740fedae7a.png"
+  },
+  {
+    "imageRef": "images/b4c7e69867cb5ab935933e17e56538e3674a6e82.png",
+    "fileName": "b4c7e69867cb5ab935933e17e56538e3674a6e82.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "5BAB3E3A-F838-4FDD-9F90-E5720D726725",
+        "class": "bitmap",
+        "name": "Messages-Light-60x60@3x",
+        "pageName": "􀈂 Activity Views",
+        "path": "Activity View/􀻃/Dark/Person / App Icon / App Icon / Messages-Light-60x60@3x",
+        "frame": {
+          "x": 493.2432297297288,
+          "y": 3044,
+          "width": 20,
+          "height": 20
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b4c7e69867cb5ab935933e17e56538e3674a6e82.png"
+  },
+  {
+    "imageRef": "images/b8b1f1d31f4163e4c9a14c9f8fb732ab88e82c4d.png",
+    "fileName": "b8b1f1d31f4163e4c9a14c9f8fb732ab88e82c4d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "0AC3BCB7-E675-4DE4-B4AB-175BA404B1BB",
+        "class": "bitmap",
+        "name": "appstore-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/App Store / appstore-iOS-Default",
+        "frame": {
+          "x": 2700,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b8b1f1d31f4163e4c9a14c9f8fb732ab88e82c4d.png"
+  },
+  {
+    "imageRef": "images/b8d163afed461215b913a6eb65c8c2b0dd1289a8.png",
+    "fileName": "b8d163afed461215b913a6eb65c8c2b0dd1289a8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "AE63501E-BFA3-42AD-BB31-EB271EB8EC37",
+        "class": "bitmap",
+        "name": "podcasts-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Podcasts / podcasts-iOS-ClearLight",
+        "frame": {
+          "x": 5020,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/b8d163afed461215b913a6eb65c8c2b0dd1289a8.png"
+  },
+  {
+    "imageRef": "images/bd953151af9c1b7ce477962002f947e1870fca92.png",
+    "fileName": "bd953151af9c1b7ce477962002f947e1870fca92.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "CC887737-F70B-4892-AD4D-6AE44848E8A8",
+        "class": "bitmap",
+        "name": "findmy-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Find My / findmy-iOS-Dark",
+        "frame": {
+          "x": 3420,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/bd953151af9c1b7ce477962002f947e1870fca92.png"
+  },
+  {
+    "imageRef": "images/c397f2d695d5412923aded2787037b80d5086d7e.png",
+    "fileName": "c397f2d695d5412923aded2787037b80d5086d7e.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "4987B1B0-7585-4695-A232-BD78079C016D",
+        "class": "bitmap",
+        "name": "music-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Music / music-iOS-Default",
+        "frame": {
+          "x": 4380,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c397f2d695d5412923aded2787037b80d5086d7e.png"
+  },
+  {
+    "imageRef": "images/c3f0f53852e0fc70578944dc31b9de23c927c1e8.png",
+    "fileName": "c3f0f53852e0fc70578944dc31b9de23c927c1e8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "626A2B14-AA53-43FB-B31C-70AF93B71B5B",
+        "class": "bitmap",
+        "name": "weather-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Weather / weather-iOS-Default",
+        "frame": {
+          "x": 5980,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c3f0f53852e0fc70578944dc31b9de23c927c1e8.png"
+  },
+  {
+    "imageRef": "images/c745938828b751788630f60bcefe20c0789725ee.png",
+    "fileName": "c745938828b751788630f60bcefe20c0789725ee.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "4BB0CE09-E56E-4AFA-96DF-4D23F25A8080",
+        "class": "bitmap",
+        "name": "voicememos-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Voice Memos / voicememos-iOS-Default",
+        "frame": {
+          "x": 5740,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c745938828b751788630f60bcefe20c0789725ee.png"
+  },
+  {
+    "imageRef": "images/c7edf5d13a518e5c208b6e5ae91d0fb0518eb925.png",
+    "fileName": "c7edf5d13a518e5c208b6e5ae91d0fb0518eb925.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "95F0E8CE-CD6C-4545-AD06-1376B2E56134",
+        "class": "bitmap",
+        "name": "books-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Books / books-iOS-ClearLight",
+        "frame": {
+          "x": 2780,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c7edf5d13a518e5c208b6e5ae91d0fb0518eb925.png"
+  },
+  {
+    "imageRef": "images/c80fb58d9804b011fecc47fac869b92f9bae708f.png",
+    "fileName": "c80fb58d9804b011fecc47fac869b92f9bae708f.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "F4B36B64-3374-4186-A89E-71A8753F311C",
+        "class": "bitmap",
+        "name": "mail-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Mail / mail-iOS-Default",
+        "frame": {
+          "x": 4060,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c80fb58d9804b011fecc47fac869b92f9bae708f.png"
+  },
+  {
+    "imageRef": "images/c8bee91fe61e8df09158f5e870d6a6b3b33a0c98.png",
+    "fileName": "c8bee91fe61e8df09158f5e870d6a6b3b33a0c98.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "A0338D81-3100-4AE1-B9C2-8F9941C29CCB",
+        "class": "group",
+        "name": "Frame",
+        "pageName": "􀈂 Activity Views",
+        "path": "Activity View/􀻃/Person - Photo - Double / Frame",
+        "frame": {
+          "x": 139,
+          "y": 3179,
+          "width": 22,
+          "height": 22
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c8bee91fe61e8df09158f5e870d6a6b3b33a0c98.png"
+  },
+  {
+    "imageRef": "images/c9cbfceee70866d3a9febd3d58ddecf0296446ee.png",
+    "fileName": "c9cbfceee70866d3a9febd3d58ddecf0296446ee.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "4F7BB42E-7DC6-45D1-B54C-3CBBE541998C",
+        "class": "symbolMaster",
+        "name": "Wallpapers/Light/iPhone",
+        "pageName": "􀟞 System",
+        "path": "Wallpapers/Light/iPhone",
+        "frame": {
+          "x": 20650,
+          "y": 0,
+          "width": 402,
+          "height": 874
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c9cbfceee70866d3a9febd3d58ddecf0296446ee.png"
+  },
+  {
+    "imageRef": "images/c9eda6609ac48bc4ab5cf259c276423b7abf6eaa.png",
+    "fileName": "c9eda6609ac48bc4ab5cf259c276423b7abf6eaa.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "B2E371DF-4ABB-44CD-8508-0BAF2021FD38",
+        "class": "bitmap",
+        "name": "safari-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Safari / safari-iOS-Dark",
+        "frame": {
+          "x": 5260,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/c9eda6609ac48bc4ab5cf259c276423b7abf6eaa.png"
+  },
+  {
+    "imageRef": "images/cb31d72b6d609f8f9b1ec935ca958a4918965d8a.png",
+    "fileName": "cb31d72b6d609f8f9b1ec935ca958a4918965d8a.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "1BD2E6E1-0999-4340-B469-CFE4F03B5DB4",
+        "class": "bitmap",
+        "name": "notes-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Notes / notes-iOS-Dark",
+        "frame": {
+          "x": 4540,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/cb31d72b6d609f8f9b1ec935ca958a4918965d8a.png"
+  },
+  {
+    "imageRef": "images/d16cc40be4716f52c614bb35be2327c9fd941797.png",
+    "fileName": "d16cc40be4716f52c614bb35be2327c9fd941797.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "FF0C083A-795F-4984-9CA0-9A7A1D535A5F",
+        "class": "bitmap",
+        "name": "mail-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Mail / mail-iOS-ClearLight",
+        "frame": {
+          "x": 4060,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/d16cc40be4716f52c614bb35be2327c9fd941797.png"
+  },
+  {
+    "imageRef": "images/d1ba5afd3b9713bb35493b4e0704ab189eb9a459.png",
+    "fileName": "d1ba5afd3b9713bb35493b4e0704ab189eb9a459.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "AAA3908C-1993-4646-A60E-27BBCCF68560",
+        "class": "bitmap",
+        "name": "freeform-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Freeform / freeform-iOS-Default",
+        "frame": {
+          "x": 3580,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/d1ba5afd3b9713bb35493b4e0704ab189eb9a459.png"
+  },
+  {
+    "imageRef": "images/d2f3d495e1c07cb24b663c72cc36cb141cc039fb.png",
+    "fileName": "d2f3d495e1c07cb24b663c72cc36cb141cc039fb.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "642308DD-E8C3-4698-AF5F-B0301C0222CE",
+        "class": "bitmap",
+        "name": "pages-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Pages / pages-iOS-ClearLight",
+        "frame": {
+          "x": 4780,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/d2f3d495e1c07cb24b663c72cc36cb141cc039fb.png"
+  },
+  {
+    "imageRef": "images/d383c9b9828829ff45c1d38a77494335fa0375b5.png",
+    "fileName": "d383c9b9828829ff45c1d38a77494335fa0375b5.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "C546DB7C-E7D3-41F6-BC4B-D861B2436E42",
+        "class": "bitmap",
+        "name": "shortcuts-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Shortcuts / shortcuts-iOS-Default",
+        "frame": {
+          "x": 5340,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/d383c9b9828829ff45c1d38a77494335fa0375b5.png"
+  },
+  {
+    "imageRef": "images/dc55f18985e887f244682bf14d5fb25bfc128961.png",
+    "fileName": "dc55f18985e887f244682bf14d5fb25bfc128961.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "28AD0679-21FC-4192-9CAC-C3967DA8EAAA",
+        "class": "bitmap",
+        "name": "wallet-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Wallet / wallet-iOS-Dark",
+        "frame": {
+          "x": 5820,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/dc55f18985e887f244682bf14d5fb25bfc128961.png"
+  },
+  {
+    "imageRef": "images/dd4c0cea1a2d3ea0b2a377a28fad1abb059f8aa7.png",
+    "fileName": "dd4c0cea1a2d3ea0b2a377a28fad1abb059f8aa7.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "47F39CD9-FA31-4DF9-9672-FEAB9AE2DA37",
+        "class": "symbolMaster",
+        "name": "Wallpapers/Light/iPad Pro M4 11",
+        "pageName": "􀟞 System",
+        "path": "Wallpapers/Light/iPad Pro M4 11",
+        "frame": {
+          "x": 20550,
+          "y": 4000,
+          "width": 1210,
+          "height": 834
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/dd4c0cea1a2d3ea0b2a377a28fad1abb059f8aa7.png"
+  },
+  {
+    "imageRef": "images/df40418957ff4456f62fb7d4984f0934fb79dce8.png",
+    "fileName": "df40418957ff4456f62fb7d4984f0934fb79dce8.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "3B41B406-8ECC-47A5-A728-DAE36A44AD87",
+        "class": "bitmap",
+        "name": "phone-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Phone / phone-iOS-ClearLight",
+        "frame": {
+          "x": 4700,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/df40418957ff4456f62fb7d4984f0934fb79dce8.png"
+  },
+  {
+    "imageRef": "images/e0255ff03bec9f78bad8d35983240a9da1ba686d.png",
+    "fileName": "e0255ff03bec9f78bad8d35983240a9da1ba686d.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "A190B9F8-D4F3-47D4-8C3A-CE35909A2E6D",
+        "class": "group",
+        "name": "Album Artwork",
+        "pageName": "􀟞 System",
+        "path": "System/Control Center/Dark/iPhone / Controls / 2x2 - Now Playing / Album Artwork",
+        "frame": {
+          "x": 672,
+          "y": 146,
+          "width": 52,
+          "height": 52
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/e0255ff03bec9f78bad8d35983240a9da1ba686d.png"
+  },
+  {
+    "imageRef": "images/ebbf9ea3387eb1ebf10d88a23ffd3dc93df222c7.png",
+    "fileName": "ebbf9ea3387eb1ebf10d88a23ffd3dc93df222c7.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "E6B9330E-0686-48D0-A5B3-1F3800F51A2B",
+        "class": "bitmap",
+        "name": "clock-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Clock / clock-iOS-Default",
+        "frame": {
+          "x": 3100,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/ebbf9ea3387eb1ebf10d88a23ffd3dc93df222c7.png"
+  },
+  {
+    "imageRef": "images/ee09d2f806063c5364e438f0ba3620f50183079a.png",
+    "fileName": "ee09d2f806063c5364e438f0ba3620f50183079a.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "6D57CEC7-1A86-4D77-B2CA-9A1D88319CC7",
+        "class": "bitmap",
+        "name": "shortcuts-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Shortcuts / shortcuts-iOS-Dark",
+        "frame": {
+          "x": 5340,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/ee09d2f806063c5364e438f0ba3620f50183079a.png"
+  },
+  {
+    "imageRef": "images/ef3a186ea39d6eb1dbb6e8f928727f9e29f473d2.png",
+    "fileName": "ef3a186ea39d6eb1dbb6e8f928727f9e29f473d2.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "B83FAB9E-BF15-4948-8F39-45476FE3D559",
+        "class": "bitmap",
+        "name": "calculator-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Calculator / calculator-iOS-Dark",
+        "frame": {
+          "x": 2860,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/ef3a186ea39d6eb1dbb6e8f928727f9e29f473d2.png"
+  },
+  {
+    "imageRef": "images/f6ae9cd4f154f987f7c11d12ce7ea52030d34e31.png",
+    "fileName": "f6ae9cd4f154f987f7c11d12ce7ea52030d34e31.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "434E8DB2-FF06-4410-A508-84C5BBF95C8E",
+        "class": "bitmap",
+        "name": "messages-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Messages / messages-iOS-Default",
+        "frame": {
+          "x": 4300,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/f6ae9cd4f154f987f7c11d12ce7ea52030d34e31.png"
+  },
+  {
+    "imageRef": "images/f7a93d119747e20e58ae43a8f63aea0a74807910.png",
+    "fileName": "f7a93d119747e20e58ae43a8f63aea0a74807910.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "21C07702-9143-49E3-8733-E23E39581CBE",
+        "class": "bitmap",
+        "name": "wallet-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Wallet / wallet-iOS-ClearLight",
+        "frame": {
+          "x": 5820,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/f7a93d119747e20e58ae43a8f63aea0a74807910.png"
+  },
+  {
+    "imageRef": "images/fb84d28364654263bc575ca9a30bb008e6e41354.png",
+    "fileName": "fb84d28364654263bc575ca9a30bb008e6e41354.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "8A379E93-FF77-4DC1-A8AC-6F59675A832B",
+        "class": "bitmap",
+        "name": "shortcuts-iOS-ClearLight",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Light Clear/Shortcuts / shortcuts-iOS-ClearLight",
+        "frame": {
+          "x": 5340,
+          "y": 2558,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/fb84d28364654263bc575ca9a30bb008e6e41354.png"
+  },
+  {
+    "imageRef": "images/fcb4ff76fb2332afe547deee59a6b9d4c773bce9.png",
+    "fileName": "fcb4ff76fb2332afe547deee59a6b9d4c773bce9.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "5FEF6BAD-E230-4E45-8AA4-E8740A72021C",
+        "class": "bitmap",
+        "name": "measure-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Measure / measure-iOS-Dark",
+        "frame": {
+          "x": 4220,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/fcb4ff76fb2332afe547deee59a6b9d4c773bce9.png"
+  },
+  {
+    "imageRef": "images/fd0b2aee63c0bfd8b74be686eb62720ade994d73.png",
+    "fileName": "fd0b2aee63c0bfd8b74be686eb62720ade994d73.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "69A4D38C-2165-407F-8908-066A3904FD16",
+        "class": "bitmap",
+        "name": "pages-iOS-Default",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Default/Pages / pages-iOS-Default",
+        "frame": {
+          "x": 4780,
+          "y": 2378,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/fd0b2aee63c0bfd8b74be686eb62720ade994d73.png"
+  },
+  {
+    "imageRef": "images/fdd47ae1e34852e710931c293d80daa4e82050d0.png",
+    "fileName": "fdd47ae1e34852e710931c293d80daa4e82050d0.png",
+    "extension": ".png",
+    "inArchive": true,
+    "usageCount": 1,
+    "usages": [
+      {
+        "id": "FEB45349-270B-4C67-8892-D04C6E8D6562",
+        "class": "bitmap",
+        "name": "keynote-iOS-Dark",
+        "pageName": "􀟞 System",
+        "path": "App Icons/Artwork/Dark/Keynote / keynote-iOS-Dark",
+        "frame": {
+          "x": 3980,
+          "y": 2468,
+          "width": 66,
+          "height": 66
+        }
+      }
+    ],
+    "url": "/apple-kit/sketch/images/fdd47ae1e34852e710931c293d80daa4e82050d0.png"
+  }
+]

@@ -17,20 +17,21 @@ export function HeroSection({ hero, ctas, isDarkMode }) {
   const { lang } = useLanguage();
   return (
     <section className="relative z-10 flex min-h-screen w-full items-center justify-center overflow-x-hidden pt-12 pb-20 sm:pt-16 md:pt-20 md:pb-24 lg:pt-20 lg:pb-32">
+      <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(127,178,255,0.16),transparent_30%),linear-gradient(180deg,rgba(255,255,255,0.92),rgba(245,248,255,0.72)_55%,rgba(239,244,255,0.98))] transition-colors duration-500 dark:bg-[radial-gradient(circle_at_top,rgba(72,116,197,0.22),transparent_28%),linear-gradient(180deg,rgba(2,6,14,0.96),rgba(3,8,18,0.92)_55%,rgba(2,5,12,1))]" />
       <div className="pointer-events-none absolute bottom-0 left-0 z-0 h-64 w-full bg-gradient-to-b from-transparent to-white transition-colors duration-500 dark:to-black" />
-      
-<div className="absolute inset-0 -z-10 flex items-center justify-center opacity-90 dark:opacity-40 overflow-hidden mix-blend-normal dark:mix-blend-screen">   
+
+      <div className="absolute inset-0 -z-10 flex items-center justify-center overflow-hidden opacity-90 mix-blend-normal dark:opacity-40 dark:mix-blend-screen">
         <div className="pointer-events-none h-[650px] w-[650px] md:h-[1000px] md:w-[1000px]">
           <Globe
             dark={isDarkMode ? 1 : 0}
             baseColor={isDarkMode ? [0.4, 0.65, 1] : [1, 1, 1]}
-            glowColor={isDarkMode ? [0.27, 0.57, 0.9] : [1, 1, 1]}        
+            glowColor={isDarkMode ? [0.27, 0.57, 0.9] : [1, 1, 1]}
           />
         </div>
       </div>
 
       <div className="pointer-events-none container relative z-10 mx-auto max-w-7xl px-4 sm:px-6">
-        <div className="pointer-events-auto grid grid-cols-1 items-center gap-10 lg:grid-cols-2 lg:gap-8">
+        <div className="pointer-events-auto grid grid-cols-1 items-center gap-10 lg:grid-cols-2 lg:gap-10">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -57,7 +58,7 @@ export function HeroSection({ hero, ctas, isDarkMode }) {
               </BreadcrumbList>
             </Breadcrumb>
 
-            <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-blue-200 bg-blue-100 px-3 py-1 text-sm font-medium text-blue-700 dark:border-blue-500/20 dark:bg-blue-500/10 dark:text-blue-400">
+            <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-blue-200/80 bg-white/75 px-3 py-1 text-sm font-medium text-blue-700 shadow-[0_10px_30px_rgba(86,124,199,0.14)] backdrop-blur-md dark:border-blue-500/20 dark:bg-blue-500/10 dark:text-blue-400">
               <span className="relative flex h-2 w-2">
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-blue-400 opacity-75" />
                 <span className="relative inline-flex h-2 w-2 rounded-full bg-blue-500" />
@@ -66,7 +67,7 @@ export function HeroSection({ hero, ctas, isDarkMode }) {
             </div>
 
             <h1 className="mb-6 text-4xl font-black leading-[1.05] tracking-tighter text-neutral-900 dark:text-white sm:text-5xl md:text-6xl lg:text-7xl">
-              <span className="bg-gradient-to-r from-neutral-900 to-neutral-500 bg-clip-text text-transparent dark:from-white dark:to-white/50">
+              <span className="bg-gradient-to-r from-slate-950 via-slate-800 to-slate-500 bg-clip-text text-transparent dark:from-white dark:via-white dark:to-white/50">
                 {hero.title}
               </span>
             </h1>
@@ -74,6 +75,17 @@ export function HeroSection({ hero, ctas, isDarkMode }) {
             <p className="mb-8 max-w-xl text-base leading-relaxed text-neutral-600 dark:text-white/60 sm:mb-10 sm:text-lg md:text-xl">
               {hero.lead}
             </p>
+
+            <div className="mb-8 flex flex-wrap items-center justify-center gap-3 lg:justify-start">
+              <div className="rounded-2xl border border-black/6 bg-white/70 px-4 py-3 text-left shadow-[0_24px_60px_rgba(15,23,42,0.08)] backdrop-blur-xl dark:border-white/8 dark:bg-white/[0.04]">
+                <div className="text-[11px] font-semibold uppercase tracking-[0.24em] text-neutral-500 dark:text-white/38">
+                  Source
+                </div>
+                <div className="mt-1 text-sm font-semibold text-neutral-900 dark:text-white">
+                  Apple iOS 26 UI Kit
+                </div>
+              </div>
+            </div>
 
             <div className="flex w-full flex-col items-stretch gap-4 sm:w-auto sm:flex-row sm:items-center">
               <a href={ctas.primary.href} className="w-full overflow-visible sm:w-auto" style={{ position: "relative", zIndex: 50 }}>
@@ -103,7 +115,7 @@ export function HeroSection({ hero, ctas, isDarkMode }) {
                   initial={{ opacity: 0, y: 10 }}
                   animate={{ opacity: 1, y: 0 }}
                   transition={{ delay: 0.5 + index * 0.1 }}
-                  className="flex flex-col gap-1 rounded-2xl border border-black/5 bg-white/40 px-4 py-4 text-left backdrop-blur-md dark:border-white/8 dark:bg-white/[0.03]"
+                  className="flex flex-col gap-1 rounded-2xl border border-black/5 bg-white/55 px-4 py-4 text-left shadow-[0_24px_70px_rgba(15,23,42,0.07)] backdrop-blur-md dark:border-white/8 dark:bg-white/[0.03]"
                 >
                   <span className="text-xs font-medium uppercase tracking-[0.18em] text-neutral-500 dark:text-white/40">
                     {signal.kicker}
@@ -118,9 +130,8 @@ export function HeroSection({ hero, ctas, isDarkMode }) {
             initial={{ opacity: 0, scale: 0.9 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 1, delay: 0.2, ease: "easeOut" }}
-            className="relative order-last flex w-full justify-center lg:absolute lg:right-0 lg:top-1/2 lg:w-1/2 lg:-translate-y-1/2 lg:translate-x-[15%] lg:justify-end"
+            className="relative order-last flex w-full justify-center lg:absolute lg:right-0 lg:top-1/2 lg:w-1/2 lg:-translate-y-1/2 lg:translate-x-[12%] lg:justify-end"
           >
-            <div className="absolute inset-x-[10%] top-1/2 h-[65%] -translate-y-1/2 rounded-full bg-blue-500/20 blur-[120px] lg:inset-auto lg:right-0 lg:top-0 lg:h-full lg:w-full lg:translate-x-24 lg:translate-y-0" />
             <div className="relative w-full max-w-[340px] sm:max-w-[420px] lg:max-w-none">
               <PhoneStage slides={hero.slides} />
             </div>
